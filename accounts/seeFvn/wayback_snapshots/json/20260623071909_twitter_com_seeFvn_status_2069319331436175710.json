@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069319331436175710",
+    "created_at": "2026-06-23T07:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069319331436175710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themaniachan/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/themaniachan/status/2069061478448329198",
+          "start": 45,
+          "url": "https://t.co/Q3bdN8IP3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069319331436175710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069061478448329198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并不是阿普鼻吸只是低效口服 如果真的要的话建议舌下\n（仅个人经历分享，正常剂量医师指导） https://t.co/Q3bdN8IP3d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069319331436175710",
+        "created_at": "2026-06-23T07:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069319331436175710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themaniachan/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/themaniachan/status/2069061478448329198",
+              "start": 45,
+              "url": "https://t.co/Q3bdN8IP3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069319331436175710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069061478448329198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不是阿普鼻吸只是低效口服 如果真的要的话建议舌下\n（仅个人经历分享，正常剂量医师指导） https://t.co/Q3bdN8IP3d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2069061478448329198",
+        "created_at": "2026-06-22T14:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069061478448329198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069061478448329198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2866,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普，居然能鼻吸吗...！我之前过的什么苦日子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 737,
+          "like_count": 4662,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 189,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

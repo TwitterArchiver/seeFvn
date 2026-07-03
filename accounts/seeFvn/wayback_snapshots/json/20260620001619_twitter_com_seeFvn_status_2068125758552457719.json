@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068125758552457719",
+    "created_at": "2026-06-20T00:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068125758552457719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/seefvn/status/2068123810780557426",
+          "start": 36,
+          "url": "https://t.co/CeQbggdyL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068125758552457719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068123810780557426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后因为太苦就秘密咖啡因饮料喝起来 其实我因为惊恐了… 继续抽烟准备中 https://t.co/CeQbggdyL3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068125758552457719",
+        "created_at": "2026-06-20T00:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068125758552457719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/seefvn/status/2068123810780557426",
+              "start": 36,
+              "url": "https://t.co/CeQbggdyL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068125758552457719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068123810780557426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后因为太苦就秘密咖啡因饮料喝起来 其实我因为惊恐了… 继续抽烟准备中 https://t.co/CeQbggdyL3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068123810780557426",
+        "created_at": "2026-06-20T00:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068123810780557426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068123810780557426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑0.2mg 含服（正常医疗用法）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 710,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1558
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

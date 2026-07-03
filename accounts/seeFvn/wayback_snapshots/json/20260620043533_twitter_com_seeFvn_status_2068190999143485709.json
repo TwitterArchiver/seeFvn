@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068190988997455872"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068190999143485709",
+    "created_at": "2026-06-20T04:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068190999143485709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Df9jGwjKH",
+          "end": 23,
+          "expanded_url": "https://x.com/seeFvn/status/2068190999143485709/photo/1",
+          "media_key": "3_2068190988997455872",
+          "start": 0,
+          "url": "https://t.co/6Df9jGwjKH"
+        },
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/seefvn/status/2068189315268796553",
+          "start": 24,
+          "url": "https://t.co/nY0g5JenkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068190999143485709",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068189315268796553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/6Df9jGwjKH https://t.co/nY0g5JenkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2068190988997455872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOwvyrbcAAtrFn.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068189305080864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOvNxmbYAAfo0L.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068190988997455872"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068190999143485709",
+        "created_at": "2026-06-20T04:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068190999143485709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Df9jGwjKH",
+              "end": 23,
+              "expanded_url": "https://x.com/seeFvn/status/2068190999143485709/photo/1",
+              "media_key": "3_2068190988997455872",
+              "start": 0,
+              "url": "https://t.co/6Df9jGwjKH"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/seefvn/status/2068189315268796553",
+              "start": 24,
+              "url": "https://t.co/nY0g5JenkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068190999143485709",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068189315268796553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/6Df9jGwjKH https://t.co/nY0g5JenkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068189305080864768"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068189315268796553",
+        "created_at": "2026-06-20T04:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068189315268796553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvcvaNCOZh",
+              "end": 28,
+              "expanded_url": "https://x.com/seeFvn/status/2068189315268796553/photo/1",
+              "media_key": "3_2068189305080864768",
+              "start": 5,
+              "url": "https://t.co/bvcvaNCOZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068189315268796553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认证了！ https://t.co/bvcvaNCOZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 710,
+          "like_count": 4595,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1561
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}
