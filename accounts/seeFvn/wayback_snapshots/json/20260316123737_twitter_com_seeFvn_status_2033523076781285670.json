@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033211155364360192"
+      ],
+      "media_source_tweet_id": [
+        "2033211250201772425"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2033523076781285670",
+    "created_at": "2026-03-16T12:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033523076781285670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KqfhF4UkSZ",
+          "end": 45,
+          "expanded_url": "https://x.com/Dr_Duckter/status/2033211250201772425/photo/1",
+          "media_key": "3_2033211155364360192",
+          "start": 22,
+          "url": "https://t.co/KqfhF4UkSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033523076781285670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033211250201772425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: 有无大手子 https://t.co/KqfhF4UkSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2033211155364360192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdqxfzasAACqBL.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033211155364360192"
+          ],
+          "media_source_tweet_id": [
+            "2033211250201772425"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2033523076781285670",
+        "created_at": "2026-03-16T12:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033523076781285670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqfhF4UkSZ",
+              "end": 45,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2033211250201772425/photo/1",
+              "media_key": "3_2033211155364360192",
+              "start": 22,
+              "url": "https://t.co/KqfhF4UkSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033523076781285670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033211250201772425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: 有无大手子 https://t.co/KqfhF4UkSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033211155364360192"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2033211250201772425",
+        "created_at": "2026-03-15T15:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033211250201772425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqfhF4UkSZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2033211250201772425/photo/1",
+              "media_key": "3_2033211155364360192",
+              "start": 6,
+              "url": "https://t.co/KqfhF4UkSZ"
+            },
+            {
+              "display_url": "x.com/QTC23323/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/QTC23323/status/2033203245481611285",
+              "start": 30,
+              "url": "https://t.co/6Pi5LoQkes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033211250201772425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9668,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033203245481611285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有无大手子 https://t.co/KqfhF4UkSZ https://t.co/6Pi5LoQkes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 408,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 979
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  \n\n被B了就是你友链的原因  查成分回关\n\n非互关投稿/中共招安：drduckter@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Drizzy Duckter Duckworth",
+        "pinned_tweet_id": "2031719015266259050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030633431898664960/b4zzbh_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 1064,
+          "like_count": 17422,
+          "listed_count": 20,
+          "media_count": 384,
+          "tweet_count": 2342
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055810993217798144"
+      ],
+      "media_source_tweet_id": [
+        "2055981910954811759"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056355695554113609",
+    "created_at": "2026-05-18T12:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056355695554113609"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "联合国教科文组织"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "全纳教育"
+        },
+        {
+          "end": 113,
+          "start": 105,
+          "tag": "国际不再恐同日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "不让任何一个学生掉队",
+          "display_url": "unesco.org/zh/inclusion-e…",
+          "end": 103,
+          "expanded_url": "https://www.unesco.org/zh/inclusion-education",
+          "start": 80,
+          "status": 200,
+          "title": "教育中的包容性",
+          "unwound_url": "https://www.unesco.org/zh/inclusion-education",
+          "url": "https://t.co/CBnk4OE3fi"
+        },
+        {
+          "display_url": "pic.x.com/pl11nMVYDn",
+          "end": 137,
+          "expanded_url": "https://x.com/UNESCO_chinese/status/2055981910954811759/video/1",
+          "media_key": "13_2055810993217798144",
+          "start": 114,
+          "url": "https://t.co/pl11nMVYDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056355695554113609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055981910954811759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 钻石耀眼，因为它给每一抹火彩，跳跃的空间。\n\n#联合国教科文组织 倡导教育中的包容性，并以 #全纳教育 促进社会包容➡️https://t.co/CBnk4OE3fi\n\n#国际不再恐同日 https://t.co/pl11nMVYDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 1920,
+        "media_key": "13_2055810993217798144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055810993217798144/img/_HXCxmLSJz5frNfI.jpg",
+        "public_metrics": {
+          "view_count": 830
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055810993217798144/vid/avc1/1080x1920/QRHeuTkrDcLO5E7S.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055810993217798144/vid/avc1/320x568/3HuNFUcONj7Az-zv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055810993217798144/vid/avc1/720x1280/qlmP159lcVRcQ_QO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055810993217798144/vid/avc1/480x852/Vrxtb7CzYaDjympg.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055810993217798144/pl/9-4_INheD4RH3fpz.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055810993217798144"
+          ],
+          "media_source_tweet_id": [
+            "2055981910954811759"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056355695554113609",
+        "created_at": "2026-05-18T12:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056355695554113609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "联合国教科文组织"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "全纳教育"
+            },
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "国际不再恐同日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "不让任何一个学生掉队",
+              "display_url": "unesco.org/zh/inclusion-e…",
+              "end": 103,
+              "expanded_url": "https://www.unesco.org/zh/inclusion-education",
+              "start": 80,
+              "status": 200,
+              "title": "教育中的包容性",
+              "unwound_url": "https://www.unesco.org/zh/inclusion-education",
+              "url": "https://t.co/CBnk4OE3fi"
+            },
+            {
+              "display_url": "pic.x.com/pl11nMVYDn",
+              "end": 137,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2055981910954811759/video/1",
+              "media_key": "13_2055810993217798144",
+              "start": 114,
+              "url": "https://t.co/pl11nMVYDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056355695554113609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055981910954811759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 钻石耀眼，因为它给每一抹火彩，跳跃的空间。\n\n#联合国教科文组织 倡导教育中的包容性，并以 #全纳教育 促进社会包容➡️https://t.co/CBnk4OE3fi\n\n#国际不再恐同日 https://t.co/pl11nMVYDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055810993217798144"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "2055981910954811759",
+        "created_at": "2026-05-17T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055981910954811759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "联合国教科文组织"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "全纳教育"
+            },
+            {
+              "end": 93,
+              "start": 85,
+              "tag": "国际不再恐同日"
+            }
+          ],
+          "urls": [
+            {
+              "description": "不让任何一个学生掉队",
+              "display_url": "unesco.org/zh/inclusion-e…",
+              "end": 83,
+              "expanded_url": "https://www.unesco.org/zh/inclusion-education",
+              "start": 60,
+              "status": 200,
+              "title": "教育中的包容性",
+              "unwound_url": "https://www.unesco.org/zh/inclusion-education",
+              "url": "https://t.co/CBnk4OE3fi"
+            },
+            {
+              "display_url": "pic.x.com/pl11nMVYDn",
+              "end": 117,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2055981910954811759/video/1",
+              "media_key": "13_2055810993217798144",
+              "start": 94,
+              "url": "https://t.co/pl11nMVYDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055981910954811759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4599,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "钻石耀眼，因为它给每一抹火彩，跳跃的空间。\n\n#联合国教科文组织 倡导教育中的包容性，并以 #全纳教育 促进社会包容➡️https://t.co/CBnk4OE3fi\n\n#国际不再恐同日 https://t.co/pl11nMVYDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 571,
+          "like_count": 3726,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1310
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37234,
+          "following_count": 41,
+          "like_count": 492,
+          "listed_count": 119,
+          "media_count": 10837,
+          "tweet_count": 11377
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

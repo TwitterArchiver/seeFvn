@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2010342041683984528",
+    "created_at": "2026-01-11T13:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010342715398275352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito8964"
+        },
+        {
+          "end": 24,
+          "id": "1935705327380410369",
+          "start": 15,
+          "username": "xm101027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010342715398275352",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010342412431061249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito8964 @xm101027 给本公主舔脚就原谅你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2010342041683984528",
+        "created_at": "2026-01-11T13:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010342715398275352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito8964"
+            },
+            {
+              "end": 24,
+              "id": "1935705327380410369",
+              "start": 15,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010342715398275352",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010342412431061249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito8964 @xm101027 给本公主舔脚就原谅你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2010342041683984528",
+        "created_at": "2026-01-11T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010342412431061249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010342412431061249",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010342041683984528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm101027 搞笑，你不回我不就完了，最开始不就是你追着我咬吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "Taiwan",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009995950136389632/SZFvUJO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 373,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 745
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "And after his Oscar winning performance,\nI left the room and never saw him again.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "伏尔泰酒馆🐰🍺",
+        "pinned_tweet_id": "2004884918061723997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985718593019932672/Qmn-SVuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1344,
+          "like_count": 23402,
+          "listed_count": 1,
+          "media_count": 1161,
+          "tweet_count": 15033
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我们应该只有彼此",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008835117246992384/Vrh1e7iZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 16,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 306
+        },
+        "username": "xm101027",
+        "verified": false
+      }
+    ]
+  }
+}

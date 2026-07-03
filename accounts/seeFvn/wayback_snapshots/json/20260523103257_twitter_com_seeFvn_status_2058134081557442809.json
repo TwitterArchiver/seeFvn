@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2058132605061754913",
+    "created_at": "2026-05-23T10:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058134081557442809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052101329250873344",
+          "start": 0,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058134081557442809",
+    "in_reply_to_user_id": "2052101329250873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058132605061754913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_R 可以不用退…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2058132598472519680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0saCbMAApLQs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2058132605061754913",
+        "created_at": "2026-05-23T10:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058134081557442809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052101329250873344",
+              "start": 0,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134081557442809",
+        "in_reply_to_user_id": "2052101329250873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058132605061754913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_R 可以不用退…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058132598472519680"
+          ]
+        },
+        "author_id": "2052101329250873344",
+        "conversation_id": "2058132605061754913",
+        "created_at": "2026-05-23T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058132605061754913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CxjRLcOgb",
+              "end": 41,
+              "expanded_url": "https://x.com/8964_R/status/2058132605061754913/photo/1",
+              "media_key": "3_2058132598472519680",
+              "start": 18,
+              "url": "https://t.co/0CxjRLcOgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058132605061754913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚脑子一热就买了，我在想要不要退 https://t.co/0CxjRLcOgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2057115003447378302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 589,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1356
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 47,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 293
+        },
+        "username": "8964_R",
+        "verified": true
+      }
+    ]
+  }
+}

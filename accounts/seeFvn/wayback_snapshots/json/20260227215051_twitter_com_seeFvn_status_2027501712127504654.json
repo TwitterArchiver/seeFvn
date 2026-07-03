@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2027342325815574844",
+    "created_at": "2026-02-27T21:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T22:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027501712127504654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027501712127504654",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027342325815574844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 不会怎么样 我一直这样的 挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2027342325815574844",
+        "created_at": "2026-02-27T21:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027501712127504654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027501712127504654",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027342325815574844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 不会怎么样 我一直这样的 挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2027342325815574844",
+        "created_at": "2026-02-27T11:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027342325815574844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027342325815574844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞联用右美会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 370,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 898
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我的人生都储存在这个小小的屏幕里面\n当我有天离开后\n起码还这个地方有过我存在的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2027442466060931175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 212,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 280
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

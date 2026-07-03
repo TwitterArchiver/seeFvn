@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2034995272443687403",
+    "created_at": "2026-03-21T09:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035289357805105176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035289357805105176",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034995272443687403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 我觉得不是哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2034995272443687403",
+        "created_at": "2026-03-21T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035289357805105176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035289357805105176",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034995272443687403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 我觉得不是哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2034995272443687403",
+        "created_at": "2026-03-20T14:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034995272443687403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034995272443687403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是骚逼婊子贱货呀 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 429,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1051
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "叹气",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我的坏也照单全收么",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033911178150502400/DsMjMaYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 28,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 593
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

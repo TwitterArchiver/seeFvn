@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072706500418830431",
+    "created_at": "2026-07-02T15:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072706500418830431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1998751032650969088",
+          "start": 3,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072706500418830431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072690919657320827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Sakura233: 纳曲酮（Naltrexone） 是一种阿片受体拮抗剂（opioid antagonist），主用于治疗阿片类药物成瘾和酒精依赖\n  \n 它能阻断阿片受体（μ、δ、κ受体），从而阻断阿片类药物的欣快感和镇静效果\n \n对酒精依赖：可降低饮酒带来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2072690910190841856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOtZrcbMAAgn0N.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072706500418830431",
+        "created_at": "2026-07-02T15:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072706500418830431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1998751032650969088",
+              "start": 3,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706500418830431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072690919657320827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Sakura233: 纳曲酮（Naltrexone） 是一种阿片受体拮抗剂（opioid antagonist），主用于治疗阿片类药物成瘾和酒精依赖\n  \n 它能阻断阿片受体（μ、δ、κ受体），从而阻断阿片类药物的欣快感和镇静效果\n \n对酒精依赖：可降低饮酒带来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072690910190841856"
+          ]
+        },
+        "author_id": "1998751032650969088",
+        "conversation_id": "2072690919657320827",
+        "created_at": "2026-07-02T14:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072690919657320827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OVJCUZx3W",
+              "end": 176,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2072690919657320827/photo/1",
+              "media_key": "3_2072690910190841856",
+              "start": 153,
+              "url": "https://t.co/9OVJCUZx3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072690919657320827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "纳曲酮（Naltrexone） 是一种阿片受体拮抗剂（opioid antagonist），主用于治疗阿片类药物成瘾和酒精依赖\n  \n 它能阻断阿片受体（μ、δ、κ受体），从而阻断阿片类药物的欣快感和镇静效果\n \n对酒精依赖：可降低饮酒带来的快感，减少饮酒量和复发风险（具体机制与阻断内源性阿片肽相关）。 https://t.co/9OVJCUZx3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 719,
+          "like_count": 5813,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 抗うつ | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 94,
+                "expanded_url": "https://jile.bid/",
+                "start": 71,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 408,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

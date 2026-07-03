@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063617215900057699",
+    "created_at": "2026-06-08T05:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063849775435546889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779203068468531200",
+          "start": 0,
+          "username": "LastDinosaur23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849775435546889",
+    "in_reply_to_user_id": "1779203068468531200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063617215900057699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastDinosaur23 他很莫名其妙 我也被 b 了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_2063617199722692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNw6N3bgAAWivO.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063617215900057699",
+        "created_at": "2026-06-08T05:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849775435546889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849775435546889",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063617215900057699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 他很莫名其妙 我也被 b 了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063617199722692608"
+          ]
+        },
+        "author_id": "1779203068468531200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063617215900057699",
+        "created_at": "2026-06-07T13:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063617215900057699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9iDYV6JaQ",
+              "end": 69,
+              "expanded_url": "https://x.com/LastDinosaur23/status/2063617215900057699/photo/1",
+              "media_key": "3_2063617199722692608",
+              "start": 46,
+              "url": "https://t.co/m9iDYV6JaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063617215900057699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 834,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这集神了我这个号一点药滥圈子及衍生梗都没提过怎么被屏蔽的，鸡哥你知道的我一直很尊敬你的😭😭 https://t.co/m9iDYV6JaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 647,
+          "like_count": 4255,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1477
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 324,
+          "like_count": 3096,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 496
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

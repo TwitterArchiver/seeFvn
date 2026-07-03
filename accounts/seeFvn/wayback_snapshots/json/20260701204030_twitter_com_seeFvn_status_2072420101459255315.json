@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072420101459255315",
+    "created_at": "2026-07-01T20:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T21:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072420101459255315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072420101459255315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于苯二氮卓（Bzds)我吃过很多包括但不限于阿普唑仑 艾司唑仑 劳拉西泮 奥沙西泮 地西泮 复方地西泮 地西泮注射液 咪达唑仑注射液（24年精一）ICU 打了很多呃呃） 还有苯巴比妥注射液 Z 药的话就是 唑吡坦 佐匹克隆 右佐匹克隆 ）我后面可以写一个测评？\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于苯二氮卓（Bzds)我吃过很多包括但不限于阿普唑仑 艾司唑仑 劳拉西泮 奥沙西泮 地西泮 复方地西泮 地西泮注射液 咪达唑仑注射液（24年精一）ICU 打了很多呃呃） 还有苯巴比妥注射液 Z 药的话就是 唑吡坦 佐匹克隆 右佐匹克隆 ）我后面可以写一个测评？\n（仅个人经历分享，正常剂量医师指导）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072420101459255315",
+        "created_at": "2026-07-01T20:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072420101459255315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072420101459255315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于苯二氮卓（Bzds)我吃过很多包括但不限于阿普唑仑 艾司唑仑 劳拉西泮 奥沙西泮 地西泮 复方地西泮 地西泮注射液 咪达唑仑注射液（24年精一）ICU 打了很多呃呃） 还有苯巴比妥注射液 Z 药的话就是 唑吡坦 佐匹克隆 右佐匹克隆 ）我后面可以写一个测评？\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于苯二氮卓（Bzds)我吃过很多包括但不限于阿普唑仑 艾司唑仑 劳拉西泮 奥沙西泮 地西泮 复方地西泮 地西泮注射液 咪达唑仑注射液（24年精一）ICU 打了很多呃呃） 还有苯巴比妥注射液 Z 药的话就是 唑吡坦 佐匹克隆 右佐匹克隆 ）我后面可以写一个测评？\n（仅个人经历分享，正常剂量医师指导）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 803,
+          "like_count": 5621,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1775
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

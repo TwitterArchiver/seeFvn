@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2058127388811440138",
+    "created_at": "2026-05-23T10:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058127388811440138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        },
+        {
+          "end": 113,
+          "id": "10228272",
+          "start": 105,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "description": "00:00 - 5.17 不再恐同日开场01:43 - 2015:从高峰到雪崩10:13 - 两个 APP 的不同命运15:18 - 文艺审查与公共驱逐20:15 - 2025:系统性暴力年25:18 - 改开到大倒退:治理逻辑[ 欢迎在Patreon支持世界苦茶 ]Patreon：https://www.pat...",
+          "display_url": "youtu.be/h9xL3SVg7_c?is…",
+          "end": 101,
+          "expanded_url": "https://youtu.be/h9xL3SVg7_c?is=RTMfjTQPVhtdBERv",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］",
+          "unwound_url": "https://www.youtube.com/watch?is=RTMfjTQPVhtdBERv&v=h9xL3SVg7_c&feature=youtu.be",
+          "url": "https://t.co/nLrAr0h0yH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058127388811440138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057891443448877162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 推一下节目，中国的LGBTQ史简述。\n\n从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］ https://t.co/nLrAr0h0yH 来自 @YouTube"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2058127388811440138",
+        "created_at": "2026-05-23T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127388811440138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            },
+            {
+              "end": 113,
+              "id": "10228272",
+              "start": 105,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "00:00 - 5.17 不再恐同日开场01:43 - 2015:从高峰到雪崩10:13 - 两个 APP 的不同命运15:18 - 文艺审查与公共驱逐20:15 - 2025:系统性暴力年25:18 - 改开到大倒退:治理逻辑[ 欢迎在Patreon支持世界苦茶 ]Patreon：https://www.pat...",
+              "display_url": "youtu.be/h9xL3SVg7_c?is…",
+              "end": 101,
+              "expanded_url": "https://youtu.be/h9xL3SVg7_c?is=RTMfjTQPVhtdBERv",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］",
+              "unwound_url": "https://www.youtube.com/watch?is=RTMfjTQPVhtdBERv&v=h9xL3SVg7_c&feature=youtu.be",
+              "url": "https://t.co/nLrAr0h0yH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058127388811440138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057891443448877162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 推一下节目，中国的LGBTQ史简述。\n\n从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］ https://t.co/nLrAr0h0yH 来自 @YouTube"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2057891443448877162",
+        "created_at": "2026-05-22T18:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057891443448877162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "10228272",
+              "start": 84,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "00:00 - 5.17 不再恐同日开场01:43 - 2015:从高峰到雪崩10:13 - 两个 APP 的不同命运15:18 - 文艺审查与公共驱逐20:15 - 2025:系统性暴力年25:18 - 改开到大倒退:治理逻辑[ 欢迎在Patreon支持世界苦茶 ]Patreon：https://www.pat...",
+              "display_url": "youtu.be/h9xL3SVg7_c?is…",
+              "end": 80,
+              "expanded_url": "https://youtu.be/h9xL3SVg7_c?is=RTMfjTQPVhtdBERv",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055856653384491008/S43HwKG-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］",
+              "unwound_url": "https://www.youtube.com/watch?is=RTMfjTQPVhtdBERv&v=h9xL3SVg7_c&feature=youtu.be",
+              "url": "https://t.co/nLrAr0h0yH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057891443448877162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4285,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "推一下节目，中国的LGBTQ史简述。\n\n从李克强接见到郑州人民公园围殴：中国LGBTQ的灭顶十年［ 特别节目 ］ https://t.co/nLrAr0h0yH 来自 @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2057115003447378302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 589,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1355
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n相比情绪，更偏向理性。有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2049764596878024740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5349,
+          "following_count": 266,
+          "like_count": 7535,
+          "listed_count": 38,
+          "media_count": 336,
+          "tweet_count": 4202
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com",
+                "end": 23,
+                "expanded_url": "http://youtube.com/",
+                "start": 0,
+                "url": "https://t.co/GIOK0JwI68"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68615252,
+          "following_count": 1144,
+          "like_count": 6023,
+          "listed_count": 74214,
+          "media_count": 16132,
+          "tweet_count": 61128
+        },
+        "url": "https://t.co/GIOK0JwI68",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

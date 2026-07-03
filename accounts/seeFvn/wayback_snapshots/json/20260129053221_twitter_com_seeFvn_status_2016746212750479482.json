@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2016746212750479482",
+    "created_at": "2026-01-29T05:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016746212750479482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jendnjsnwk4502…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jendnjsnwk45025/status/2016725947270287631",
+          "start": 7,
+          "url": "https://t.co/8cG9JSJVaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016746212750479482",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016725947270287631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "12.11😂 https://t.co/8cG9JSJVaG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2016746212750479482",
+        "created_at": "2026-01-29T05:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016746212750479482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jendnjsnwk4502…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jendnjsnwk45025/status/2016725947270287631",
+              "start": 7,
+              "url": "https://t.co/8cG9JSJVaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016746212750479482",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016725947270287631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12.11😂 https://t.co/8cG9JSJVaG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976707940729139200",
+        "conversation_id": "2016724723473039749",
+        "created_at": "2026-01-29T04:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016725947270287631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016725947270287631",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016724723473039749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 想死就赶紧买瓶百草枯重开,整天od自己有你妈逼意思,你赶紧od个百草枯吧😂😂😂,你整天活着生不如死的也没意思，还不如赶紧去死，知道吗？\n12:11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 372,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 803
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T17:54:39.000Z",
+        "description": "",
+        "id": "1976707940729139200",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994082527250927616/To0H4M3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "jendnjsnwk45025",
+        "verified": false
+      }
+    ]
+  }
+}

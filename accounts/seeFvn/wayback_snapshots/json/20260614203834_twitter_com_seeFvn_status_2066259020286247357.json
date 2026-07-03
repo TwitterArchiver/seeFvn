@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066258937712943104",
+        "3_2066258949326966784",
+        "3_2066258959452000256",
+        "3_2066258969455382528"
+      ],
+      "media_source_tweet_id": [
+        "2066258977906942342",
+        "2066258977906942342",
+        "2066258977906942342",
+        "2066258977906942342"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066259020286247357",
+    "created_at": "2026-06-14T20:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066259020286247357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912063502782812160",
+          "start": 3,
+          "username": "Ekouuuuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sF9teaZqba",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+          "media_key": "3_2066258937712943104",
+          "start": 23,
+          "url": "https://t.co/sF9teaZqba"
+        },
+        {
+          "display_url": "pic.x.com/sF9teaZqba",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+          "media_key": "3_2066258949326966784",
+          "start": 23,
+          "url": "https://t.co/sF9teaZqba"
+        },
+        {
+          "display_url": "pic.x.com/sF9teaZqba",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+          "media_key": "3_2066258959452000256",
+          "start": 23,
+          "url": "https://t.co/sF9teaZqba"
+        },
+        {
+          "display_url": "pic.x.com/sF9teaZqba",
+          "end": 46,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+          "media_key": "3_2066258969455382528",
+          "start": 23,
+          "url": "https://t.co/sF9teaZqba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066259020286247357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066258977906942342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ekouuuuuu: 入得此門不回首 https://t.co/sF9teaZqba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2066258937712943104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzTjmxbIAAeN2D.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066258949326966784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzTkSCbEAAqnXC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2066258959452000256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzTk3wa0AAF8bK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2066258969455382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzTldBaUAA5isa.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066258937712943104",
+            "3_2066258949326966784",
+            "3_2066258959452000256",
+            "3_2066258969455382528"
+          ],
+          "media_source_tweet_id": [
+            "2066258977906942342",
+            "2066258977906942342",
+            "2066258977906942342",
+            "2066258977906942342"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066259020286247357",
+        "created_at": "2026-06-14T20:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066259020286247357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912063502782812160",
+              "start": 3,
+              "username": "Ekouuuuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258937712943104",
+              "start": 23,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258949326966784",
+              "start": 23,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258959452000256",
+              "start": 23,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 46,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258969455382528",
+              "start": 23,
+              "url": "https://t.co/sF9teaZqba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066259020286247357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066258977906942342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ekouuuuuu: 入得此門不回首 https://t.co/sF9teaZqba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066258937712943104",
+            "3_2066258949326966784",
+            "3_2066258959452000256",
+            "3_2066258969455382528"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066258977906942342",
+        "created_at": "2026-06-14T20:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066258977906942342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258937712943104",
+              "start": 8,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258949326966784",
+              "start": 8,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258959452000256",
+              "start": 8,
+              "url": "https://t.co/sF9teaZqba"
+            },
+            {
+              "display_url": "pic.x.com/sF9teaZqba",
+              "end": 31,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2066258977906942342/photo/1",
+              "media_key": "3_2066258969455382528",
+              "start": 8,
+              "url": "https://t.co/sF9teaZqba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066258977906942342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "入得此門不回首 https://t.co/sF9teaZqba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 684,
+          "like_count": 4451,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1522
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖化 學 極 樂‖支畜別他媽來惡心我了‖1/7/2024 DXM事變永遠懷念‖查主頁成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 340,
+          "like_count": 13807,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 3651
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2054792030916911418",
+    "created_at": "2026-05-14T05:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054792030916911418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2053727173895430144",
+          "start": 3,
+          "username": "zylyangnuosxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054792030916911418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054589538090328161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zylyangnuosxh: 我od关你什么事臭健全逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2054792030916911418",
+        "created_at": "2026-05-14T05:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054792030916911418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2053727173895430144",
+              "start": 3,
+              "username": "zylyangnuosxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054792030916911418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054589538090328161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zylyangnuosxh: 我od关你什么事臭健全逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053727173895430144",
+        "conversation_id": "2054589538090328161",
+        "created_at": "2026-05-13T15:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054589538090328161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054589538090328161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我od关你什么事臭健全逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 563,
+          "like_count": 3678,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1279
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T06:43:20.000Z",
+        "description": "前世两个号都被封\nod｜餐券｜重度抑郁重度焦虑｜\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/PjGFp6c8JZ"
+              }
+            ]
+          }
+        },
+        "id": "2053727173895430144",
+        "location": "🚪52纯绿",
+        "name": "可颂🥐(3.0)",
+        "pinned_tweet_id": "2053732777242284339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054048882070540288/CKTsT1-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 125,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/PjGFp6c8JZ",
+        "username": "zylyangnuosxh",
+        "verified": false
+      }
+    ]
+  }
+}

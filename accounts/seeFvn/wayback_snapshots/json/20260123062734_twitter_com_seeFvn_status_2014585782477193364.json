@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014585730685927428"
+      ],
+      "media_source_tweet_id": [
+        "2014585734590808244"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014585782477193364",
+    "created_at": "2026-01-23T06:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014585782477193364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912063502782812160",
+          "start": 3,
+          "username": "Ekouuuuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PWtjO9hbNI",
+          "end": 58,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2014585734590808244/photo/1",
+          "media_key": "3_2014585730685927428",
+          "start": 35,
+          "url": "https://t.co/PWtjO9hbNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014585782477193364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014585734590808244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ekouuuuuu: 一首最好的安排送給我們最敬愛的東北人😘 https://t.co/PWtjO9hbNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2014585730685927428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_U_DF8bAAQ9iep.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014585730685927428"
+          ],
+          "media_source_tweet_id": [
+            "2014585734590808244"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014585782477193364",
+        "created_at": "2026-01-23T06:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014585782477193364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912063502782812160",
+              "start": 3,
+              "username": "Ekouuuuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWtjO9hbNI",
+              "end": 58,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2014585734590808244/photo/1",
+              "media_key": "3_2014585730685927428",
+              "start": 35,
+              "url": "https://t.co/PWtjO9hbNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014585782477193364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014585734590808244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ekouuuuuu: 一首最好的安排送給我們最敬愛的東北人😘 https://t.co/PWtjO9hbNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014585730685927428"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014585734590808244",
+        "created_at": "2026-01-23T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014585734590808244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWtjO9hbNI",
+              "end": 43,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2014585734590808244/photo/1",
+              "media_key": "3_2014585730685927428",
+              "start": 20,
+              "url": "https://t.co/PWtjO9hbNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014585734590808244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一首最好的安排送給我們最敬愛的東北人😘 https://t.co/PWtjO9hbNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "死體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013634090415611905/ZI4SxEcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 376,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 770
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖友LGBT‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6U23",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 80,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 57,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2014018792066535498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 226,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1515
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

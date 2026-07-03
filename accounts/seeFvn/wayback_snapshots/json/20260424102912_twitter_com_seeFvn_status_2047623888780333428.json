@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047623888780333428",
+    "created_at": "2026-04-24T10:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047623888780333428"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047623888780333428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物警告-复方甘草片应尽可能避免和西 柚汁P450 抑制剂等合用可能会增加副作 用如:头晕、恶心、呕吐、呼吸抑制、心 跳减慢等副作用 必要时使用纳洛酮(一种 阿片受体拮抗剂)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047623888780333428",
+        "created_at": "2026-04-24T10:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047623888780333428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047623888780333428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物警告-复方甘草片应尽可能避免和西 柚汁P450 抑制剂等合用可能会增加副作 用如:头晕、恶心、呕吐、呼吸抑制、心 跳减慢等副作用 必要时使用纳洛酮(一种 阿片受体拮抗剂)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 478,
+          "like_count": 3263,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1144
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

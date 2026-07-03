@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053413439398465978",
+    "created_at": "2026-05-10T09:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053413439398465978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/seeFvn/status/2053403051764097473",
+          "start": 109,
+          "url": "https://t.co/FTMD7ctFEp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053413439398465978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053403051764097473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天抑制剂大放送 普瑞巴林 加巴喷丁 巴氯芬 尼古丁 咖啡因 舍曲林 我觉得世界很美丽 我的社交好了很多很多 我可以和谁都轻松聊天 轻微内幻 欣快++ 抑郁--- 后面考虑阿普唑仑0.4mg含服 其实我想试试艾司唑仑 https://t.co/FTMD7ctFEp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2053403036400410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8nLqVa4AA3rT1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053413439398465978",
+        "created_at": "2026-05-10T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053413439398465978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/seeFvn/status/2053403051764097473",
+              "start": 109,
+              "url": "https://t.co/FTMD7ctFEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053413439398465978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053403051764097473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天抑制剂大放送 普瑞巴林 加巴喷丁 巴氯芬 尼古丁 咖啡因 舍曲林 我觉得世界很美丽 我的社交好了很多很多 我可以和谁都轻松聊天 轻微内幻 欣快++ 抑郁--- 后面考虑阿普唑仑0.4mg含服 其实我想试试艾司唑仑 https://t.co/FTMD7ctFEp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053403036400410624"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053403051764097473",
+        "created_at": "2026-05-10T09:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053403051764097473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kbfRc1P7g",
+              "end": 33,
+              "expanded_url": "https://x.com/seeFvn/status/2053403051764097473/photo/1",
+              "media_key": "3_2053403036400410624",
+              "start": 10,
+              "url": "https://t.co/8kbfRc1P7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053403051764097473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药店可以开，，不卖 https://t.co/8kbfRc1P7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 541,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1227
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

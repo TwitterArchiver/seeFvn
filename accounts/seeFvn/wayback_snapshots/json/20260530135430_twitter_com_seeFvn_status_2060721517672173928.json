@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2060558644664828137",
+    "created_at": "2026-05-30T13:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060721517672173928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894777379631099904",
+          "start": 0,
+          "username": "im_Xilin"
+        },
+        {
+          "end": 18,
+          "id": "1226126253893341184",
+          "start": 10,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060721517672173928",
+    "in_reply_to_user_id": "1894777379631099904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060704648542212211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_Xilin @konosuz 如果真的戒的话我觉得不太可能除非可以真的做到一辈子不接触这样的东西后面要么就是换其他的了有些东西真的接触了就是一辈子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2060558644664828137",
+        "created_at": "2026-05-30T13:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060721517672173928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894777379631099904",
+              "start": 0,
+              "username": "im_Xilin"
+            },
+            {
+              "end": 18,
+              "id": "1226126253893341184",
+              "start": 10,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060721517672173928",
+        "in_reply_to_user_id": "1894777379631099904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060704648542212211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_Xilin @konosuz 如果真的戒的话我觉得不太可能除非可以真的做到一辈子不接触这样的东西后面要么就是换其他的了有些东西真的接触了就是一辈子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894777379631099904",
+        "conversation_id": "2060558644664828137",
+        "created_at": "2026-05-30T12:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060704648542212211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            },
+            {
+              "end": 16,
+              "id": "1226126253893341184",
+              "start": 8,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704648542212211",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060703942930243784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn @konosuz 从去年7月份 到5月份之前一直没有磕，这次磕是因为收拾家务 在家里发现了一些剩下的药 被我藏起来的药 然后就没忍住吃掉了，因为虽然说戒掉 但有时候真的是特别特别想吃 想吃到去药店赶紧买这种 但是都忍住了 家里翻出来 结果就没忍住吃掉了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 624,
+          "like_count": 4066,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1407
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T15:52:10.000Z",
+        "description": "@KarrieLamo14649是另一个账号，性别女，les是0哦:)，有抑郁和焦虑，adhd，自伤行为和药物滥用（不频繁）喜欢玩Minecraft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "KarrieLamo14649"
+              }
+            ]
+          }
+        },
+        "id": "1894777379631099904",
+        "location": "萤火服务器",
+        "name": "西林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976269192803618816/gQCYbXvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 118,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 177
+        },
+        "username": "im_Xilin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579858919891128321/LWk3IQDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 292,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1350
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

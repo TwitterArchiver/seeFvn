@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2065462676348879206",
+    "created_at": "2026-06-12T16:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065465605155959206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "wohensad001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065465605155959206",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065462676348879206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohensad001 爸爸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065462676348879206].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065462676348879206",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065462676348879206"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2065462676348879206",
+        "created_at": "2026-06-12T16:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065465605155959206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "wohensad001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065465605155959206",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065462676348879206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohensad001 爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 676,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1507
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "嗯",
+        "pinned_tweet_id": "2058970455969759286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063355016581414912/cPNlkPg-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 29,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 576
+        },
+        "username": "wohensad001",
+        "verified": false
+      }
+    ]
+  }
+}

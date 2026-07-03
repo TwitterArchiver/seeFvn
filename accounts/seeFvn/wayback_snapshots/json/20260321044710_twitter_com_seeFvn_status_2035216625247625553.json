@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2035216625247625553",
+    "created_at": "2026-03-21T04:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035216625247625553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035216625247625553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035011262195933644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 肾衰竭有哪些前兆 肾脏代偿能力极强一旦出现明显症状往往已受损严重 通常会出现下肢凹陷性水肿 呼气有氨味 尿中泡沫经久不散 以及脸色发黄胃口差 容易感到乏力 血压突然升高 如果出现需警惕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2035216625247625553",
+        "created_at": "2026-03-21T04:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035216625247625553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035216625247625553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035011262195933644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 肾衰竭有哪些前兆 肾脏代偿能力极强一旦出现明显症状往往已受损严重 通常会出现下肢凹陷性水肿 呼气有氨味 尿中泡沫经久不散 以及脸色发黄胃口差 容易感到乏力 血压突然升高 如果出现需警惕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2035011262195933644",
+        "created_at": "2026-03-20T15:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035011262195933644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035011262195933644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 930,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "肾衰竭有哪些前兆 肾脏代偿能力极强一旦出现明显症状往往已受损严重 通常会出现下肢凹陷性水肿 呼气有氨味 尿中泡沫经久不散 以及脸色发黄胃口差 容易感到乏力 血压突然升高 如果出现需警惕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2034563068370604087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 426,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1040
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/Wxb5OnS7cE | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 26,
+                "expanded_url": "http://fayou.sbs",
+                "start": 3,
+                "url": "https://t.co/Wxb5OnS7cE"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 102,
+          "like_count": 11383,
+          "listed_count": 9,
+          "media_count": 668,
+          "tweet_count": 4015
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

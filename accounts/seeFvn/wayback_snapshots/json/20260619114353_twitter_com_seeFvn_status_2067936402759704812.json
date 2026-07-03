@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2067936402759704812",
+    "created_at": "2026-06-19T11:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067936402759704812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067936402759704812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美金刚到了但是我一直好累啊 我只想在房间里面 外面太可怕了 我一直在 PTSD 仅仅因为我被做了一些事情 所以这些人都很恶毒的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2067936402759704812",
+        "created_at": "2026-06-19T11:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067936402759704812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067936402759704812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚到了但是我一直好累啊 我只想在房间里面 外面太可怕了 我一直在 PTSD 仅仅因为我被做了一些事情 所以这些人都很恶毒的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 711,
+          "like_count": 4579,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

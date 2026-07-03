@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2031262668582277355",
+    "created_at": "2026-03-10T07:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031267094663475401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031267094663475401",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031262668582277355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 美死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2042,
+        "media_key": "3_2031262663385419776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDB-oViaEAAfzNN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1185,
+        "media_key": "3_2031261498765701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDB9ki_bcAA4H_w.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1190,
+        "media_key": "3_2031261575206862848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDB9o_wbAAAON56.jpg",
+        "width": 1206
+      },
+      {
+        "height": 886,
+        "media_key": "3_2031261568928038912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDB9ooXbwAAhk7f.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2031262668582277355",
+        "created_at": "2026-03-10T07:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031267094663475401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031267094663475401",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031262668582277355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 美死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031262663385419776",
+            "3_2031261498765701120",
+            "3_2031261575206862848",
+            "3_2031261568928038912"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031262668582277355",
+        "created_at": "2026-03-10T06:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031262668582277355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyUGLCYVJg",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2031262668582277355/photo/1",
+              "media_key": "3_2031262663385419776",
+              "start": 0,
+              "url": "https://t.co/VyUGLCYVJg"
+            },
+            {
+              "display_url": "pic.x.com/VyUGLCYVJg",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2031262668582277355/photo/1",
+              "media_key": "3_2031261498765701120",
+              "start": 0,
+              "url": "https://t.co/VyUGLCYVJg"
+            },
+            {
+              "display_url": "pic.x.com/VyUGLCYVJg",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2031262668582277355/photo/1",
+              "media_key": "3_2031261575206862848",
+              "start": 0,
+              "url": "https://t.co/VyUGLCYVJg"
+            },
+            {
+              "display_url": "pic.x.com/VyUGLCYVJg",
+              "end": 23,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2031262668582277355/photo/1",
+              "media_key": "3_2031261568928038912",
+              "start": 0,
+              "url": "https://t.co/VyUGLCYVJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031262668582277355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VyUGLCYVJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "愿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027881804263235584/0j4lyElT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 393,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 927
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 244,
+          "like_count": 9265,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

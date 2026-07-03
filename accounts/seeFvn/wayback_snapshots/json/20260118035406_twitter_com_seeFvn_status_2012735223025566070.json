@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2012735223025566070",
+    "created_at": "2026-01-18T03:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012735223025566070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558684370386399232",
+          "start": 3,
+          "username": "Deus722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012735223025566070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012443368878739961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deus722: 一技能：那你和艾滋患者亲嘴\n二技能；男同就是脏\n三技能：得病前怎么不洁身自好\n大招：你也有艾滋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2012735223025566070",
+        "created_at": "2026-01-18T03:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012735223025566070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558684370386399232",
+              "start": 3,
+              "username": "Deus722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012735223025566070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012443368878739961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deus722: 一技能：那你和艾滋患者亲嘴\n二技能；男同就是脏\n三技能：得病前怎么不洁身自好\n大招：你也有艾滋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558684370386399232",
+        "conversation_id": "2012443368878739961",
+        "created_at": "2026-01-17T08:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012443368878739961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deus722/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/deus722/status/2011853401261556141",
+              "start": 48,
+              "url": "https://t.co/22RqqKWQ5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012443368878739961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10710,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011853401261556141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一技能：那你和艾滋患者亲嘴\n二技能；男同就是脏\n三技能：得病前怎么不洁身自好\n大招：你也有艾滋 https://t.co/22RqqKWQ5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "死體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011417140654678016/1dtJGE41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 376,
+          "like_count": 2373,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 757
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T05:18:15.000Z",
+        "description": "媚黑恋父恋母恋童鸡奸群交的负债婊子一枚｜深爱每个操过我的人｜我是屠美丽",
+        "id": "1558684370386399232",
+        "location": "呵呵",
+        "name": "yoshi",
+        "pinned_tweet_id": "2007811269735358640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685553474875394/FkiYX51u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 421,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2878
+        },
+        "username": "Deus722",
+        "verified": false
+      }
+    ]
+  }
+}

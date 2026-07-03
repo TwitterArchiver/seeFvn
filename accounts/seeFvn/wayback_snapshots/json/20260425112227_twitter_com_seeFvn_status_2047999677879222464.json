@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047999677879222464",
+    "created_at": "2026-04-25T11:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047999677879222464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047999677879222464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047843035455823900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 4月24日，深圳。一位女孩因为阻止一男子在禁烟的公交站上抽烟、用饮料浇灭烟头，反被男子辱骂和被砸脸泼饮料\n\n女孩报警后，却因“涉嫌侮辱”而有可能面临拘留五天\n\n深圳的执法 警察说： “我们内部讨论了一下，觉得公交站不算室内，不在禁烟范围内…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047809166014812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtHljQaEAAqShw.jpg",
+        "width": 681
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2047809166086230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtHljhb0AAQ87j.jpg",
+        "width": 330
+      },
+      {
+        "height": 864,
+        "media_key": "3_2047809166006525952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtHljOboAAfiQH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 930,
+        "media_key": "3_2047809165985472513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtHljJaYAEgwuz.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047999677879222464",
+        "created_at": "2026-04-25T11:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047999677879222464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999677879222464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047843035455823900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 4月24日，深圳。一位女孩因为阻止一男子在禁烟的公交站上抽烟、用饮料浇灭烟头，反被男子辱骂和被砸脸泼饮料\n\n女孩报警后，却因“涉嫌侮辱”而有可能面临拘留五天\n\n深圳的执法 警察说： “我们内部讨论了一下，觉得公交站不算室内，不在禁烟范围内…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047809166014812160",
+            "3_2047809166086230016",
+            "3_2047809166006525952",
+            "3_2047809165985472513"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2047843035455823900",
+        "created_at": "2026-04-25T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047843035455823900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OPYUhcc7S",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047843035455823900/photo/1",
+              "media_key": "3_2047809166014812160",
+              "start": 121,
+              "url": "https://t.co/8OPYUhcc7S"
+            },
+            {
+              "display_url": "pic.x.com/8OPYUhcc7S",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047843035455823900/photo/1",
+              "media_key": "3_2047809166086230016",
+              "start": 121,
+              "url": "https://t.co/8OPYUhcc7S"
+            },
+            {
+              "display_url": "pic.x.com/8OPYUhcc7S",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047843035455823900/photo/1",
+              "media_key": "3_2047809166006525952",
+              "start": 121,
+              "url": "https://t.co/8OPYUhcc7S"
+            },
+            {
+              "display_url": "pic.x.com/8OPYUhcc7S",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047843035455823900/photo/1",
+              "media_key": "3_2047809165985472513",
+              "start": 121,
+              "url": "https://t.co/8OPYUhcc7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047843035455823900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月24日，深圳。一位女孩因为阻止一男子在禁烟的公交站上抽烟、用饮料浇灭烟头，反被男子辱骂和被砸脸泼饮料\n\n女孩报警后，却因“涉嫌侮辱”而有可能面临拘留五天\n\n深圳的执法 警察说： “我们内部讨论了一下，觉得公交站不算室内，不在禁烟范围内”\n\n而事实上，作为一个大肆宣传禁烟的深圳，是明令禁止在公交站台抽烟的（ 见《深圳经济特区控制吸烟条例》）。\n今年1月8日，深圳晚报还报道过：《男子公交站台抽烟，“帽子叔叔”执法制止》\n\n一网友评论道：在深圳，一位劝阻不道德行为、维护公共秩序的守法公民，在遭受人身侵害后，反而是要受到执法部门的人格羞辱以及对犯罪者”我也这样”的惺惺相惜，最终被迫和解。这就是此地的社情民风、你地的所谓“禁烟态度”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 609512,
+          "like_count": 2604,
+          "quote_count": 70,
+          "reply_count": 738,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "4月24日，深圳。一位女孩因为阻止一男子在禁烟的公交站上抽烟、用饮料浇灭烟头，反被男子辱骂和被砸脸泼饮料\n\n女孩报警后，却因“涉嫌侮辱”而有可能面临拘留五天\n\n深圳的执法 警察说： “我们内部讨论了一下，觉得公交站不算室内，不在禁烟范围内” https://t.co/8OPYUhcc7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 481,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1153
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202466,
+          "following_count": 1037,
+          "like_count": 9423,
+          "listed_count": 8651,
+          "media_count": 45735,
+          "tweet_count": 52819
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047890805038485854",
+    "created_at": "2026-04-25T04:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047890805038485854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/seefvn/status/2047691676903436627",
+          "start": 35,
+          "url": "https://t.co/uGNUWf7F0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047890805038485854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047691676903436627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续就是特别头痛然后想吐 吃了止痛药不知不觉睡着了 现在仍有一点效果 https://t.co/uGNUWf7F0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047691663926259712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrcuB3acAAETjG.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047890805038485854",
+        "created_at": "2026-04-25T04:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047890805038485854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/seefvn/status/2047691676903436627",
+              "start": 35,
+              "url": "https://t.co/uGNUWf7F0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047890805038485854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047691676903436627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续就是特别头痛然后想吐 吃了止痛药不知不觉睡着了 现在仍有一点效果 https://t.co/uGNUWf7F0M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047691663926259712"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047691676903436627",
+        "created_at": "2026-04-24T14:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047691676903436627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWLKc52NcI",
+              "end": 23,
+              "expanded_url": "https://x.com/seeFvn/status/2047691676903436627/photo/1",
+              "media_key": "3_2047691663926259712",
+              "start": 0,
+              "url": "https://t.co/GWLKc52NcI"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/seefvn/status/2047687880970318065",
+              "start": 24,
+              "url": "https://t.co/g2K4uXY1PE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691676903436627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047687880970318065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/GWLKc52NcI https://t.co/g2K4uXY1PE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 482,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1151
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

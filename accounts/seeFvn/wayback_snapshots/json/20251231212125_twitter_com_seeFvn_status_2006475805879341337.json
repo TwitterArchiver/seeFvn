@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2006145938369196046",
+    "created_at": "2025-12-31T21:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006475805879341337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1746497048046903297",
+          "start": 0,
+          "username": "Liebaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006475805879341337",
+    "in_reply_to_user_id": "1746497048046903297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006145938369196046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liebaovo 老己死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2006145938369196046",
+        "created_at": "2025-12-31T21:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006475805879341337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1746497048046903297",
+              "start": 0,
+              "username": "Liebaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006475805879341337",
+        "in_reply_to_user_id": "1746497048046903297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006145938369196046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liebaovo 老己死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746497048046903297",
+        "conversation_id": "2006145938369196046",
+        "created_at": "2025-12-30T23:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T00:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006145938369196046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006145938369196046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 455303,
+          "like_count": 2233,
+          "quote_count": 8,
+          "reply_count": 106,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "爱你老己这个梗百分百会出现在春晚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006471242996658176/VDHF3nVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 376,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 648
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T11:39:06.000Z",
+        "description": "小裂｜抱抱^v^｜逃跑第一名｜泪失禁｜爱说废话｜xp探索ing｜经常阳痿｜理论王者｜能不能对我好一点｜我会一直视奸你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liebaovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liebaovo",
+                "start": 0,
+                "url": "https://t.co/h8FD4rTTwR"
+              }
+            ]
+          }
+        },
+        "id": "1746497048046903297",
+        "location": "^o^找我玩→",
+        "name": "ovO",
+        "pinned_tweet_id": "1934285370121982017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999121863927275520/qRWbiwiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 54,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/h8FD4rTTwR",
+        "username": "Liebaovo",
+        "verified": false
+      }
+    ]
+  }
+}

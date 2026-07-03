@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070417657611091969"
+      ],
+      "media_source_tweet_id": [
+        "2070417660194726319"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2070494684611514475",
+    "created_at": "2026-06-26T13:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070494684611514475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902512265301258243",
+          "start": 3,
+          "username": "sacred1124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQyscQKcCX",
+          "end": 68,
+          "expanded_url": "https://x.com/sacred1124/status/2070417660194726319/photo/1",
+          "media_key": "3_2070417657611091969",
+          "start": 45,
+          "url": "https://t.co/nQyscQKcCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070494684611514475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070417660194726319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacred1124: 愈美片现在被最高法定性为与笑气同水平了阿，也是争气了（） https://t.co/nQyscQKcCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 62,
+        "media_key": "3_2070417657611091969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuZ49qbAAEigt7.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070417657611091969"
+          ],
+          "media_source_tweet_id": [
+            "2070417660194726319"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2070494684611514475",
+        "created_at": "2026-06-26T13:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070494684611514475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902512265301258243",
+              "start": 3,
+              "username": "sacred1124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQyscQKcCX",
+              "end": 68,
+              "expanded_url": "https://x.com/sacred1124/status/2070417660194726319/photo/1",
+              "media_key": "3_2070417657611091969",
+              "start": 45,
+              "url": "https://t.co/nQyscQKcCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070494684611514475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070417660194726319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacred1124: 愈美片现在被最高法定性为与笑气同水平了阿，也是争气了（） https://t.co/nQyscQKcCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070417657611091969"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2070417660194726319",
+        "created_at": "2026-06-26T08:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070417660194726319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQyscQKcCX",
+              "end": 52,
+              "expanded_url": "https://x.com/sacred1124/status/2070417660194726319/photo/1",
+              "media_key": "3_2070417657611091969",
+              "start": 29,
+              "url": "https://t.co/nQyscQKcCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070417660194726319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1121,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "愈美片现在被最高法定性为与笑气同水平了阿，也是争气了（） https://t.co/nQyscQKcCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 755,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "My life's the worst story told, I'll be this way 'til I'm old.\n分身：@Overdose_Rx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Overdose_Rx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMlkg"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 118,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/bSzFJaMlkg",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

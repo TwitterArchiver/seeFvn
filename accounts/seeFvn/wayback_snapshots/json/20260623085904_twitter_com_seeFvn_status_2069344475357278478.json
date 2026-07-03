@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068998417783898113",
+    "created_at": "2026-06-23T08:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069344475357278478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "79073128",
+          "start": 0,
+          "username": "carloscurado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069344475357278478",
+    "in_reply_to_user_id": "79073128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069325437441040547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carloscurado 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068998417783898113",
+        "created_at": "2026-06-23T08:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069344475357278478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "79073128",
+              "start": 0,
+              "username": "carloscurado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069344475357278478",
+        "in_reply_to_user_id": "79073128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069325437441040547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carloscurado 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "79073128",
+        "conversation_id": "2068998417783898113",
+        "created_at": "2026-06-23T07:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069325437441040547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069325437441040547",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068998417783898113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 嚯嚯嚯～得吃喔😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 737,
+          "like_count": 4668,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-02T02:35:42.000Z",
+        "description": "",
+        "id": "79073128",
+        "name": "Carlos Curado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065745532694237184/i-z1j3Rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "carloscurado",
+        "verified": false
+      }
+    ]
+  }
+}

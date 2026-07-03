@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2067565849872101799",
+    "created_at": "2026-06-18T11:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067565849872101799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2067406389723701576",
+          "start": 57,
+          "url": "https://t.co/tj6Nv6y4lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067565849872101799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067406389723701576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你有心吗你就是一个疯子 嘲笑别人痛苦的疯子 你永远都不会理解其他人 你永远以为所有人都和你一样 还有你永远是男的 https://t.co/tj6Nv6y4lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2067406361894555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnIe8bkAARJGa.jpg",
+        "width": 1430
+      },
+      {
+        "height": 1437,
+        "media_key": "3_2067406361865170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnIe1bMAAI_ZL.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2067565849872101799",
+        "created_at": "2026-06-18T11:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067565849872101799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2067406389723701576",
+              "start": 57,
+              "url": "https://t.co/tj6Nv6y4lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067565849872101799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067406389723701576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有心吗你就是一个疯子 嘲笑别人痛苦的疯子 你永远都不会理解其他人 你永远以为所有人都和你一样 还有你永远是男的 https://t.co/tj6Nv6y4lz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067406361894555648",
+            "3_2067406361865170944"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067406389723701576",
+        "created_at": "2026-06-18T00:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067406389723701576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPl771FEdD",
+              "end": 26,
+              "expanded_url": "https://x.com/YuwenMewo/status/2067406389723701576/photo/1",
+              "media_key": "3_2067406361894555648",
+              "start": 3,
+              "url": "https://t.co/VPl771FEdD"
+            },
+            {
+              "display_url": "pic.x.com/VPl771FEdD",
+              "end": 26,
+              "expanded_url": "https://x.com/YuwenMewo/status/2067406389723701576/photo/1",
+              "media_key": "3_2067406361865170944",
+              "start": 3,
+              "url": "https://t.co/VPl771FEdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067406389723701576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1181,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典 https://t.co/VPl771FEdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 704,
+          "like_count": 4527,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1532
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2067518664522502270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 26,
+          "like_count": 83,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

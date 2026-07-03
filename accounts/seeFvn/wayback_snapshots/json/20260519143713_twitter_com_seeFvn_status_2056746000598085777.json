@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2056746000598085777",
+    "created_at": "2026-05-19T14:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056746000598085777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986828541930119168",
+          "start": 3,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056746000598085777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056718609393803662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigure07288: 这是中国司法的一大进步!\n\n最高人民法院认定\"同性恋不是病\",其次基于性取向、性别认同、性别表达的歧视性言论构成侵害人格权,可判决停止侵害、赔礼道歉、赔偿精神损失。因性取向、性别认同等实施差别对待,构成侵害劳动者就业权。在学校中,因性取向、性…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2056746000598085777",
+        "created_at": "2026-05-19T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056746000598085777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986828541930119168",
+              "start": 3,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056746000598085777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056718609393803662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigure07288: 这是中国司法的一大进步!\n\n最高人民法院认定\"同性恋不是病\",其次基于性取向、性别认同、性别表达的歧视性言论构成侵害人格权,可判决停止侵害、赔礼道歉、赔偿精神损失。因性取向、性别认同等实施差别对待,构成侵害劳动者就业权。在学校中,因性取向、性…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2056718609393803662",
+        "created_at": "2026-05-19T12:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056718609393803662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2056694246695154168",
+              "start": 144,
+              "url": "https://t.co/oAPMqMLVZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718609393803662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3838,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056694246695154168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是中国司法的一大进步!\n\n最高人民法院认定\"同性恋不是病\",其次基于性取向、性别认同、性别表达的歧视性言论构成侵害人格权,可判决停止侵害、赔礼道歉、赔偿精神损失。因性取向、性别认同等实施差别对待,构成侵害劳动者就业权。在学校中,因性取向、性别认同等使学生受到损害,学校应承担赔偿责任。 https://t.co/oAPMqMLVZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "ee",
+        "id": "1980612830824132609",
+        "name": "背叛自己的意志",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 574,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1327
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 621,
+          "like_count": 5505,
+          "listed_count": 9,
+          "media_count": 532,
+          "tweet_count": 6901
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2058937597712581096",
+    "created_at": "2026-05-25T15:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058937597712581096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986828541930119168",
+          "start": 3,
+          "username": "shigure07288"
+        }
+      ],
+      "urls": [
+        {
+          "description": "we're here to give until we're empty",
+          "display_url": "x.com/oconnor",
+          "end": 139,
+          "expanded_url": "https://x.com/oconnor",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "matt (@oconnor) on X",
+          "unwound_url": "https://twitter.com/oconnor",
+          "url": "https://t.co/o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058937597712581096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058782746491965456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigure07288: 看来中国反动派已经没活了，除了继续搞些阴谋论，已经整不出什么正经东西了。\n\n而且最喜欢决定别人性别的不就是老右们吗，哪怕孩子都确诊易性症了都拒绝承认现实，非得把孩子送进矫正机构、精神病院、戒网瘾学校搞非法拘禁吗？ https://t.co/o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2058780850498715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJCRpBaQAA5acQ.jpg",
+        "width": 301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2058937597712581096",
+        "created_at": "2026-05-25T15:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937597712581096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986828541930119168",
+              "start": 3,
+              "username": "shigure07288"
+            }
+          ],
+          "urls": [
+            {
+              "description": "we're here to give until we're empty",
+              "display_url": "x.com/oconnor",
+              "end": 139,
+              "expanded_url": "https://x.com/oconnor",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044582334322900992/g88vapMn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "matt (@oconnor) on X",
+              "unwound_url": "https://twitter.com/oconnor",
+              "url": "https://t.co/o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937597712581096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058782746491965456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigure07288: 看来中国反动派已经没活了，除了继续搞些阴谋论，已经整不出什么正经东西了。\n\n而且最喜欢决定别人性别的不就是老右们吗，哪怕孩子都确诊易性症了都拒绝承认现实，非得把孩子送进矫正机构、精神病院、戒网瘾学校搞非法拘禁吗？ https://t.co/o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058780850498715648"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2058782746491965456",
+        "created_at": "2026-05-25T05:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058782746491965456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oh2nXCjwMy",
+              "end": 130,
+              "expanded_url": "https://x.com/shigure07288/status/2058782746491965456/photo/1",
+              "media_key": "3_2058780850498715648",
+              "start": 107,
+              "url": "https://t.co/oh2nXCjwMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058782746491965456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3531,
+          "like_count": 140,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "看来中国反动派已经没活了，除了继续搞些阴谋论，已经整不出什么正经东西了。\n\n而且最喜欢决定别人性别的不就是老右们吗，哪怕孩子都确诊易性症了都拒绝承认现实，非得把孩子送进矫正机构、精神病院、戒网瘾学校搞非法拘禁吗？ https://t.co/oh2nXCjwMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 596,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1379
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 650,
+          "like_count": 6110,
+          "listed_count": 7,
+          "media_count": 561,
+          "tweet_count": 7340
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

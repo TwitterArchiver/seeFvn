@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2058521851937390690",
+    "created_at": "2026-05-24T14:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058560045424787918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051536884799803392",
+          "start": 0,
+          "username": "Dyzilidz"
+        },
+        {
+          "end": 17,
+          "id": "1970857021588262912",
+          "start": 10,
+          "username": "UnkXyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058560045424787918",
+    "in_reply_to_user_id": "2051536884799803392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058521851937390690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyzilidz @UnkXyn 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2058521851937390690",
+        "created_at": "2026-05-24T14:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058560045424787918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051536884799803392",
+              "start": 0,
+              "username": "Dyzilidz"
+            },
+            {
+              "end": 17,
+              "id": "1970857021588262912",
+              "start": 10,
+              "username": "UnkXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058560045424787918",
+        "in_reply_to_user_id": "2051536884799803392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058521851937390690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyzilidz @UnkXyn 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051536884799803392",
+        "conversation_id": "2058521851937390690",
+        "created_at": "2026-05-24T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058521851937390690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058521851937390690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 942,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉50fo了（超过惹）\n那么150fo转发抽奖来了🎆\n奖品如下\n\n🤤普瑞巴林*3\n\n😴思诺思*1盒\n\n😴录硝西泮*10t\n\n感谢各位 没有各位就没有俺的今天惹\n❤️本次还是依靠gork抽奖来抽幸运儿\n每人百分之45概率中奖🙀\n\n关注➕评论➕转帖 参与抽奖\nos：咱稍微慢慢些好不好哦 发不过来啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2057115003447378302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 595,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1365
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T05:38:59.000Z",
+        "description": "购买私信哦宝宝们我很温柔的 08/女/od/割手\n没有TG的也不要着急呀宝宝们 私信我就可以啦\n⬇️是tg频道哦\nTg购买频道 https://t.co/EQNgit63OK\n双相情感障碍 抑郁症 我需要钱买抗抑郁药吃",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 87,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 64,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 0,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          }
+        },
+        "id": "2051536884799803392",
+        "location": "温柔の日",
+        "name": "Misaaa",
+        "pinned_tweet_id": "2056957023091392666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054315647761551360/Rh5Coj7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 63,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/EQNgit63OK",
+        "username": "Dyzilidz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 144,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 121,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/ghYDrXHyAC"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "✟𝐔𝐧𝐤✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 1472,
+          "like_count": 17635,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/ghYDrXHyAC",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

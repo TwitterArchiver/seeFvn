@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070842767849492480",
+        "3_2070842761209921536"
+      ],
+      "media_source_tweet_id": [
+        "2070842771184009569",
+        "2070842771184009569"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2070879862945206555",
+    "created_at": "2026-06-27T14:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070879862945206555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781745564738281472",
+          "start": 3,
+          "username": "Stolly21_TG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fb3DHt03AB",
+          "end": 49,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+          "media_key": "3_2070842767849492480",
+          "start": 26,
+          "url": "https://t.co/fb3DHt03AB"
+        },
+        {
+          "display_url": "pic.x.com/fb3DHt03AB",
+          "end": 49,
+          "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+          "media_key": "3_2070842761209921536",
+          "start": 26,
+          "url": "https://t.co/fb3DHt03AB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070879862945206555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070842771184009569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stolly21_TG: 禁毒月狠狠冲业绩 https://t.co/fb3DHt03AB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2070842767849492480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0chotbEAAXemq.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070842761209921536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0chP-bQAAOFMz.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070842767849492480",
+            "3_2070842761209921536"
+          ],
+          "media_source_tweet_id": [
+            "2070842771184009569",
+            "2070842771184009569"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2070879862945206555",
+        "created_at": "2026-06-27T14:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070879862945206555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781745564738281472",
+              "start": 3,
+              "username": "Stolly21_TG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fb3DHt03AB",
+              "end": 49,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+              "media_key": "3_2070842767849492480",
+              "start": 26,
+              "url": "https://t.co/fb3DHt03AB"
+            },
+            {
+              "display_url": "pic.x.com/fb3DHt03AB",
+              "end": 49,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+              "media_key": "3_2070842761209921536",
+              "start": 26,
+              "url": "https://t.co/fb3DHt03AB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070879862945206555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070842771184009569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stolly21_TG: 禁毒月狠狠冲业绩 https://t.co/fb3DHt03AB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070842767849492480",
+            "3_2070842761209921536"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2070842771184009569",
+        "created_at": "2026-06-27T12:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070842771184009569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fb3DHt03AB",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+              "media_key": "3_2070842767849492480",
+              "start": 9,
+              "url": "https://t.co/fb3DHt03AB"
+            },
+            {
+              "display_url": "pic.x.com/fb3DHt03AB",
+              "end": 32,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2070842771184009569/photo/1",
+              "media_key": "3_2070842761209921536",
+              "start": 9,
+              "url": "https://t.co/fb3DHt03AB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070842771184009569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒月狠狠冲业绩 https://t.co/fb3DHt03AB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 767,
+          "like_count": 5034,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 128,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

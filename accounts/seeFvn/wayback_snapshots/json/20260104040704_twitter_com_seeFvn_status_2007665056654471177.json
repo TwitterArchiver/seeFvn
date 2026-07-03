@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2007577594515075376",
+    "created_at": "2026-01-04T04:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007665056654471177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "xm101027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007665056654471177",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007577594515075376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm101027 我喜欢一个吉他张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2007577594515075376",
+        "created_at": "2026-01-04T04:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007665056654471177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007665056654471177",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007577594515075376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm101027 我喜欢一个吉他张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2007577594515075376",
+        "created_at": "2026-01-03T22:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T23:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007577594515075376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007577594515075376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的脾气很差 伤人的话总是比温柔先流出嘴巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006675906966990849/wjSq28_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 374,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 679
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "你让我感到窒息",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007576498677719040/zhiNiM1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 16,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 194
+        },
+        "username": "xm101027",
+        "verified": false
+      }
+    ]
+  }
+}

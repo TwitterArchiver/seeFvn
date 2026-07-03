@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071550646680227840"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071550664623448305",
+    "created_at": "2026-06-29T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071550664623448305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mE9BxXFyjR",
+          "end": 52,
+          "expanded_url": "https://x.com/seeFvn/status/2071550664623448305/photo/1",
+          "media_key": "3_2071550646680227840",
+          "start": 29,
+          "url": "https://t.co/mE9BxXFyjR"
+        },
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/seefvn/status/2071481681115324760",
+          "start": 53,
+          "url": "https://t.co/r5yDQ9j0pw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071550664623448305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071481681115324760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呼吸抑制套餐准备中\n（仅个人经历分享，正常剂量医师指导） https://t.co/mE9BxXFyjR https://t.co/r5yDQ9j0pw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071550646680227840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-gVm2bEAAhkD8.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071481668683354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9hmjya0AAf_7H.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071550646680227840"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071550664623448305",
+        "created_at": "2026-06-29T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071550664623448305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mE9BxXFyjR",
+              "end": 52,
+              "expanded_url": "https://x.com/seeFvn/status/2071550664623448305/photo/1",
+              "media_key": "3_2071550646680227840",
+              "start": 29,
+              "url": "https://t.co/mE9BxXFyjR"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/seefvn/status/2071481681115324760",
+              "start": 53,
+              "url": "https://t.co/r5yDQ9j0pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071550664623448305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071481681115324760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呼吸抑制套餐准备中\n（仅个人经历分享，正常剂量医师指导） https://t.co/mE9BxXFyjR https://t.co/r5yDQ9j0pw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071481668683354112"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071481681115324760",
+        "created_at": "2026-06-29T06:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071481681115324760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRh5adKZj0",
+              "end": 52,
+              "expanded_url": "https://x.com/seeFvn/status/2071481681115324760/photo/1",
+              "media_key": "3_2071481668683354112",
+              "start": 29,
+              "url": "https://t.co/DRh5adKZj0"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/seefvn/status/2071479301074309387",
+              "start": 53,
+              "url": "https://t.co/Y2Cs9GYT46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071481681115324760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071479301074309387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补0.4mg 囗服\n（仅个人经历分享，正常剂量医师指导） https://t.co/DRh5adKZj0 https://t.co/Y2Cs9GYT46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 788,
+          "like_count": 5291,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

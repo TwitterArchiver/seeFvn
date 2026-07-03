@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2049219171154804811",
+    "created_at": "2026-04-28T20:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T21:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049219171154804811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036654418221993984",
+          "start": 3,
+          "username": "uu_tree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049219171154804811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048914139222012370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_tree: 才发现我想要的很简单  一本蓝色护照  一张刷不爆的卡  仅此而已 为什么幸福如履薄冰？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2049219171154804811",
+        "created_at": "2026-04-28T20:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T21:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049219171154804811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036654418221993984",
+              "start": 3,
+              "username": "uu_tree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049219171154804811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048914139222012370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uu_tree: 才发现我想要的很简单  一本蓝色护照  一张刷不爆的卡  仅此而已 为什么幸福如履薄冰？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036654418221993984",
+        "conversation_id": "2048914139222012370",
+        "created_at": "2026-04-27T23:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048914139222012370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048914139222012370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 78965,
+          "like_count": 1915,
+          "quote_count": 24,
+          "reply_count": 71,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我想要的很简单  一本蓝色护照  一张刷不爆的卡  仅此而已 为什么幸福如履薄冰？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 494,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1163
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-25T04:01:26.000Z",
+        "description": "除了口令 其他不回",
+        "id": "2036654418221993984",
+        "location": "🚪128  / 520(电子女友)",
+        "name": "tski",
+        "pinned_tweet_id": "2048291076071670129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046903832534499328/Fhjj_eRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 54,
+          "like_count": 310,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 282
+        },
+        "username": "uu_tree",
+        "verified": false
+      }
+    ]
+  }
+}

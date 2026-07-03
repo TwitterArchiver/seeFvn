@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2034535781180858550",
+    "created_at": "2026-03-19T07:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034535781180858550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/serron2",
+          "end": 23,
+          "expanded_url": "https://ngl.link/serron2",
+          "start": 0,
+          "status": 200,
+          "title": "@serron: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/serron2",
+          "url": "https://t.co/Aac9fO2F1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034535781180858550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Aac9fO2F1D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2034535781180858550",
+        "created_at": "2026-03-19T07:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034535781180858550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/serron2",
+              "end": 23,
+              "expanded_url": "https://ngl.link/serron2",
+              "start": 0,
+              "status": 200,
+              "title": "@serron: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/serron2",
+              "url": "https://t.co/Aac9fO2F1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034535781180858550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Aac9fO2F1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 422,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1020
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

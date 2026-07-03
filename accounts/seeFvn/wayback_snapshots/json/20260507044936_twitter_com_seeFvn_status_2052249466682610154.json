@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2052249466682610154",
+    "created_at": "2026-05-07T04:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052249466682610154"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052249466682610154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞巴林日均1200mg+ 连续服用2个月 最高剂量7200依旧没有什么感觉 戒断：大概8天 包括头晕 头痛 严重焦虑 严重失眠 快感缺失 什么都不想做 第8天的时候还有症状 然后继续吃普瑞巴林 需要注意的时候在我直接断药前我就开始慢慢减了 后面因为住院只能断了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2052249466682610154",
+        "created_at": "2026-05-07T04:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052249466682610154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052249466682610154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林日均1200mg+ 连续服用2个月 最高剂量7200依旧没有什么感觉 戒断：大概8天 包括头晕 头痛 严重焦虑 严重失眠 快感缺失 什么都不想做 第8天的时候还有症状 然后继续吃普瑞巴林 需要注意的时候在我直接断药前我就开始慢慢减了 后面因为住院只能断了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 530,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

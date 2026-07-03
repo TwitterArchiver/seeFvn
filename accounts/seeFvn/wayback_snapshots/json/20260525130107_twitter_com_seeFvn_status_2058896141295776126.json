@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058896131275526145"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058896141295776126",
+    "created_at": "2026-05-25T13:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058896141295776126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBVHctXW5J",
+          "end": 39,
+          "expanded_url": "https://x.com/seeFvn/status/2058896141295776126/photo/1",
+          "media_key": "3_2058896131275526145",
+          "start": 16,
+          "url": "https://t.co/hBVHctXW5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058896141295776126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai 了一下）dxm 我来了！ https://t.co/hBVHctXW5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2058896131275526145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKrH3YakAE_Y4t.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058896131275526145"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058896141295776126",
+        "created_at": "2026-05-25T13:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058896141295776126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBVHctXW5J",
+              "end": 39,
+              "expanded_url": "https://x.com/seeFvn/status/2058896141295776126/photo/1",
+              "media_key": "3_2058896131275526145",
+              "start": 16,
+              "url": "https://t.co/hBVHctXW5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058896141295776126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai 了一下）dxm 我来了！ https://t.co/hBVHctXW5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2057115003447378302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 597,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1371
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

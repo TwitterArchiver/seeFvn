@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2019245044868460670",
+    "created_at": "2026-02-05T03:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019245044868460670"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019245044868460670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前总喜欢跟别人诉说我的痛苦经历 我每一条疤的由来 好像只要证明我是最痛苦的 这个世界就能多爱我一点到 后来发现不是的 每个人都有自己的日子要过 我的那些过去只有我一个人在意 所以变得越来越安静 直到再有人问起 我只会笑一笑说都过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2019245044868460670",
+        "created_at": "2026-02-05T03:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019245044868460670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019245044868460670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前总喜欢跟别人诉说我的痛苦经历 我每一条疤的由来 好像只要证明我是最痛苦的 这个世界就能多爱我一点到 后来发现不是的 每个人都有自己的日子要过 我的那些过去只有我一个人在意 所以变得越来越安静 直到再有人问起 我只会笑一笑说都过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 365,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 847
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

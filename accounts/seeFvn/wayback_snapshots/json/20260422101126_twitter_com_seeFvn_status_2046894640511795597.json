@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2046894640511795597",
+    "created_at": "2026-04-22T10:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046894640511795597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032985503621095424",
+          "start": 3,
+          "username": "jianxiexingnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046894640511795597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046636262803796423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianxiexingnb: 抖人终于发现pr和玉米搜不到了\n都风光大葬快两天了 一群傻子吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2046894640511795597",
+        "created_at": "2026-04-22T10:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046894640511795597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032985503621095424",
+              "start": 3,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046894640511795597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046636262803796423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianxiexingnb: 抖人终于发现pr和玉米搜不到了\n都风光大葬快两天了 一群傻子吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046636262803796423",
+        "created_at": "2026-04-21T17:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046636262803796423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046636262803796423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2725,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "抖人终于发现pr和玉米搜不到了\n都风光大葬快两天了 一群傻子吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 475,
+          "like_count": 3243,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1128
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 50,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 132
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

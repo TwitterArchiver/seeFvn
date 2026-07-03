@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2054713150281547941",
+    "created_at": "2026-05-13T23:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T00:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054713150281547941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "学生妹"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "半绿"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "非绿"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935705327380410369",
+          "start": 3,
+          "username": "chanhui1027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054713150281547941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054607333456740638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chanhui1027: 受生活所迫所以来接线下\n#学生妹 #爸爸活 #半绿 #非绿 #门槛妹 \n=小明 09休学 165/100 坐标连云港 接江浙沪线下\n🚪52过门 可咨询线下\n🚪128半绿线下\n🚪188非绿线下\n可以支付宝口令or赞赏码 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2054607253484048384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINuaUjbkAAt6xl.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2054607253479849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINuaUibgAAL7rC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2054713150281547941",
+        "created_at": "2026-05-13T23:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054713150281547941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "学生妹"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "半绿"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "非绿"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935705327380410369",
+              "start": 3,
+              "username": "chanhui1027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054713150281547941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054607333456740638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chanhui1027: 受生活所迫所以来接线下\n#学生妹 #爸爸活 #半绿 #非绿 #门槛妹 \n=小明 09休学 165/100 坐标连云港 接江浙沪线下\n🚪52过门 可咨询线下\n🚪128半绿线下\n🚪188非绿线下\n可以支付宝口令or赞赏码 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054607253484048384",
+            "3_2054607253479849984"
+          ]
+        },
+        "author_id": "1935705327380410369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054607333456740638",
+        "created_at": "2026-05-13T16:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054607333456740638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "学生妹"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "半绿"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "非绿"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmuBEBagZM",
+              "end": 132,
+              "expanded_url": "https://x.com/chanhui1027/status/2054607333456740638/photo/1",
+              "media_key": "3_2054607253484048384",
+              "start": 109,
+              "url": "https://t.co/FmuBEBagZM"
+            },
+            {
+              "display_url": "pic.x.com/FmuBEBagZM",
+              "end": 132,
+              "expanded_url": "https://x.com/chanhui1027/status/2054607333456740638/photo/1",
+              "media_key": "3_2054607253479849984",
+              "start": 109,
+              "url": "https://t.co/FmuBEBagZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054607333456740638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受生活所迫所以来接线下\n#学生妹 #爸爸活 #半绿 #非绿 #门槛妹 \n=小明 09休学 165/100 坐标连云港 接江浙沪线下\n🚪52过门 可咨询线下\n🚪128半绿线下\n🚪188非绿线下\n可以支付宝口令or赞赏码 https://t.co/FmuBEBagZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 562,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1274
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "我的坏也照单全收么",
+        "pinned_tweet_id": "2054607333456740638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054603371433312256/Es42Ldys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 31,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 635
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

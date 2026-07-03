@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2033401406070362249",
+    "created_at": "2026-03-16T04:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033401406070362249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033401406070362249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把自己变的刻薄也只是害怕变成以前一样随便让人伤害我 我也想被人爱 我不想伤害任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2033401406070362249",
+        "created_at": "2026-03-16T04:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033401406070362249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033401406070362249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把自己变的刻薄也只是害怕变成以前一样随便让人伤害我 我也想被人爱 我不想伤害任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 404,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 963
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

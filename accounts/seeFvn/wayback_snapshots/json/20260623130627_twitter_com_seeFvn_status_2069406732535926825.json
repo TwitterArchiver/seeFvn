@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069406732535926825",
+    "created_at": "2026-06-23T13:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069406732535926825"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069406732535926825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我后悔吃这么多 mjg 了我现在头晕 有点像吐但是一个吐不出来 好像太阳穴那里痛吧 可是这样的效果至少还有3天我好崩溃吧\n（仅个人经历分享，正常剂量医师指导）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069406732535926825",
+        "created_at": "2026-06-23T13:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069406732535926825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069406732535926825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我后悔吃这么多 mjg 了我现在头晕 有点像吐但是一个吐不出来 好像太阳穴那里痛吧 可是这样的效果至少还有3天我好崩溃吧\n（仅个人经历分享，正常剂量医师指导）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 739,
+          "like_count": 4693,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

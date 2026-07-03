@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2017921280574665118",
+    "created_at": "2026-02-02T02:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T03:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018153975137386749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018153975137386749",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017934343260512268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 看哭了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2017921280574665118",
+        "created_at": "2026-02-02T02:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018153975137386749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018153975137386749",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017934343260512268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 看哭了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2017921280574665118",
+        "created_at": "2026-02-01T12:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017934343260512268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017934343260512268",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017921280574665118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 有我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 367,
+          "like_count": 2514,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 839
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我在哭",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016980372098338817/sIHQ4iJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 28,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 533
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

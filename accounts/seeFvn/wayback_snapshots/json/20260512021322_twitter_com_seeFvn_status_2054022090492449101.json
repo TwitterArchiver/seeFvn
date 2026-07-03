@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054022078215675904"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2054022090492449101",
+    "created_at": "2026-05-12T02:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054022090492449101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYmGZxkgJ3",
+          "end": 28,
+          "expanded_url": "https://x.com/seeFvn/status/2054022090492449101/photo/1",
+          "media_key": "3_2054022078215675904",
+          "start": 5,
+          "url": "https://t.co/bYmGZxkgJ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054022090492449101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "菲尼布特 https://t.co/bYmGZxkgJ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 157,
+        "media_key": "3_2054022078215675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFaMoza4AA9wuK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054022078215675904"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2054022090492449101",
+        "created_at": "2026-05-12T02:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054022090492449101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYmGZxkgJ3",
+              "end": 28,
+              "expanded_url": "https://x.com/seeFvn/status/2054022090492449101/photo/1",
+              "media_key": "3_2054022078215675904",
+              "start": 5,
+              "url": "https://t.co/bYmGZxkgJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054022090492449101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菲尼布特 https://t.co/bYmGZxkgJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 546,
+          "like_count": 3583,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1262
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

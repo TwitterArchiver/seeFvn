@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042499781143248899"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2042499868456075631",
+    "created_at": "2026-04-10T07:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042499868456075631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3mWeHzpyxz",
+          "end": 38,
+          "expanded_url": "https://x.com/seeFvn/status/2042499868456075631/video/1",
+          "media_key": "13_2042499781143248899",
+          "start": 15,
+          "url": "https://t.co/3mWeHzpyxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042499868456075631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱你 所以不要再让我难过了 https://t.co/3mWeHzpyxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29141,
+        "height": 1280,
+        "media_key": "13_2042499781143248899",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042499781143248899/img/sxODsggtkYGtbklz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042499781143248899/vid/avc1/320x568/iZz-ipn-PWQptm64.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042499781143248899/vid/avc1/480x852/VW8IWR4JhpWoJS26.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042499781143248899/vid/avc1/720x1280/UfDw32zDUDzTQkkF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042499781143248899/pl/afR6o23bRs1Fq8-E.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042499781143248899"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2042499868456075631",
+        "created_at": "2026-04-10T07:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042499868456075631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mWeHzpyxz",
+              "end": 38,
+              "expanded_url": "https://x.com/seeFvn/status/2042499868456075631/video/1",
+              "media_key": "13_2042499781143248899",
+              "start": 15,
+              "url": "https://t.co/3mWeHzpyxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042499868456075631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你 所以不要再让我难过了 https://t.co/3mWeHzpyxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 486,
+          "like_count": 3161,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1110
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056144537228320916",
+    "created_at": "2026-05-17T22:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T23:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056144537228320916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056144537228320916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055974108777877712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月17日，是“国际不再恐同日”\n英国驻华使馆发布文章《彩虹还会回来吗？》，讲述中国的LGBT群体的30年历程。\n从“除罪化”，到不再认定为疾病，再到全面收紧，耽美写手被逮捕，同志app被下架，同志组织被封杀停运的历程。… https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2555,
+        "media_key": "3_2055947237528625152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxHqHW4AAvPOE.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1836,
+        "media_key": "3_2055947266523799552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxJWIWIAAeJLW.jpg",
+        "width": 1161
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2055947543029137408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxZcMWwAATPPX.jpg",
+        "width": 1924
+      },
+      {
+        "height": 2034,
+        "media_key": "3_2055947570552115200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgxbCuWEAAWRik.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056144537228320916",
+        "created_at": "2026-05-17T22:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056144537228320916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056144537228320916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月17日，是“国际不再恐同日”\n英国驻华使馆发布文章《彩虹还会回来吗？》，讲述中国的LGBT群体的30年历程。\n从“除罪化”，到不再认定为疾病，再到全面收紧，耽美写手被逮捕，同志app被下架，同志组织被封杀停运的历程。… https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055947237528625152",
+            "3_2055947266523799552",
+            "3_2055947543029137408",
+            "3_2055947570552115200"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055974108777877712",
+        "created_at": "2026-05-17T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055974108777877712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cqcP3OUD9",
+              "end": 134,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055974108777877712/photo/1",
+              "media_key": "3_2055947237528625152",
+              "start": 111,
+              "url": "https://t.co/3cqcP3OUD9"
+            },
+            {
+              "display_url": "pic.x.com/3cqcP3OUD9",
+              "end": 134,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055974108777877712/photo/1",
+              "media_key": "3_2055947266523799552",
+              "start": 111,
+              "url": "https://t.co/3cqcP3OUD9"
+            },
+            {
+              "display_url": "pic.x.com/3cqcP3OUD9",
+              "end": 134,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055974108777877712/photo/1",
+              "media_key": "3_2055947543029137408",
+              "start": 111,
+              "url": "https://t.co/3cqcP3OUD9"
+            },
+            {
+              "display_url": "pic.x.com/3cqcP3OUD9",
+              "end": 134,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055974108777877712/photo/1",
+              "media_key": "3_2055947570552115200",
+              "start": 111,
+              "url": "https://t.co/3cqcP3OUD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055974108777877712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月17日，是“国际不再恐同日”\n英国驻华使馆发布文章《彩虹还会回来吗？》，讲述中国的LGBT群体的30年历程。\n从“除罪化”，到不再认定为疾病，再到全面收紧，耽美写手被逮捕，同志app被下架，同志组织被封杀停运的历程。\n中国LGBT群体所经历的，不只是少数群体权益的倒退，也是近年来公民社会、文化表达和个人自由空间持续收缩的缩影。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 209793,
+          "like_count": 1783,
+          "quote_count": 14,
+          "reply_count": 126,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "5月17日，是“国际不再恐同日”\n英国驻华使馆发布文章《彩虹还会回来吗？》，讲述中国的LGBT群体的30年历程。\n从“除罪化”，到不再认定为疾病，再到全面收紧，耽美写手被逮捕，同志app被下架，同志组织被封杀停运的历程。 https://t.co/3cqcP3OUD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 567,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1307
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230084,
+          "following_count": 1055,
+          "like_count": 9560,
+          "listed_count": 8756,
+          "media_count": 46980,
+          "tweet_count": 54101
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

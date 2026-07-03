@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063061118956736981",
+    "created_at": "2026-06-07T17:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063682369769341375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958564025727664128",
+          "start": 0,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063682369769341375",
+    "in_reply_to_user_id": "1958564025727664128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063651821823070509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNS142148 我感觉戒了几天记忆力突然好了一些）不过特别难受然后又继续吃了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063061118956736981",
+        "created_at": "2026-06-07T17:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063682369769341375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958564025727664128",
+              "start": 0,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063682369769341375",
+        "in_reply_to_user_id": "1958564025727664128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063651821823070509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNS142148 我感觉戒了几天记忆力突然好了一些）不过特别难受然后又继续吃了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958564025727664128",
+        "conversation_id": "2063061118956736981",
+        "created_at": "2026-06-07T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063651821823070509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063651821823070509",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063061118956736981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 🤔 戒断会更记忆力丧失吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 641,
+          "like_count": 4208,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1468
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/偏执狂/INFP/OD💊/烟鬼🚬/性别酷儿🏳️‍🌈/重度XP爱好者/重度焦虑/双相/ADHD\n提问箱：https://t.co/VRLP0B0UmF\n不鼓励进行任何滥用行为！只做日常分享\n如果让你感到不适请私信我删除相关内容\n普瑞巴林单推人 HRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 87,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 64,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "距离你148米",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 71,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": true
+      }
+    ]
+  }
+}

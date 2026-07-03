@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059953948719779840"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2059953970173637044",
+    "created_at": "2026-05-28T11:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059953970173637044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uBMDi4hDg1",
+          "end": 29,
+          "expanded_url": "https://x.com/seeFvn/status/2059953970173637044/photo/1",
+          "media_key": "3_2059953948719779840",
+          "start": 6,
+          "url": "https://t.co/uBMDi4hDg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059953970173637044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毕业快乐🎉 https://t.co/uBMDi4hDg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059953948719779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZtM8cbEAAY9Hx.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059953948719779840"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2059953970173637044",
+        "created_at": "2026-05-28T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059953970173637044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBMDi4hDg1",
+              "end": 29,
+              "expanded_url": "https://x.com/seeFvn/status/2059953970173637044/photo/1",
+              "media_key": "3_2059953948719779840",
+              "start": 6,
+              "url": "https://t.co/uBMDi4hDg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059953970173637044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业快乐🎉 https://t.co/uBMDi4hDg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 611,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1391
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

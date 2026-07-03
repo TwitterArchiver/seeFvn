@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046538775124406272",
+        "3_2046538775132868609"
+      ],
+      "media_source_tweet_id": [
+        "2046538781940142335",
+        "2046538781940142335"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2046595240363229410",
+    "created_at": "2026-04-21T14:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046595240363229410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912063502782812160",
+          "start": 3,
+          "username": "Ekouuuuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwimQbcyLs",
+          "end": 49,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+          "media_key": "3_2046538775124406272",
+          "start": 26,
+          "url": "https://t.co/qwimQbcyLs"
+        },
+        {
+          "display_url": "pic.x.com/qwimQbcyLs",
+          "end": 49,
+          "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+          "media_key": "3_2046538775132868609",
+          "start": 26,
+          "url": "https://t.co/qwimQbcyLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046595240363229410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046538781940142335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ekouuuuuu: R.I.P 永遠懷念 https://t.co/qwimQbcyLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2046538775124406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbELEZacAANLO2.jpg",
+        "width": 796
+      },
+      {
+        "height": 1052,
+        "media_key": "3_2046538775132868609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbELEbbkAEJUEw.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046538775124406272",
+            "3_2046538775132868609"
+          ],
+          "media_source_tweet_id": [
+            "2046538781940142335",
+            "2046538781940142335"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2046595240363229410",
+        "created_at": "2026-04-21T14:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046595240363229410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912063502782812160",
+              "start": 3,
+              "username": "Ekouuuuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwimQbcyLs",
+              "end": 49,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+              "media_key": "3_2046538775124406272",
+              "start": 26,
+              "url": "https://t.co/qwimQbcyLs"
+            },
+            {
+              "display_url": "pic.x.com/qwimQbcyLs",
+              "end": 49,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+              "media_key": "3_2046538775132868609",
+              "start": 26,
+              "url": "https://t.co/qwimQbcyLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046595240363229410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046538781940142335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ekouuuuuu: R.I.P 永遠懷念 https://t.co/qwimQbcyLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046538775124406272",
+            "3_2046538775132868609"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2046538781940142335",
+        "created_at": "2026-04-21T10:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046538781940142335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwimQbcyLs",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+              "media_key": "3_2046538775124406272",
+              "start": 11,
+              "url": "https://t.co/qwimQbcyLs"
+            },
+            {
+              "display_url": "pic.x.com/qwimQbcyLs",
+              "end": 34,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2046538781940142335/photo/1",
+              "media_key": "3_2046538775132868609",
+              "start": 11,
+              "url": "https://t.co/qwimQbcyLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046538781940142335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "R.I.P 永遠懷念 https://t.co/qwimQbcyLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 477,
+          "like_count": 3228,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1123
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 11135,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 2751
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

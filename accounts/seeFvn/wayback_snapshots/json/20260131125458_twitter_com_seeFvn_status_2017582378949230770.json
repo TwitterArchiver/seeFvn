@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2017552953574633517",
+    "created_at": "2026-01-31T12:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017582378949230770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017582378949230770",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017552953574633517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 难看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7883,
+        "height": 1280,
+        "media_key": "13_2017552823161131012",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017552823161131012/img/CbxLOjCwkWlWiXtx.jpg",
+        "public_metrics": {
+          "view_count": 458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017552823161131012/vid/avc1/320x568/c4onWZ8hKAOrN1ge.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017552823161131012/vid/avc1/480x852/LlPyDLQakExd7Onj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017552823161131012/vid/avc1/720x1280/qpzj5b4MZwQG-kw1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017552823161131012/pl/crL8OrSbUVug0KqT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2017552953574633517",
+        "created_at": "2026-01-31T12:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017582378949230770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017582378949230770",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017552953574633517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 难看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017552823161131012"
+          ]
+        },
+        "author_id": "1750564848096731136",
+        "conversation_id": "2017552953574633517",
+        "created_at": "2026-01-31T10:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017552953574633517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5I7qk3ZaY",
+              "end": 28,
+              "expanded_url": "https://x.com/yydwzzz/status/2017552953574633517/video/1",
+              "media_key": "13_2017552823161131012",
+              "start": 5,
+              "url": "https://t.co/b5I7qk3ZaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017552953574633517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2544,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没流量了 https://t.co/b5I7qk3ZaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 369,
+          "like_count": 2503,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 834
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "喜欢女生，颜控",
+        "id": "1750564848096731136",
+        "location": "California, USA",
+        "name": "阿比",
+        "pinned_tweet_id": "2015580793876447642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010589806066388992/ZtZbnbC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4020,
+          "following_count": 43,
+          "like_count": 316,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 932
+        },
+        "username": "yydwzzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032321063762460672",
+        "3_2032321063770865666",
+        "3_2032321063926026240",
+        "3_2032321061132648456"
+      ],
+      "media_source_tweet_id": [
+        "2032321067172397511",
+        "2032321067172397511",
+        "2032321067172397511",
+        "2032321067172397511"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032329595920531932",
+    "created_at": "2026-03-13T05:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032329595920531932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OfghRwBpSU",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+          "media_key": "3_2032321063762460672",
+          "start": 46,
+          "url": "https://t.co/OfghRwBpSU"
+        },
+        {
+          "display_url": "pic.x.com/OfghRwBpSU",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+          "media_key": "3_2032321063770865666",
+          "start": 46,
+          "url": "https://t.co/OfghRwBpSU"
+        },
+        {
+          "display_url": "pic.x.com/OfghRwBpSU",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+          "media_key": "3_2032321063926026240",
+          "start": 46,
+          "url": "https://t.co/OfghRwBpSU"
+        },
+        {
+          "display_url": "pic.x.com/OfghRwBpSU",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+          "media_key": "3_2032321061132648456",
+          "start": 46,
+          "url": "https://t.co/OfghRwBpSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032329595920531932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032321067172397511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 现在毒贩都转行，改去卖药了，保健品可比贩毒赚钱多了，还不踩缝纫机 https://t.co/OfghRwBpSU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032321063762460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRBPWMbAAATGNV.jpg",
+        "width": 877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032321063770865666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRBPWObQAIP4Vs.jpg",
+        "width": 877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032321063926026240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRBPWza0AAVcpx.jpg",
+        "width": 877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032321061132648456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRBPMZbQAgGseZ.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032321063762460672",
+            "3_2032321063770865666",
+            "3_2032321063926026240",
+            "3_2032321061132648456"
+          ],
+          "media_source_tweet_id": [
+            "2032321067172397511",
+            "2032321067172397511",
+            "2032321067172397511",
+            "2032321067172397511"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032329595920531932",
+        "created_at": "2026-03-13T05:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032329595920531932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063762460672",
+              "start": 46,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063770865666",
+              "start": 46,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063926026240",
+              "start": 46,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321061132648456",
+              "start": 46,
+              "url": "https://t.co/OfghRwBpSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329595920531932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032321067172397511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 现在毒贩都转行，改去卖药了，保健品可比贩毒赚钱多了，还不踩缝纫机 https://t.co/OfghRwBpSU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032321063762460672",
+            "3_2032321063770865666",
+            "3_2032321063926026240",
+            "3_2032321061132648456"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032321067172397511",
+        "created_at": "2026-03-13T05:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032321067172397511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063762460672",
+              "start": 33,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063770865666",
+              "start": 33,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321063926026240",
+              "start": 33,
+              "url": "https://t.co/OfghRwBpSU"
+            },
+            {
+              "display_url": "pic.x.com/OfghRwBpSU",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2032321067172397511/photo/1",
+              "media_key": "3_2032321061132648456",
+              "start": 33,
+              "url": "https://t.co/OfghRwBpSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032321067172397511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在毒贩都转行，改去卖药了，保健品可比贩毒赚钱多了，还不踩缝纫机 https://t.co/OfghRwBpSU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 401,
+          "like_count": 2740,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 948
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 873,
+          "like_count": 1452,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1399
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

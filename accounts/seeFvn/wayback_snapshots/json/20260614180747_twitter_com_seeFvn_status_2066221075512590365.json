@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2066103900139409724",
+    "created_at": "2026-06-14T18:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066221075512590365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460497400888451072",
+          "start": 0,
+          "username": "zhendehaoshenqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066221075512590365",
+    "in_reply_to_user_id": "1460497400888451072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066198959018983613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhendehaoshenqi 我后面试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2066103900139409724",
+        "created_at": "2026-06-14T18:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066221075512590365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460497400888451072",
+              "start": 0,
+              "username": "zhendehaoshenqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066221075512590365",
+        "in_reply_to_user_id": "1460497400888451072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066198959018983613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhendehaoshenqi 我后面试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460497400888451072",
+        "conversation_id": "2066103900139409724",
+        "created_at": "2026-06-14T16:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066198959018983613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198959018983613",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066103900139409724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 这个兑便利店卖的那种烧酒，真的巨好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 682,
+          "like_count": 4427,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1517
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T06:38:19.000Z",
+        "description": "",
+        "id": "1460497400888451072",
+        "name": "OTAKUHERO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065756280812429312/NBHtwnce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 614,
+          "like_count": 34928,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 367
+        },
+        "username": "zhendehaoshenqi",
+        "verified": false
+      }
+    ]
+  }
+}

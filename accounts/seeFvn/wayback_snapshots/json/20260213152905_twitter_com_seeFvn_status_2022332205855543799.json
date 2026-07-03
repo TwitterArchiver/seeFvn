@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2022293758096896130",
+    "created_at": "2026-02-13T15:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022332205855543799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905944653473665024",
+          "start": 0,
+          "username": "CORELIANT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022332205855543799",
+    "in_reply_to_user_id": "1905944653473665024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022293758096896130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CORELIANT 这样博关心没有人会喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2099,
+        "media_key": "3_2022293744842874881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBChckTaoAEojJP.jpg",
+        "width": 2038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2022293758096896130",
+        "created_at": "2026-02-13T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022332205855543799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905944653473665024",
+              "start": 0,
+              "username": "CORELIANT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022332205855543799",
+        "in_reply_to_user_id": "1905944653473665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022293758096896130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CORELIANT 这样博关心没有人会喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022293744842874881"
+          ]
+        },
+        "author_id": "1905944653473665024",
+        "conversation_id": "2022293758096896130",
+        "created_at": "2026-02-13T12:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022293758096896130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWuQlyWced",
+              "end": 59,
+              "expanded_url": "https://x.com/CORELIANT/status/2022293758096896130/photo/1",
+              "media_key": "3_2022293744842874881",
+              "start": 36,
+              "url": "https://t.co/jWuQlyWced"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022293758096896130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是令人讨厌的健全B，如果我能在自己的手臂上留下伤痕，大家会喜欢我吗🥲 https://t.co/jWuQlyWced"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 369,
+          "like_count": 2628,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 886
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T11:26:43.000Z",
+        "description": "19 Mtf/Mtx & non-binary 🏳️‍⚧️  INFP-T 171cm/59kg  Pronouns are She,Her, They,Them.(Hrt 07/07/25) Protestant The Shepherd Adorning the Stars with Silver Bells.✟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CORELIANTES",
+                "end": 23,
+                "expanded_url": "http://t.me/CORELIANTES",
+                "start": 0,
+                "url": "https://t.co/N8vpQNZ9hw"
+              }
+            ]
+          }
+        },
+        "id": "1905944653473665024",
+        "location": "𝕰𝖑𝖞𝖘𝖎𝖚𝖒",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓲𝓪🍥",
+        "pinned_tweet_id": "2019687216197611824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008805419792343040/zIzfr1jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 258,
+          "like_count": 1204,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/N8vpQNZ9hw",
+        "username": "CORELIANT",
+        "verified": false
+      }
+    ]
+  }
+}

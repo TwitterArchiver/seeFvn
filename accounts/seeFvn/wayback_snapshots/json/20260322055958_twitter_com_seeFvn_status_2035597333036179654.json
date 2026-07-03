@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035597323821277184"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2035597333036179654",
+    "created_at": "2026-03-22T05:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035597333036179654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lj5WGm80GW",
+          "end": 23,
+          "expanded_url": "https://x.com/seeFvn/status/2035597333036179654/photo/1",
+          "media_key": "3_2035597323821277184",
+          "start": 0,
+          "url": "https://t.co/lj5WGm80GW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035597333036179654",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/lj5WGm80GW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035597323821277184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_k-yAaYAA9MNV.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035597323821277184"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2035597333036179654",
+        "created_at": "2026-03-22T05:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035597333036179654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lj5WGm80GW",
+              "end": 23,
+              "expanded_url": "https://x.com/seeFvn/status/2035597333036179654/photo/1",
+              "media_key": "3_2035597323821277184",
+              "start": 0,
+              "url": "https://t.co/lj5WGm80GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035597333036179654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lj5WGm80GW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 428,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1065
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

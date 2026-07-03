@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2057107453616206033",
+    "created_at": "2026-05-20T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057107453616206033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935705327380410369",
+          "start": 3,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057107453616206033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056770620936118751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chanhui1027: 我们抽过同一根烟  喝过同一杯水  牵过彼此的手  摸过你乱糟糟的头发  我拥抱过你彼此的身躯  你身上的味道我最熟悉  做过那么多亲密的事  袒露过那么多次的真心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2057107453616206033",
+        "created_at": "2026-05-20T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057107453616206033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935705327380410369",
+              "start": 3,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057107453616206033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056770620936118751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chanhui1027: 我们抽过同一根烟  喝过同一杯水  牵过彼此的手  摸过你乱糟糟的头发  我拥抱过你彼此的身躯  你身上的味道我最熟悉  做过那么多亲密的事  袒露过那么多次的真心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2056770620936118751",
+        "created_at": "2026-05-19T16:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056770620936118751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056770620936118751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们抽过同一根烟  喝过同一杯水  牵过彼此的手  摸过你乱糟糟的头发  我拥抱过你彼此的身躯  你身上的味道我最熟悉  做过那么多亲密的事  袒露过那么多次的真心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "ee",
+        "id": "1980612830824132609",
+        "name": "背叛自己的意志",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 580,
+          "like_count": 3899,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1342
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "我的坏也照单全收么",
+        "pinned_tweet_id": "2054607333456740638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054603371433312256/Es42Ldys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 29,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 662
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

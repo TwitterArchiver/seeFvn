@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2007390727794504192",
+    "created_at": "2026-01-04T04:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007664940161904688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "xm101027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007664940161904688",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007446219178889603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm101027 ko"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2007390727794504192",
+        "created_at": "2026-01-04T04:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007664940161904688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007664940161904688",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007446219178889603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm101027 ko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2007390727794504192",
+        "created_at": "2026-01-03T13:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007446219178889603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007446219178889603",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007390727794504192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006675906966990849/wjSq28_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 374,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 678
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "你让我感到窒息",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007576498677719040/zhiNiM1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 16,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 194
+        },
+        "username": "xm101027",
+        "verified": false
+      }
+    ]
+  }
+}

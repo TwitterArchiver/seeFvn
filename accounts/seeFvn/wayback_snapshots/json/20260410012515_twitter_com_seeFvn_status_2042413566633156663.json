@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042261213057556480",
+        "3_2042261213078523904",
+        "3_2042261213086924800"
+      ],
+      "media_source_tweet_id": [
+        "2042261779452236095",
+        "2042261779452236095",
+        "2042261779452236095"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2042413566633156663",
+    "created_at": "2026-04-10T01:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042413566633156663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804849792121499648",
+          "start": 3,
+          "username": "OnlyLenKagamine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMjh84G0Sr",
+          "end": 122,
+          "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+          "media_key": "3_2042261213057556480",
+          "start": 99,
+          "url": "https://t.co/ZMjh84G0Sr"
+        },
+        {
+          "display_url": "pic.x.com/ZMjh84G0Sr",
+          "end": 122,
+          "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+          "media_key": "3_2042261213078523904",
+          "start": 99,
+          "url": "https://t.co/ZMjh84G0Sr"
+        },
+        {
+          "display_url": "pic.x.com/ZMjh84G0Sr",
+          "end": 122,
+          "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+          "media_key": "3_2042261213086924800",
+          "start": 99,
+          "url": "https://t.co/ZMjh84G0Sr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042413566633156663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042261779452236095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyLenKagamine: 【大事件❗️求扩散/转发】艾滋病调查问卷填男同给报酬⁉️\n包装成政府公益平台，但实际上是为污名化男同专门费力搭建的，说不定悬赏平台也是他们方面势力发布的！ https://t.co/ZMjh84G0Sr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_2042261213057556480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeRwL7aoAAERrC.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1594,
+        "media_key": "3_2042261213078523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeRwMAakAAsf98.jpg",
+        "width": 966
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2042261213086924800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeRwMCawAAcNiP.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042261213057556480",
+            "3_2042261213078523904",
+            "3_2042261213086924800"
+          ],
+          "media_source_tweet_id": [
+            "2042261779452236095",
+            "2042261779452236095",
+            "2042261779452236095"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2042413566633156663",
+        "created_at": "2026-04-10T01:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042413566633156663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804849792121499648",
+              "start": 3,
+              "username": "OnlyLenKagamine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 122,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213057556480",
+              "start": 99,
+              "url": "https://t.co/ZMjh84G0Sr"
+            },
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 122,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213078523904",
+              "start": 99,
+              "url": "https://t.co/ZMjh84G0Sr"
+            },
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 122,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213086924800",
+              "start": 99,
+              "url": "https://t.co/ZMjh84G0Sr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042413566633156663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042261779452236095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyLenKagamine: 【大事件❗️求扩散/转发】艾滋病调查问卷填男同给报酬⁉️\n包装成政府公益平台，但实际上是为污名化男同专门费力搭建的，说不定悬赏平台也是他们方面势力发布的！ https://t.co/ZMjh84G0Sr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042261213057556480",
+            "3_2042261213078523904",
+            "3_2042261213086924800"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "2042261779452236095",
+        "created_at": "2026-04-09T15:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:19:53.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042261223300088106",
+          "2042261740709462090",
+          "2042261779452236095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 101,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213057556480",
+              "start": 78,
+              "url": "https://t.co/ZMjh84G0Sr"
+            },
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 101,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213078523904",
+              "start": 78,
+              "url": "https://t.co/ZMjh84G0Sr"
+            },
+            {
+              "display_url": "pic.x.com/ZMjh84G0Sr",
+              "end": 101,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2042261779452236095/photo/1",
+              "media_key": "3_2042261213086924800",
+              "start": 78,
+              "url": "https://t.co/ZMjh84G0Sr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261779452236095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16602,
+          "like_count": 221,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "【大事件❗️求扩散/转发】艾滋病调查问卷填男同给报酬⁉️\n包装成政府公益平台，但实际上是为污名化男同专门费力搭建的，说不定悬赏平台也是他们方面势力发布的！ https://t.co/ZMjh84G0Sr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 486,
+          "like_count": 3158,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1109
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "我爱你，这正在摧毁我的生活…｜2008年生｜Korea Univ｜行政专业 ｜梦想是新闻行业｜玩第五人格S牌园丁 A牌红夫人｜pjsk400级 ｜IP：Seoul/Hunan",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.12.27",
+        "name": "阿莫🇹🇼🏳️‍🌈➡️男性力量💪Amoris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4849,
+          "following_count": 450,
+          "like_count": 29809,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 3995
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

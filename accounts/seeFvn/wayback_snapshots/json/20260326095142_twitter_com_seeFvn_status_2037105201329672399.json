@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036707498418450432"
+      ],
+      "media_source_tweet_id": [
+        "2036707583436927292"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2037105201329672399",
+    "created_at": "2026-03-26T09:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037105201329672399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153970326604144640",
+          "start": 3,
+          "username": "Ruters0615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RAPmorKDl",
+          "end": 49,
+          "expanded_url": "https://x.com/Ruters0615/status/2036707583436927292/video/1",
+          "media_key": "13_2036707498418450432",
+          "start": 26,
+          "url": "https://t.co/0RAPmorKDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037105201329672399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036707583436927292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruters0615: 简简单单接个电话😁 https://t.co/0RAPmorKDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63901,
+        "height": 848,
+        "media_key": "13_2036707498418450432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036707498418450432/img/L7KzIsec2_-WYiyo.jpg",
+        "public_metrics": {
+          "view_count": 18715
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036707498418450432/vid/avc1/320x584/qZKPlh2Gw5izZC5C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036707498418450432/vid/avc1/464x848/S5X3yWF8bStvNJfc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036707498418450432/pl/XoBuE3jsH0nUryH-.m3u8"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036707498418450432"
+          ],
+          "media_source_tweet_id": [
+            "2036707583436927292"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2037105201329672399",
+        "created_at": "2026-03-26T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037105201329672399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153970326604144640",
+              "start": 3,
+              "username": "Ruters0615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RAPmorKDl",
+              "end": 49,
+              "expanded_url": "https://x.com/Ruters0615/status/2036707583436927292/video/1",
+              "media_key": "13_2036707498418450432",
+              "start": 26,
+              "url": "https://t.co/0RAPmorKDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037105201329672399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036707583436927292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruters0615: 简简单单接个电话😁 https://t.co/0RAPmorKDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036707498418450432"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2036707583436927292",
+        "created_at": "2026-03-25T07:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036707583436927292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RAPmorKDl",
+              "end": 33,
+              "expanded_url": "https://x.com/Ruters0615/status/2036707583436927292/video/1",
+              "media_key": "13_2036707498418450432",
+              "start": 10,
+              "url": "https://t.co/0RAPmorKDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036707583436927292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 49722,
+          "like_count": 674,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "简简单单接个电话😁 https://t.co/0RAPmorKDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 437,
+          "like_count": 3041,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1098
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296355,
+          "following_count": 2406,
+          "like_count": 2380,
+          "listed_count": 937,
+          "media_count": 2368,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

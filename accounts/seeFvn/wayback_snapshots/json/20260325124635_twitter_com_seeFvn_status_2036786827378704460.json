@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2036786827378704460",
+    "created_at": "2026-03-25T12:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036786827378704460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "912623216899715072",
+          "start": 3,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036786827378704460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036474723111149814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xianzhong_1953: 张雪峰做直播时，有热心观众看到他嘴唇乌紫，提醒他要注意心脏，被张雪峰一通斥责，主播还关掉了观众连线。\n看他轻佻的表情和动作，确实有着典型东北二流子的特征。如果他不是如此张狂，而是及时去就医，也许不会猝死。\n我关心的是，他要求官府攻打台湾，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55309,
+        "height": 480,
+        "media_key": "7_2036474670489473024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036474670489473024/pu/img/BNZ6ZJbYRmfMrId2.jpg",
+        "public_metrics": {
+          "view_count": 248104
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036474670489473024/pu/vid/avc1/364x270/imFg6xEwlaXgA7GI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036474670489473024/pu/vid/avc1/486x360/cg7deVHu12NH-peL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036474670489473024/pu/vid/avc1/648x480/IXKYmQGy3C8fvI1J.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036474670489473024/pu/pl/-QQaXITrELp7BNW4.m3u8?tag=12&v=61a"
+          }
+        ],
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2036786827378704460",
+        "created_at": "2026-03-25T12:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036786827378704460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "912623216899715072",
+              "start": 3,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036786827378704460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036474723111149814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xianzhong_1953: 张雪峰做直播时，有热心观众看到他嘴唇乌紫，提醒他要注意心脏，被张雪峰一通斥责，主播还关掉了观众连线。\n看他轻佻的表情和动作，确实有着典型东北二流子的特征。如果他不是如此张狂，而是及时去就医，也许不会猝死。\n我关心的是，他要求官府攻打台湾，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036474670489473024"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2036474723111149814",
+        "created_at": "2026-03-24T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036474723111149814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y84lfUcRyO",
+              "end": 167,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2036474723111149814/video/1",
+              "media_key": "7_2036474670489473024",
+              "start": 144,
+              "url": "https://t.co/Y84lfUcRyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036474723111149814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 572304,
+          "like_count": 900,
+          "quote_count": 7,
+          "reply_count": 110,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰做直播时，有热心观众看到他嘴唇乌紫，提醒他要注意心脏，被张雪峰一通斥责，主播还关掉了观众连线。\n看他轻佻的表情和动作，确实有着典型东北二流子的特征。如果他不是如此张狂，而是及时去就医，也许不会猝死。\n我关心的是，他要求官府攻打台湾，并愿意捐款5000万，有没有落实？有无搞死日本？ https://t.co/Y84lfUcRyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 438,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1093
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107961,
+          "following_count": 820,
+          "like_count": 258380,
+          "listed_count": 354,
+          "media_count": 23949,
+          "tweet_count": 46778
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

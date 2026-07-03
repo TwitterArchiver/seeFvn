@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2035271150624985445",
+    "created_at": "2026-03-21T08:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035271150624985445"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035271150624985445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2035271150624985445",
+        "created_at": "2026-03-21T08:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035271150624985445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035271150624985445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 426,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1046
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

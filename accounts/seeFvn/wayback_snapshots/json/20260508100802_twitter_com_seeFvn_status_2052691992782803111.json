@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2052691992782803111",
+    "created_at": "2026-05-08T10:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052691992782803111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/seefvn/status/2052668798659141721",
+          "start": 27,
+          "url": "https://t.co/Ix5ZsiyeTE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052691992782803111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052668798659141721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好开心好快乐软软的甚至超过我最近吃的 pr 的感觉了 https://t.co/Ix5ZsiyeTE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2052691992782803111",
+        "created_at": "2026-05-08T10:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052691992782803111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/seefvn/status/2052668798659141721",
+              "start": 27,
+              "url": "https://t.co/Ix5ZsiyeTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052691992782803111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052668798659141721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好开心好快乐软软的甚至超过我最近吃的 pr 的感觉了 https://t.co/Ix5ZsiyeTE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2052668798659141721",
+        "created_at": "2026-05-08T08:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052668798659141721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052668798659141721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑0.4mg 期待期待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 536,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1201
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

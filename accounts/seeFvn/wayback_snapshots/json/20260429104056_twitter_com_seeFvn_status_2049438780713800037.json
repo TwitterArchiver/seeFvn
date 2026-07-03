@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2049008838372982991",
+    "created_at": "2026-04-29T10:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049438780713800037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984866103617802241",
+          "start": 0,
+          "username": "Asuka002Ps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049438780713800037",
+    "in_reply_to_user_id": "1984866103617802241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049383005454778604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka002Ps 抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2049008838372982991",
+        "created_at": "2026-04-29T10:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049438780713800037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984866103617802241",
+              "start": 0,
+              "username": "Asuka002Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049438780713800037",
+        "in_reply_to_user_id": "1984866103617802241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049383005454778604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka002Ps 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984866103617802241",
+        "conversation_id": "2049008838372982991",
+        "created_at": "2026-04-29T06:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049383005454778604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049383005454778604",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049008838372982991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 辛苦了，抱抱🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 498,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1166
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T06:12:23.000Z",
+        "description": "秩序 · 中庸",
+        "id": "1984866103617802241",
+        "name": "P.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984867442259054592/WnxUgAvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 122,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "Asuka002Ps",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2023967967139012613",
+    "created_at": "2026-02-21T11:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025165120616497661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025165120616497661",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024541872270799256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 对呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2023967967139012613",
+        "created_at": "2026-02-21T11:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025165120616497661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025165120616497661",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024541872270799256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935705327380410369",
+        "conversation_id": "2023967967139012613",
+        "created_at": "2026-02-19T17:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024541872270799256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024541872270799256",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023967967139012613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 希望片刻变永远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 370,
+          "like_count": 2629,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 894
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "叹气",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我在哭",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024542030542888960/XbRBewZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 27,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 555
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

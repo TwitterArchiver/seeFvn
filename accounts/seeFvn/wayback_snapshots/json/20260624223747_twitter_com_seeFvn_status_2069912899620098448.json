@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069684255370703090",
+    "created_at": "2026-06-24T22:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T23:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069912899620098448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1385890467057786883",
+          "start": 0,
+          "username": "fang_wilbur"
+        },
+        {
+          "end": 22,
+          "id": "2057552254463291393",
+          "start": 13,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069912899620098448",
+    "in_reply_to_user_id": "1385890467057786883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069905338909049021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang_wilbur @6De_dian 好的谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069684255370703090",
+        "created_at": "2026-06-24T22:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069912899620098448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1385890467057786883",
+              "start": 0,
+              "username": "fang_wilbur"
+            },
+            {
+              "end": 22,
+              "id": "2057552254463291393",
+              "start": 13,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069912899620098448",
+        "in_reply_to_user_id": "1385890467057786883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069905338909049021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_wilbur @6De_dian 好的谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385890467057786883",
+        "conversation_id": "2069684255370703090",
+        "created_at": "2026-06-24T22:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069905338909049021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            },
+            {
+              "end": 17,
+              "id": "2057552254463291393",
+              "start": 8,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069905338909049021",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069890823580447157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn @6De_dian 好抽！ 比金色的濃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 741,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T09:37:08.000Z",
+        "description": "Amateur kigurumi enthusiast in Taiwan / photography 台湾のアマチュア着ぐるみ愛好者 / さつえい 台灣業餘 #kigurumi 愛好者 兼攝影 kig cos 攝 暫不收費 純互惠 #kig #photography",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 80,
+                "tag": "kigurumi"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "kig"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "tag": "photography"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Wilbur_Fang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Wilbur_Fang",
+                "start": 0,
+                "url": "https://t.co/mbNhttKwHC"
+              }
+            ]
+          }
+        },
+        "id": "1385890467057786883",
+        "location": "Taoyuan County, Taiwan",
+        "name": "Wilbur fang",
+        "pinned_tweet_id": "1964702535316631921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960289922264473600/9ZRnEKnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 857,
+          "like_count": 8446,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/mbNhttKwHC",
+        "username": "fang_wilbur",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天将一切重新来该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 220,
+          "like_count": 3871,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

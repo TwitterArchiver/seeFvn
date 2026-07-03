@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047238631442493800",
+    "created_at": "2026-04-23T19:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047392510654472313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031686746585649152",
+          "start": 0,
+          "username": "kiritonotes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047392510654472313",
+    "in_reply_to_user_id": "2031686746585649152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047238631442493800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiritonotes 盐酸伪麻黄碱缓释胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047238631442493800",
+        "created_at": "2026-04-23T19:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047392510654472313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031686746585649152",
+              "start": 0,
+              "username": "kiritonotes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047392510654472313",
+        "in_reply_to_user_id": "2031686746585649152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047238631442493800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiritonotes 盐酸伪麻黄碱缓释胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031686746585649152",
+        "conversation_id": "2047238631442493800",
+        "created_at": "2026-04-23T08:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047238631442493800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047238631442493800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 643,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天感冒太难受了😷推特大佬们有什么感冒了能快速好起来的方法吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 476,
+          "like_count": 3256,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1136
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T11:01:08.000Z",
+        "description": "00后｜国服马超｜欢迎交友\nAI & Growth & Investment & ニジゲン\n211本 日语N2 雅思备考中\nあなたが付き合ってくれれば心強くなる。",
+        "id": "2031686746585649152",
+        "location": "レインボーブリッジ🌉",
+        "name": "Kirito的成長日記",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041602492988047360/WJwCJdTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 583,
+          "like_count": 1957,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1375
+        },
+        "username": "kiritonotes",
+        "verified": true
+      }
+    ]
+  }
+}

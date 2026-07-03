@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047218847913304187",
+    "created_at": "2026-04-23T19:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047393201749987539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3256808383",
+          "start": 0,
+          "username": "fengluoyu"
+        },
+        {
+          "end": 22,
+          "id": "1452505528106569729",
+          "start": 11,
+          "username": "xiaoshunli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047393201749987539",
+    "in_reply_to_user_id": "3256808383",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047279668135682195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengluoyu @xiaoshunli 😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047218847913304187",
+        "created_at": "2026-04-23T19:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047393201749987539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3256808383",
+              "start": 0,
+              "username": "fengluoyu"
+            },
+            {
+              "end": 22,
+              "id": "1452505528106569729",
+              "start": 11,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047393201749987539",
+        "in_reply_to_user_id": "3256808383",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047279668135682195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengluoyu @xiaoshunli 😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3256808383",
+        "conversation_id": "2047218847913304187",
+        "created_at": "2026-04-23T11:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047279668135682195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452505528106569729",
+              "start": 0,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047279668135682195",
+        "in_reply_to_user_id": "1452505528106569729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1137,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047218847913304187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshunli 老北京 煎饼果子 干菜饼都比汉堡好吃，不接受反驳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 476,
+          "like_count": 3256,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1139
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-26T15:00:19.000Z",
+        "description": "画图狗，平常不发推不发朋友圈，可能社恐，也可能是生活很无趣。推送的推文会回复，随缘，白嫖怪一枚",
+        "id": "3256808383",
+        "name": "fengluoyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1272193554819870721/988Ef21T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 151,
+          "like_count": 3711,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 5353
+        },
+        "username": "fengluoyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者，千万畅销书作家。All IN Crypto。擅长空投和Meme。上轮大结果：ARB 1万倍，虫洞 4万倍。Sats百倍 ,ARC20倍,Trump 50倍,4 26倍。",
+        "id": "1452505528106569729",
+        "location": "Palo Alto, CA",
+        "name": "大顺利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31343,
+          "following_count": 7083,
+          "like_count": 25533,
+          "listed_count": 508,
+          "media_count": 267,
+          "tweet_count": 12182
+        },
+        "username": "xiaoshunli",
+        "verified": true
+      }
+    ]
+  }
+}

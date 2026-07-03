@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2010192995732337140",
+    "created_at": "2026-01-11T13:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010341253863637092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990783458210426880",
+          "start": 0,
+          "username": "syx02270"
+        },
+        {
+          "end": 20,
+          "id": "1912063502782812160",
+          "start": 10,
+          "username": "Ekouuuuuu"
+        },
+        {
+          "end": 31,
+          "id": "1998632228272877570",
+          "start": 21,
+          "username": "lianoking"
+        },
+        {
+          "end": 42,
+          "id": "1535816117226074113",
+          "start": 32,
+          "username": "PianistXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010341253863637092",
+    "in_reply_to_user_id": "1990783458210426880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010338414558900388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syx02270 @Ekouuuuuu @lianoking @PianistXH 你先把手机摄像头的猪油味解决吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2010192995732337140",
+        "created_at": "2026-01-11T13:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010341253863637092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990783458210426880",
+              "start": 0,
+              "username": "syx02270"
+            },
+            {
+              "end": 20,
+              "id": "1912063502782812160",
+              "start": 10,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 31,
+              "id": "1998632228272877570",
+              "start": 21,
+              "username": "lianoking"
+            },
+            {
+              "end": 42,
+              "id": "1535816117226074113",
+              "start": 32,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010341253863637092",
+        "in_reply_to_user_id": "1990783458210426880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010338414558900388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syx02270 @Ekouuuuuu @lianoking @PianistXH 你先把手机摄像头的猪油味解决吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990783458210426880",
+        "conversation_id": "2010192995732337140",
+        "created_at": "2026-01-11T13:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010338414558900388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 21,
+              "id": "1998632228272877570",
+              "start": 11,
+              "username": "lianoking"
+            },
+            {
+              "end": 32,
+              "id": "1535816117226074113",
+              "start": 22,
+              "username": "PianistXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010338414558900388",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010337591850315799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu @lianoking @PianistXH 从你帖子里照片流露出来的廉价感很足 我也没有见到过月收入60还在自残的孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "Taiwan",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009995950136389632/SZFvUJO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 373,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 743
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T14:05:48.000Z",
+        "description": "",
+        "id": "1990783458210426880",
+        "name": "一只摆烂的蛆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990807738641719297/7IRYu_Nm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 146
+        },
+        "username": "syx02270",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖藥物依賴‖尼古丁依賴‖N₂O依賴‖養病中…‖🇯🇵🤝🇹🇼‖厭惡一切高高在上的健全人‖悲憫一切逝者‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 111,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 88,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 209,
+          "like_count": 6164,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1147
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T05:54:09.000Z",
+        "description": "",
+        "id": "1998632228272877570",
+        "location": "7.8KM",
+        "name": "少女病痛眼泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009850790505279488/piYoz6vJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "username": "lianoking",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T02:48:05.000Z",
+        "description": "@pianisthanh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "pianisthanh"
+              }
+            ]
+          }
+        },
+        "id": "1535816117226074113",
+        "name": "涵",
+        "pinned_tweet_id": "2008112120496619712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476197200560129/L8efNCVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56008,
+          "following_count": 274,
+          "like_count": 4358,
+          "listed_count": 119,
+          "media_count": 91,
+          "tweet_count": 2381
+        },
+        "username": "PianistXH",
+        "verified": true
+      }
+    ]
+  }
+}

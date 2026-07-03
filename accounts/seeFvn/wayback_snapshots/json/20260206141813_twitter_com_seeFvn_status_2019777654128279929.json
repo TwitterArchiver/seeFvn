@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019777578094239744"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2019777654128279929",
+    "created_at": "2026-02-06T14:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019777654128279929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGgn6noJVp",
+          "end": 51,
+          "expanded_url": "https://x.com/seeFvn/status/2019777654128279929/video/1",
+          "media_key": "13_2019777578094239744",
+          "start": 28,
+          "url": "https://t.co/JGgn6noJVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019777654128279929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起 因为在乎 所以总会无端生出很多情绪 以后不会了 https://t.co/JGgn6noJVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 1280,
+        "media_key": "13_2019777578094239744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019777578094239744/img/iSzK47n6mdwDR1yK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019777578094239744/vid/avc1/320x568/bVMh1wzaxkaj-syA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019777578094239744/vid/avc1/480x852/N8v5Ws4W9VcSsR1E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019777578094239744/vid/avc1/720x1280/gmvYo9LJ5T2IoiHp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019777578094239744/pl/rq-cltid7E0GbvL1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019777578094239744"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2019777654128279929",
+        "created_at": "2026-02-06T14:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019777654128279929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGgn6noJVp",
+              "end": 51,
+              "expanded_url": "https://x.com/seeFvn/status/2019777654128279929/video/1",
+              "media_key": "13_2019777578094239744",
+              "start": 28,
+              "url": "https://t.co/JGgn6noJVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019777654128279929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 因为在乎 所以总会无端生出很多情绪 以后不会了 https://t.co/JGgn6noJVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 364,
+          "like_count": 2554,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 850
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

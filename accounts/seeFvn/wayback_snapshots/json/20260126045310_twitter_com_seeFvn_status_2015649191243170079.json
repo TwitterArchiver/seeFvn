@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2015445605276168598",
+    "created_at": "2026-01-26T04:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015649191243170079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844383857581359105",
+          "start": 0,
+          "username": "Gangbangxjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015649191243170079",
+    "in_reply_to_user_id": "1844383857581359105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015647694119952678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangbangxjp 你也配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2015445605276168598",
+        "created_at": "2026-01-26T04:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015649191243170079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015649191243170079",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015647694119952678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp 你也配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844383857581359105",
+        "conversation_id": "2015445605276168598",
+        "created_at": "2026-01-26T04:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015647694119952678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015647694119952678",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015445605276168598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 不行去路上抢劫，一两块钱然后报警投案，去坐牢吧。都是在小房间里生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "到此為止",
+        "id": "1980612830824132609",
+        "name": "快手用户17891782778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015464545159110656/thuMMovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 372,
+          "like_count": 2430,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 787
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "location": "Japan",
+        "name": "狂暴抽插習近平屁眼",
+        "pinned_tweet_id": "1973420495065469141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 124,
+          "like_count": 5533,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 5362
+        },
+        "username": "Gangbangxjp",
+        "verified": false
+      }
+    ]
+  }
+}

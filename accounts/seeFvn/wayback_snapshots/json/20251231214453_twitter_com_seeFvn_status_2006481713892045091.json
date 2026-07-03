@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2005969125445980588",
+    "created_at": "2025-12-31T21:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006481713892045091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "ARVNVT870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006481713892045091",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005969125445980588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARVNVT870 长的好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2005969112590344199",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aiR6JaYAcjVGy.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2005969125445980588",
+        "created_at": "2025-12-31T21:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006481713892045091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "ARVNVT870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006481713892045091",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005969125445980588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARVNVT870 长的好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005969112590344199"
+          ]
+        },
+        "author_id": "1803288616539668480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005969125445980588",
+        "created_at": "2025-12-30T11:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005969125445980588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPpYsoUf8S",
+              "end": 44,
+              "expanded_url": "https://x.com/ARVNVT870/status/2005969125445980588/photo/1",
+              "media_key": "3_2005969112590344199",
+              "start": 21,
+              "url": "https://t.co/hPpYsoUf8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005969125445980588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 142295,
+          "like_count": 805,
+          "quote_count": 7,
+          "reply_count": 95,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一想到这种军批连保安都打不过，我就想笑🤣 https://t.co/hPpYsoUf8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006471242996658176/VDHF3nVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 375,
+          "like_count": 2160,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 652
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "Quyết chiến — Quyết thắng",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kitaikuyo870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kitaikuyo870",
+                "start": 0,
+                "url": "https://t.co/OHYvPUH9E3"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "越南共和国",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996643537073647616/eaMX5LQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1026,
+          "like_count": 10851,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/OHYvPUH9E3",
+        "username": "ARVNVT870",
+        "verified": false
+      }
+    ]
+  }
+}

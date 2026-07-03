@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056393971556106631",
+    "created_at": "2026-05-18T15:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056393971556106631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056393971556106631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056334482953641984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie: 李克强10个好人瞬间：\n1.在上任总理之处，提出“法无禁止即可为”，这是一种英国式的法学思想，旨在扩大人民权利。 \n2.接见同性恋交友App Blued创始人耿乐。这是中国的国家领导人，唯一一次公开与同性恋群体接触。\n3.提出“李克强指数”，反对GD…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056393971556106631",
+        "created_at": "2026-05-18T15:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056393971556106631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056393971556106631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056334482953641984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie: 李克强10个好人瞬间：\n1.在上任总理之处，提出“法无禁止即可为”，这是一种英国式的法学思想，旨在扩大人民权利。 \n2.接见同性恋交友App Blued创始人耿乐。这是中国的国家领导人，唯一一次公开与同性恋群体接触。\n3.提出“李克强指数”，反对GD…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2056334482953641984",
+        "created_at": "2026-05-18T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056334482953641984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056334482953641984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "李克强10个好人瞬间：\n1.在上任总理之处，提出“法无禁止即可为”，这是一种英国式的法学思想，旨在扩大人民权利。 \n2.接见同性恋交友App Blued创始人耿乐。这是中国的国家领导人，唯一一次公开与同性恋群体接触。\n3.提出“李克强指数”，反对GDP数据造假。 \n4.推动多次个人所得税降低。\n在他卸任后，再无这种对个人的减税政策。甚至有各类的实际加税政策。\n5.公开指出“6亿人月收入仅1000元左右”，破除假大空的政治宣传。\n6.疫情动态清零期间，中国经济无比困难，多次开会力保经济大盘。 \n7.对香港、台湾做出相对温和的政治表态。 \n8.大力推动网络提速降费，大幅降低上网流量费用。直到今天，中国人还是享受这个政策的好处。\n9.《我不是药神》上映后，批示加快抗癌药降价保供。\n10.卸任前表态“长江、黄河不会倒流”。\n这是一种非常少见的政治动作，是希望宣誓中国的改革开放、中国的政治情况不会倒退。\n可是他突然的死去了。\n——中共国的体制存在着根源性的问题，永远会错过一个相对更有良心的领导人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 31048,
+          "like_count": 371,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "李克强10个好人瞬间：\n1.在上任总理之处，提出“法无禁止即可为”，这是一种英国式的法学思想，旨在扩大人民权利。 \n2.接见同性恋交友App Blued创始人耿乐。这是中国的国家领导人，唯一一次公开与同性恋群体接触。\n3.提出“李克强指数”，反对GDP数据造假。 \n4.推动多次个人所得税降低。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 571,
+          "like_count": 3727,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1311
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Being anti-CCP inside China",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053389907809464320/958yo0QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10564,
+          "following_count": 1803,
+          "like_count": 23066,
+          "listed_count": 81,
+          "media_count": 1670,
+          "tweet_count": 5070
+        },
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069346369421373723",
+    "created_at": "2026-06-23T09:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069353113363120184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069353113363120184",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069346369421373723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 仙女下凡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2069346348286332928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfLijbb0AA7yIt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2069346360525307904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfLjRBbwAAUd3U.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069346369421373723",
+        "created_at": "2026-06-23T09:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069353113363120184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069353113363120184",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069346369421373723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 仙女下凡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069346348286332928",
+            "3_2069346360525307904"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2069346369421373723",
+        "created_at": "2026-06-23T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069346369421373723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIrfEwzUc9",
+              "end": 26,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2069346369421373723/photo/1",
+              "media_key": "3_2069346348286332928",
+              "start": 3,
+              "url": "https://t.co/oIrfEwzUc9"
+            },
+            {
+              "display_url": "pic.x.com/oIrfEwzUc9",
+              "end": 26,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2069346369421373723/photo/1",
+              "media_key": "3_2069346360525307904",
+              "start": 3,
+              "url": "https://t.co/oIrfEwzUc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069346369421373723",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐺🐺 https://t.co/oIrfEwzUc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 737,
+          "like_count": 4679,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo‖1/7/2026 DXM事變永遠懷念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 370,
+          "like_count": 14209,
+          "listed_count": 1,
+          "media_count": 626,
+          "tweet_count": 3776
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2035573533372494161",
+    "created_at": "2026-03-22T04:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035573533372494161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035573533372494161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035287868302819606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike666: 戒掉磕药和歌手以后发现生活没什么意思，想哭但是哭不出来，也不知道怎么做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2035573533372494161",
+        "created_at": "2026-03-22T04:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035573533372494161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035573533372494161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035287868302819606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike666: 戒掉磕药和歌手以后发现生活没什么意思，想哭但是哭不出来，也不知道怎么做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2035287868302819606",
+        "created_at": "2026-03-21T09:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035287868302819606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035287868302819606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "戒掉磕药和歌手以后发现生活没什么意思，想哭但是哭不出来，也不知道怎么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 428,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1064
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 45,
+                "expanded_url": "https://pr80.bid/",
+                "start": 22,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.fyi",
+                "end": 23,
+                "expanded_url": "https://fayou.fyi",
+                "start": 0,
+                "url": "https://t.co/vtS1w2QdPH"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科",
+        "pinned_tweet_id": "2035560092050039087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 582,
+          "like_count": 351,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/vtS1w2QdPH",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

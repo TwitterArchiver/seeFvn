@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056745968805228745",
+    "created_at": "2026-05-19T14:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056745968805228745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/6n75F3G",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/6n75F3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745968805228745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056694246695154168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 今年五月初最高人民法院对性少数的最新表态 ，这篇回访并没有浮于表面，而是从性少数基本人权出发，对名誉权，劳动权，教育权做出司法解释，打破了传统二元秩序的垄断，希望这是黎明前的曙光，让我们拭目以待 https://t.co/6n75F3G…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2056694236830208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrYgvXbkAAKe2Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056745968805228745",
+        "created_at": "2026-05-19T14:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056745968805228745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/6n75F3G",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/6n75F3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745968805228745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056694246695154168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 今年五月初最高人民法院对性少数的最新表态 ，这篇回访并没有浮于表面，而是从性少数基本人权出发，对名誉权，劳动权，教育权做出司法解释，打破了传统二元秩序的垄断，希望这是黎明前的曙光，让我们拭目以待 https://t.co/6n75F3G…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056694236830208000"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2056694246695154168",
+        "created_at": "2026-05-19T11:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056694246695154168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6n75F3GoYM",
+              "end": 121,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2056694246695154168/photo/1",
+              "media_key": "3_2056694236830208000",
+              "start": 98,
+              "url": "https://t.co/6n75F3GoYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056694246695154168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5153,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今年五月初最高人民法院对性少数的最新表态 ，这篇回访并没有浮于表面，而是从性少数基本人权出发，对名誉权，劳动权，教育权做出司法解释，打破了传统二元秩序的垄断，希望这是黎明前的曙光，让我们拭目以待 https://t.co/6n75F3GoYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "ee",
+        "id": "1980612830824132609",
+        "name": "背叛自己的意志",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 574,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1326
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 3411,
+          "like_count": 1321,
+          "listed_count": 16,
+          "media_count": 249,
+          "tweet_count": 1699
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

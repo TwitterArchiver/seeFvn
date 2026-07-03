@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063338186324005038",
+    "created_at": "2026-06-07T06:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063509296495935973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951930939248082944",
+          "start": 0,
+          "username": "Love_OXYcontin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063509296495935973",
+    "in_reply_to_user_id": "951930939248082944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063489171256377374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_OXYcontin 对！感觉一辈子就这样了 ww…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063338186324005038",
+        "created_at": "2026-06-07T06:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063509296495935973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951930939248082944",
+              "start": 0,
+              "username": "Love_OXYcontin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063509296495935973",
+        "in_reply_to_user_id": "951930939248082944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063489171256377374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_OXYcontin 对！感觉一辈子就这样了 ww…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "951930939248082944",
+        "conversation_id": "2063338186324005038",
+        "created_at": "2026-06-07T05:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063489171256377374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489171256377374",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063338186324005038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 我去。。11岁开始OD么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 640,
+          "like_count": 4201,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1464
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTX🏳️‍⚧️ 已术后 10年 ADHD 环形心境障碍 BZD/Zdrug/ Opioids-重度依赖 情绪阴晴不定 交友dd OD/2年\n\n-活着就是为了药物 没有药物我会死-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "天国",
+        "name": "呓语🍥",
+        "pinned_tweet_id": "2062790519730901118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062758357006708736/N3oDIk-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 233,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

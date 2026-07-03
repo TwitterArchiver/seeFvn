@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2049008838372982991",
+    "created_at": "2026-04-28T12:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049106718551069137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912667915251511296",
+          "start": 0,
+          "username": "Ciky_Shore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049106718551069137",
+    "in_reply_to_user_id": "1912667915251511296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049013961715273990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciky_Shore 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2049008838372982991",
+        "created_at": "2026-04-28T12:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049106718551069137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912667915251511296",
+              "start": 0,
+              "username": "Ciky_Shore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049106718551069137",
+        "in_reply_to_user_id": "1912667915251511296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049013961715273990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciky_Shore 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912667915251511296",
+        "conversation_id": "2049008838372982991",
+        "created_at": "2026-04-28T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049013961715273990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049013961715273990",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049008838372982991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 没事就好（w）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 491,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1159
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "Ciky/sɪ'kɪ/辞魁月and月见初霜 也可以叫我月霜！/🍥2026.4.16/这里只是一个垃圾桶喵/究竟什么时候才能死掉呢/出生日2009.2.6/CODM/逆水寒//lolm/提前致歉因我说的话而伤害到的人喵喵喵/我就是个超级大傻福/我在除夕夜逮狗 叫我野狗猎手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cikyitz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cikyitz",
+                "start": 0,
+                "url": "https://t.co/4gXj9Q6KZO"
+              }
+            ]
+          }
+        },
+        "id": "1912667915251511296",
+        "location": "湮灭潮",
+        "name": "辞魁月",
+        "pinned_tweet_id": "2048446987171962897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 337,
+          "like_count": 1916,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/4gXj9Q6KZO",
+        "username": "Ciky_Shore",
+        "verified": false
+      }
+    ]
+  }
+}

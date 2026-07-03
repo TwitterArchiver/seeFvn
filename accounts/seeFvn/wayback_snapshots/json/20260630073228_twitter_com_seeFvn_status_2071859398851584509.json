@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071852399967522974",
+    "created_at": "2026-06-30T07:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071859398851584509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068676915381108736",
+          "start": 0,
+          "username": "caicaixi9927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071859398851584509",
+    "in_reply_to_user_id": "2068676915381108736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071852399967522974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicaixi9927 耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071852382980366337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCyw-KXYAEMxgd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071852399967522974",
+        "created_at": "2026-06-30T07:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071859398851584509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068676915381108736",
+              "start": 0,
+              "username": "caicaixi9927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071859398851584509",
+        "in_reply_to_user_id": "2068676915381108736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071852399967522974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicaixi9927 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071852382980366337"
+          ]
+        },
+        "author_id": "2068676915381108736",
+        "conversation_id": "2071852399967522974",
+        "created_at": "2026-06-30T07:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071852399967522974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nYz7lMq2Z",
+              "end": 30,
+              "expanded_url": "https://x.com/caicaixi9927/status/2071852399967522974/photo/1",
+              "media_key": "3_2071852382980366337",
+              "start": 7,
+              "url": "https://t.co/9nYz7lMq2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071852399967522974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来嘛，耍起噻 https://t.co/9nYz7lMq2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 800,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T12:48:57.000Z",
+        "description": "前世@xixijun8827\n发点碎碎念和日常\n欢迎互fo，祝幸运🍀常在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "xixijun8827"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 0,
+                "url": "https://t.co/n5aoNSvcZm"
+              }
+            ]
+          }
+        },
+        "id": "2068676915381108736",
+        "name": "君兮熙君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068677772927549440/TfVKr61c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/n5aoNSvcZm",
+        "username": "caicaixi9927",
+        "verified": false
+      }
+    ]
+  }
+}

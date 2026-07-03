@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2036459152856457666",
+    "created_at": "2026-03-24T15:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036459152856457666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2011873376445612032",
+          "start": 3,
+          "username": "MutsumiXiaomu"
+        },
+        {
+          "end": 30,
+          "id": "1962425480612851712",
+          "start": 19,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036459152856457666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036445252480106633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MutsumiXiaomu: @yaowubaike 首先可以用安非他酮来取代普瑞巴林和愈美片被禁售后的空虚，用处方生成器随便弄个假处方就可以在淘宝上买。\n然后是根本不可能禁售愈美片，愈美片是OTC，被禁售了你要人家厂子倒闭？普瑞巴林药圈的天，禁售普瑞你难道让oder们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2036459152856457666",
+        "created_at": "2026-03-24T15:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036459152856457666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2011873376445612032",
+              "start": 3,
+              "username": "MutsumiXiaomu"
+            },
+            {
+              "end": 30,
+              "id": "1962425480612851712",
+              "start": 19,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036459152856457666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036445252480106633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MutsumiXiaomu: @yaowubaike 首先可以用安非他酮来取代普瑞巴林和愈美片被禁售后的空虚，用处方生成器随便弄个假处方就可以在淘宝上买。\n然后是根本不可能禁售愈美片，愈美片是OTC，被禁售了你要人家厂子倒闭？普瑞巴林药圈的天，禁售普瑞你难道让oder们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011873376445612032",
+        "conversation_id": "2036422538436432030",
+        "created_at": "2026-03-24T14:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036445252480106633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036445252480106633",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036422538436432030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 首先可以用安非他酮来取代普瑞巴林和愈美片被禁售后的空虚，用处方生成器随便弄个假处方就可以在淘宝上买。\n然后是根本不可能禁售愈美片，愈美片是OTC，被禁售了你要人家厂子倒闭？普瑞巴林药圈的天，禁售普瑞你难道让oder们集体自杀？更何况oder本来就占比很少，网购普瑞的97%以上都是正常看病吃药的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 439,
+          "like_count": 3033,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1087
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨BPD  重度抑郁 被害妄想丨好朋友：@Natsumeann13丨亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)     ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "location": "为这个世界而祷哀吧",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2033416843646697603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 994,
+          "like_count": 7486,
+          "listed_count": 21,
+          "media_count": 54,
+          "tweet_count": 1426
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 36,
+          "like_count": 425,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

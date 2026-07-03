@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052760093654224896",
+        "3_2052760093654228992"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2052760108573360159",
+    "created_at": "2026-05-08T14:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052760108573360159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmggPpEfuX",
+          "end": 41,
+          "expanded_url": "https://x.com/seeFvn/status/2052760108573360159/photo/1",
+          "media_key": "3_2052760093654224896",
+          "start": 18,
+          "url": "https://t.co/bmggPpEfuX"
+        },
+        {
+          "display_url": "pic.x.com/bmggPpEfuX",
+          "end": 41,
+          "expanded_url": "https://x.com/seeFvn/status/2052760108573360159/photo/1",
+          "media_key": "3_2052760093654228992",
+          "start": 18,
+          "url": "https://t.co/bmggPpEfuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052760108573360159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸡哥为什么关注我后把我取关了😭😭😭 https://t.co/bmggPpEfuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052760093654224896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzebd9bkAA8N5O.jpg",
+        "width": 947
+      },
+      {
+        "height": 541,
+        "media_key": "3_2052760093654228992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzebd9boAAFDL_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052760093654224896",
+            "3_2052760093654228992"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2052760108573360159",
+        "created_at": "2026-05-08T14:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052760108573360159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmggPpEfuX",
+              "end": 41,
+              "expanded_url": "https://x.com/seeFvn/status/2052760108573360159/photo/1",
+              "media_key": "3_2052760093654224896",
+              "start": 18,
+              "url": "https://t.co/bmggPpEfuX"
+            },
+            {
+              "display_url": "pic.x.com/bmggPpEfuX",
+              "end": 41,
+              "expanded_url": "https://x.com/seeFvn/status/2052760108573360159/photo/1",
+              "media_key": "3_2052760093654228992",
+              "start": 18,
+              "url": "https://t.co/bmggPpEfuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052760108573360159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥为什么关注我后把我取关了😭😭😭 https://t.co/bmggPpEfuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 536,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1203
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2029529116446257176",
+    "created_at": "2026-03-05T12:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029529116446257176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029529116446257176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每一次在同毫克普瑞巴林的药效里想起来那一天的记忆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2029529116446257176",
+        "created_at": "2026-03-05T12:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029529116446257176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029529116446257176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每一次在同毫克普瑞巴林的药效里想起来那一天的记忆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "愿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027881804263235584/0j4lyElT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 387,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 911
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

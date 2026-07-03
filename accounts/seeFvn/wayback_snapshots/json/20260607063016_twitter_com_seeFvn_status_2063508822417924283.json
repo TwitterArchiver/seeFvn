@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063435644043735431",
+    "created_at": "2026-06-07T06:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063508822417924283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438866373615112192",
+          "start": 0,
+          "username": "whatisnickidk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063508822417924283",
+    "in_reply_to_user_id": "1438866373615112192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063505500898197539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatisnickidk 也很好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063505488462180352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMLTw_bcAAe_D4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063435644043735431",
+        "created_at": "2026-06-07T06:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063508822417924283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438866373615112192",
+              "start": 0,
+              "username": "whatisnickidk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063508822417924283",
+        "in_reply_to_user_id": "1438866373615112192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063505500898197539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatisnickidk 也很好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063505488462180352"
+          ]
+        },
+        "author_id": "1438866373615112192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063435644043735431",
+        "created_at": "2026-06-07T06:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063505500898197539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACnnM7a3aP",
+              "end": 42,
+              "expanded_url": "https://x.com/whatisnickidk/status/2063505500898197539/photo/1",
+              "media_key": "3_2063505488462180352",
+              "start": 19,
+              "url": "https://t.co/ACnnM7a3aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063505500898197539",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063435644043735431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 我是低配地雷女😭😭😭 https://t.co/ACnnM7a3aP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 640,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1461
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T14:04:25.000Z",
+        "description": "我也不知道这是谁的小号/其实是@zzzChumo/负能树洞号 不营业/可能是梗小鬼/双相/放飞自我/07下半/苦逼打工/无证磕糖中/天残/家长半管不管党/人形自走虎式坦克/钱钱钱钱钱钱/想毁灭世界/在学日语/精神状态良好/这个人懒死了，什么都没写_(:з」∠)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "zzzChumo"
+              }
+            ]
+          }
+        },
+        "id": "1438866373615112192",
+        "location": "地狱",
+        "name": "💊pr80有售 | 我也不知道我的昵称是什么🍥",
+        "pinned_tweet_id": "2063219626587373951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836760952475422720/nN582z5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 12,
+          "like_count": 1226,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 185
+        },
+        "username": "whatisnickidk",
+        "verified": false
+      }
+    ]
+  }
+}

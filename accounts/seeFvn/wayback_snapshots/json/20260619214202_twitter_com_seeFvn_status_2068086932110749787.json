@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068084666024726720",
+    "created_at": "2026-06-19T21:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T22:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068086932110749787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2043606626947780608",
+          "start": 0,
+          "username": "Cqddts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068086932110749787",
+    "in_reply_to_user_id": "2043606626947780608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068086460369264933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cqddts 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068084666024726720",
+        "created_at": "2026-06-19T21:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068086932110749787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2043606626947780608",
+              "start": 0,
+              "username": "Cqddts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068086932110749787",
+        "in_reply_to_user_id": "2043606626947780608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068086460369264933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cqddts 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043606626947780608",
+        "conversation_id": "2068084666024726720",
+        "created_at": "2026-06-19T21:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068086460369264933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068086460369264933",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068084666024726720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 710,
+          "like_count": 4589,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T08:26:28.000Z",
+        "description": "",
+        "id": "2043606626947780608",
+        "name": "Cq",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Cqddts",
+        "verified": false
+      }
+    ]
+  }
+}

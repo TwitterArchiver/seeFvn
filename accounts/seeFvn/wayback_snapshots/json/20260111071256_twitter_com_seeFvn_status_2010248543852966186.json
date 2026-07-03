@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2010248543852966186",
+    "created_at": "2026-01-11T07:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010248543852966186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980612830824132609",
+          "start": 3,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010248543852966186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010248498839703987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seeFvn: 关我屁事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2010248543852966186",
+        "created_at": "2026-01-11T07:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010248543852966186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980612830824132609",
+              "start": 3,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010248543852966186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010248498839703987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seeFvn: 关我屁事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2010248498839703987",
+        "created_at": "2026-01-11T07:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010248498839703987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2010005005735211204",
+              "start": 5,
+              "url": "https://t.co/f3nhF7SY1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010248498839703987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010005005735211204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关我屁事 https://t.co/f3nhF7SY1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "Taiwan",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009995950136389632/SZFvUJO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 377,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 720
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

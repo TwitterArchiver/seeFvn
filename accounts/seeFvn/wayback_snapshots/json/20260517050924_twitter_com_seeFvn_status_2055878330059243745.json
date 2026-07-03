@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2055577903354761635",
+    "created_at": "2026-05-17T05:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055878330059243745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1171658344861511682",
+          "start": 0,
+          "username": "Qslhxw77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055878330059243745",
+    "in_reply_to_user_id": "1171658344861511682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055703226234949909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qslhxw77 30分钟1t啦0.3g的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2055577903354761635",
+        "created_at": "2026-05-17T05:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055878330059243745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055878330059243745",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055703226234949909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 30分钟1t啦0.3g的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171658344861511682",
+        "conversation_id": "2055577903354761635",
+        "created_at": "2026-05-16T17:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055703226234949909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055703226234949909",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055577903354761635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 加巴怎么联呀🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 570,
+          "like_count": 3720,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1305
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-792-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031108261014024197/KWrNJISV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 297,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 293
+        },
+        "username": "Qslhxw77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2060225852428997091",
+    "created_at": "2026-05-29T12:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060334234171298172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060334234171298172",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060225852428997091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 休息一会b吧🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9580,
+        "height": 1280,
+        "media_key": "13_2060225518629425152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060225518629425152/img/ftlDfKkKDvAhoyJe.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060225518629425152/vid/avc1/320x568/3G3reCkEELXs29pN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060225518629425152/vid/avc1/480x852/FFf_o85LZizvaIEd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060225518629425152/vid/avc1/720x1280/2ewCB_C4wJ47jcHI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060225518629425152/pl/2yYUQ3oFdWQ2AjIn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2060225852428997091",
+        "created_at": "2026-05-29T12:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060334234171298172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334234171298172",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060225852428997091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 休息一会b吧🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060225518629425152"
+          ]
+        },
+        "author_id": "1935705327380410369",
+        "conversation_id": "2060225852428997091",
+        "created_at": "2026-05-29T05:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060225852428997091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ilelmsipC",
+              "end": 30,
+              "expanded_url": "https://x.com/chanhui1027/status/2060225852428997091/video/1",
+              "media_key": "13_2060225518629425152",
+              "start": 7,
+              "url": "https://t.co/1ilelmsipC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060225852428997091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躯体化了好烦 https://t.co/1ilelmsipC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 618,
+          "like_count": 4051,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1399
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "想要幸福",
+        "pinned_tweet_id": "2058970455969759286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059738289733869568/JVuaU-yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 32,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 571
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

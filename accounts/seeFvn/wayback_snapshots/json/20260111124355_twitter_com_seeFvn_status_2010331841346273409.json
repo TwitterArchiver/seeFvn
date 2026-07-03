@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2010331841346273409",
+    "created_at": "2026-01-11T12:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T13:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010331841346273409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhao_tito8964/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/zhao_tito8964/status/2010330124043047126",
+          "start": 17,
+          "url": "https://t.co/d6YENcol6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010331841346273409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010330124043047126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是鬼吗好吓人 你真的把我吓到了 https://t.co/d6YENcol6t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2010331841346273409",
+        "created_at": "2026-01-11T12:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010331841346273409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhao_tito8964/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zhao_tito8964/status/2010330124043047126",
+              "start": 17,
+              "url": "https://t.co/d6YENcol6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010331841346273409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010330124043047126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是鬼吗好吓人 你真的把我吓到了 https://t.co/d6YENcol6t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2010312097973031377",
+        "created_at": "2026-01-11T12:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010330124043047126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 23,
+              "id": "1935705327380410369",
+              "start": 14,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010330124043047126",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010312097973031377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ @xm101027 小太妹轮流上阵骂街有点像星际争霸里的跳虫轮番A-move上来送🙊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "Taiwan",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009995950136389632/SZFvUJO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 373,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 730
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "And after his Oscar winning performance,\nI left the room and never saw him again.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "伏尔泰酒馆🐰🍺",
+        "pinned_tweet_id": "2004884918061723997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985718593019932672/Qmn-SVuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1344,
+          "like_count": 23402,
+          "listed_count": 1,
+          "media_count": 1159,
+          "tweet_count": 15005
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

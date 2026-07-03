@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2009918621552943128",
+    "created_at": "2026-01-10T09:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T10:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009918621552943128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009918621552943128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子，今天母亲节，妈妈不需要你送我什么贵重的礼物，我只希望你别玩emo系了，天天人工制造黑眼圈，每天早上我一起床看见你都被吓得两眼一黑，我差点以为贞子从日本移民来我们家了呢，好几次给妈妈吓得心脏病发作了呢！所以孩子，答应妈妈别玩emo系了好吗，算妈妈求你了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2009918621552943128",
+        "created_at": "2026-01-10T09:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009918621552943128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009918621552943128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，今天母亲节，妈妈不需要你送我什么贵重的礼物，我只希望你别玩emo系了，天天人工制造黑眼圈，每天早上我一起床看见你都被吓得两眼一黑，我差点以为贞子从日本移民来我们家了呢，好几次给妈妈吓得心脏病发作了呢！所以孩子，答应妈妈别玩emo系了好吗，算妈妈求你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "7",
+        "id": "1980612830824132609",
+        "location": "we never apart",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007963413142749184/j-8EP0zr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 376,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 713
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

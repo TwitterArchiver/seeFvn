@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2046448242721005593",
+    "created_at": "2026-04-21T04:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046448242721005593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ekouuuuuu/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ekouuuuuu/status/2046442829287956814",
+          "start": 28,
+          "url": "https://t.co/nI52aXTV10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046448242721005593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046442829287956814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不好意思，当前药品属于网络平台禁售药品，请到线下购买。 https://t.co/nI52aXTV10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2046448242721005593",
+        "created_at": "2026-04-21T04:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046448242721005593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ekouuuuuu/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ekouuuuuu/status/2046442829287956814",
+              "start": 28,
+              "url": "https://t.co/nI52aXTV10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046448242721005593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046442829287956814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好意思，当前药品属于网络平台禁售药品，请到线下购买。 https://t.co/nI52aXTV10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912063502782812160",
+        "conversation_id": "2046442829287956814",
+        "created_at": "2026-04-21T04:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046442829287956814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046442829287956814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据国家最新药品监管规定，普瑞巴林口服单方制剂无法通过线上开具处方，请您前往线下实体医疗机构就诊购药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 476,
+          "like_count": 3216,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1119
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "Don't you let me go‖男友@Shiroko_Li‖叫我白菜就好‖三民主義‖🚪2778收錢我就跑路‖查主頁成分我會回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 270,
+          "like_count": 11121,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2033057101581529604",
+    "created_at": "2026-03-15T07:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033085150221996191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "RIP8964Massacre"
+        },
+        {
+          "end": 26,
+          "id": "1667129907795886081",
+          "start": 17,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033085150221996191",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033079002655752388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RIP8964Massacre @mods999_ 你吃 od 馒头爽不爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2033057101581529604",
+        "created_at": "2026-03-15T07:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033085150221996191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "RIP8964Massacre"
+            },
+            {
+              "end": 26,
+              "id": "1667129907795886081",
+              "start": 17,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033085150221996191",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033079002655752388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RIP8964Massacre @mods999_ 你吃 od 馒头爽不爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "2033057101581529604",
+        "created_at": "2026-03-15T07:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033079002655752388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033079002655752388",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033077986552066529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 那没事了离我远点正合我意😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 406,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 960
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "开心不喝水不开心也不喝水",
+        "id": "1531874456997863424",
+        "location": "尖沙咀铁锅炖大鹅",
+        "name": "不开心就od",
+        "pinned_tweet_id": "2032697973667500483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 166,
+          "like_count": 13332,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1381
+        },
+        "username": "RIP8964Massacre",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "不是特别抽象的都会回fo\\Oder\\阴暗B\\纯种汉奸🇯🇵\\喜欢一击脱离实在不爽开个小号来骂\\KOJIMA世界一番!",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "白武男",
+        "pinned_tweet_id": "1930267627890585814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030572155969384449/y_RsRxaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 408,
+          "like_count": 31712,
+          "listed_count": 2,
+          "media_count": 1228,
+          "tweet_count": 5161
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

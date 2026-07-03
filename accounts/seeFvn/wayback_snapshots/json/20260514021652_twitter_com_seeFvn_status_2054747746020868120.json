@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2054747746020868120",
+    "created_at": "2026-05-14T02:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054747746020868120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751595389562822657",
+          "start": 3,
+          "username": "ijia522218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054747746020868120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054499401897263537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijia522218: 健全人说把什么抑郁症改成什么生殖器官症之类的就没人得了，这句话真是把低智傲慢不了解心理疾病的智商欠缺感拉满了及道德低下。被平台血图突脸吓到你无差别攻击所有心理疾病患者看到一个人发负面情绪就骂纯纯傻逼，别人是心理疾病健全人纯属双商归零"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2054747746020868120",
+        "created_at": "2026-05-14T02:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054747746020868120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751595389562822657",
+              "start": 3,
+              "username": "ijia522218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054747746020868120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054499401897263537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ijia522218: 健全人说把什么抑郁症改成什么生殖器官症之类的就没人得了，这句话真是把低智傲慢不了解心理疾病的智商欠缺感拉满了及道德低下。被平台血图突脸吓到你无差别攻击所有心理疾病患者看到一个人发负面情绪就骂纯纯傻逼，别人是心理疾病健全人纯属双商归零"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2054499401897263537",
+        "created_at": "2026-05-13T09:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054499401897263537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054499401897263537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6927,
+          "like_count": 319,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "健全人说把什么抑郁症改成什么生殖器官症之类的就没人得了，这句话真是把低智傲慢不了解心理疾病的智商欠缺感拉满了及道德低下。被平台血图突脸吓到你无差别攻击所有心理疾病患者看到一个人发负面情绪就骂纯纯傻逼，别人是心理疾病健全人纯属双商归零"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 564,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1275
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2052273263284494785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 232,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 624
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

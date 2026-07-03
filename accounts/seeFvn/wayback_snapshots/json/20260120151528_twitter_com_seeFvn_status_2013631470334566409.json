@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2012897103081578627",
+    "created_at": "2026-01-20T15:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013631470334566409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "xm101027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013631470334566409",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012897103081578627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm101027 是呀现在流行od农药"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7861,
+        "height": 1280,
+        "media_key": "13_2012896989038497792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012896989038497792/img/g2HONnXq-uuiljMK.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012896989038497792/vid/avc1/320x596/L7c8QnU2N1cSwlZn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012896989038497792/vid/avc1/480x894/QkwrVywasd9Nk0sl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012896989038497792/vid/avc1/686x1280/n-3p4_It_Pj83elX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012896989038497792/pl/mCP63GeOFLmGYmF3.m3u8"
+          }
+        ],
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2012897103081578627",
+        "created_at": "2026-01-20T15:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013631470334566409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "xm101027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013631470334566409",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012897103081578627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm101027 是呀现在流行od农药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012896989038497792"
+          ]
+        },
+        "author_id": "1935705327380410369",
+        "conversation_id": "2012897103081578627",
+        "created_at": "2026-01-18T14:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012897103081578627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J72KC7cr4E",
+              "end": 38,
+              "expanded_url": "https://x.com/xm101027/status/2012897103081578627/video/1",
+              "media_key": "13_2012896989038497792",
+              "start": 15,
+              "url": "https://t.co/J72KC7cr4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012897103081578627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od已经不消肿了 我不o了😤 https://t.co/J72KC7cr4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "死體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011417140654678016/1dtJGE41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 376,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 761
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我们应该只有彼此",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013138652667228160/i0W4zsan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 18,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 340
+        },
+        "username": "xm101027",
+        "verified": false
+      }
+    ]
+  }
+}

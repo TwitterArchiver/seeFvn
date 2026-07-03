@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2057046016160154108",
+    "created_at": "2026-05-20T10:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057046016160154108"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057046016160154108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烟和药物在我每一个伤心难过的时候给我撑了一把伞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2057046016160154108",
+        "created_at": "2026-05-20T10:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057046016160154108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057046016160154108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟和药物在我每一个伤心难过的时候给我撑了一把伞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "ee",
+        "id": "1980612830824132609",
+        "name": "背叛自己的意志",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 576,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1337
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

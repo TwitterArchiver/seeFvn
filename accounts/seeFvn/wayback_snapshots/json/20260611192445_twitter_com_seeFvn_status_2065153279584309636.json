@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2065067569028182233",
+    "created_at": "2026-06-11T19:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T20:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065153279584309636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451422182614069251",
+          "start": 0,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065153279584309636",
+    "in_reply_to_user_id": "1451422182614069251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065067569028182233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavariT72 这个药在大陆已经有了 美国那边似乎也有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2065067490699546624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiX8QxakAAoYm9.jpg",
+        "width": 1824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2065067569028182233",
+        "created_at": "2026-06-11T19:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065153279584309636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451422182614069251",
+              "start": 0,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065153279584309636",
+        "in_reply_to_user_id": "1451422182614069251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065067569028182233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavariT72 这个药在大陆已经有了 美国那边似乎也有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065067490699546624"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "2065067569028182233",
+        "created_at": "2026-06-11T13:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065067569028182233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLll7N7EPW",
+              "end": 132,
+              "expanded_url": "https://x.com/DavariT72/status/2065067569028182233/photo/1",
+              "media_key": "3_2065067490699546624",
+              "start": 109,
+              "url": "https://t.co/vLll7N7EPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065067569028182233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想换安眠药，以前吃的精二类安眠，现在想换（Dayvigo莱博雷生）食欲素受体拮抗剂\n这个药FDA和大陆均获批，它是非成瘾性的，副作用较精神类药品小\n想试试看有没效果，用过的朋友可以锐评一下，这玩意好用吗？\n欢迎提建议 https://t.co/vLll7N7EPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 668,
+          "like_count": 4363,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1505
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我主页，可爱橘猫🥰(是MTF/植物爱好/自由主义/已嘎蛋)。身体状况很差（基础病非传染），不断学习知识，追寻内心自我，爱吃水果!热爱植物！\n是m/高比例k3低比例k6/不接受任何排泄物\n推主不好看，性别焦虑很严重",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~有主😋🥑🐱",
+        "pinned_tweet_id": "1977900772890472700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46144,
+          "following_count": 1601,
+          "like_count": 71388,
+          "listed_count": 46,
+          "media_count": 4014,
+          "tweet_count": 50899
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

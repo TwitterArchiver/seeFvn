@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071642967090372805",
+    "created_at": "2026-06-29T17:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T18:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071642967090372805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071642967090372805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071352944147222568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 国内医生一般都不会给病人下精神疾病诊断，因为医生最清楚国内精神病患处境有多艰难。 \n\n比如 双相情感障碍：心境障碍 \n焦虑抑郁症：焦虑抑郁状态或童年情绪障碍 \nADHD会加上（？） \n精神分裂症：精神病性障碍（待排）\n高功能自閉/阿斯伯格：阿斯特质…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071642967090372805",
+        "created_at": "2026-06-29T17:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071642967090372805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071642967090372805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071352944147222568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 国内医生一般都不会给病人下精神疾病诊断，因为医生最清楚国内精神病患处境有多艰难。 \n\n比如 双相情感障碍：心境障碍 \n焦虑抑郁症：焦虑抑郁状态或童年情绪障碍 \nADHD会加上（？） \n精神分裂症：精神病性障碍（待排）\n高功能自閉/阿斯伯格：阿斯特质…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2071352944147222568",
+        "created_at": "2026-06-28T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071352944147222568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071352944147222568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 13717,
+          "like_count": 193,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "国内医生一般都不会给病人下精神疾病诊断，因为医生最清楚国内精神病患处境有多艰难。 \n\n比如 双相情感障碍：心境障碍 \n焦虑抑郁症：焦虑抑郁状态或童年情绪障碍 \nADHD会加上（？） \n精神分裂症：精神病性障碍（待排）\n高功能自閉/阿斯伯格：阿斯特质\n\n除非你要求 医生一般不会给你确诊/上报任何疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 789,
+          "like_count": 5326,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10903,
+          "following_count": 4667,
+          "like_count": 51612,
+          "listed_count": 36,
+          "media_count": 4683,
+          "tweet_count": 15217
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2067867171754021285",
+    "created_at": "2026-06-19T07:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067867171754021285"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067867171754021285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我认为 dxm 的5-HT 综合症可以描述为混乱的 记得我以前最严重的一次虽然外面味道还好那个时候我没有记错应该是春天吧 我全身特别特别热 一直在出汗 并且以为解离我觉得主观是很混乱的 这个事情是因为我那天吃了 SSRI舍曲林导致的 不过直到现在我还是会这样联用 我大多数时候睡一觉就好了（正常药理科普）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为 dxm 的5-HT 综合症可以描述为混乱的 记得我以前最严重的一次虽然外面味道还好那个时候我没有记错应该是春天吧 我全身特别特别热 一直在出汗 并且以为解离我觉得主观是很混乱的 这个事情是因为我那天吃了 SSRI舍曲林导致的 不过直到现在我还是会这样联用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2067867171754021285",
+        "created_at": "2026-06-19T07:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067867171754021285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067867171754021285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为 dxm 的5-HT 综合症可以描述为混乱的 记得我以前最严重的一次虽然外面味道还好那个时候我没有记错应该是春天吧 我全身特别特别热 一直在出汗 并且以为解离我觉得主观是很混乱的 这个事情是因为我那天吃了 SSRI舍曲林导致的 不过直到现在我还是会这样联用 我大多数时候睡一觉就好了（正常药理科普）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为 dxm 的5-HT 综合症可以描述为混乱的 记得我以前最严重的一次虽然外面味道还好那个时候我没有记错应该是春天吧 我全身特别特别热 一直在出汗 并且以为解离我觉得主观是很混乱的 这个事情是因为我那天吃了 SSRI舍曲林导致的 不过直到现在我还是会这样联用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 706,
+          "like_count": 4535,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

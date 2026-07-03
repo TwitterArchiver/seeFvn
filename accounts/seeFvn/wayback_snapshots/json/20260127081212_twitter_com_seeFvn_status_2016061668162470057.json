@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2015859783987757368",
+    "created_at": "2026-01-27T08:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016061668162470057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016061668162470057",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015859783987757368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanhui1027 仙女下凡？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015859748709568512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nFws7XkAAz5ha.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2015859783987757368",
+        "created_at": "2026-01-27T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016061668162470057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016061668162470057",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015859783987757368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanhui1027 仙女下凡？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015859748709568512"
+          ]
+        },
+        "author_id": "1935705327380410369",
+        "conversation_id": "2015859783987757368",
+        "created_at": "2026-01-26T18:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015859783987757368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pPw1cunPU",
+              "end": 52,
+              "expanded_url": "https://x.com/chanhui1027/status/2015859783987757368/photo/1",
+              "media_key": "3_2015859748709568512",
+              "start": 29,
+              "url": "https://t.co/7pPw1cunPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015859783987757368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mua (՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷̥᷅⸝⸝՞) https://t.co/7pPw1cunPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "到此為止",
+        "id": "1980612830824132609",
+        "name": "快手用户17891782778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015464545159110656/thuMMovX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 374,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 794
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "恨幸福来过",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我在哭",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015846262419910656/NxTnNp_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 20,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 470
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063333306788130845",
+    "created_at": "2026-06-06T18:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063333306788130845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/seeFvn/status/2063332885126410429",
+          "start": 41,
+          "url": "https://t.co/p804YcDmya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063333306788130845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063332885126410429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是否会怀念从前正常的人生 是否会怀念起床不是药物的日子 是否会怀念还算正常的人生 https://t.co/p804YcDmya"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063333306788130845",
+        "created_at": "2026-06-06T18:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063333306788130845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/seeFvn/status/2063332885126410429",
+              "start": 41,
+              "url": "https://t.co/p804YcDmya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333306788130845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063332885126410429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是否会怀念从前正常的人生 是否会怀念起床不是药物的日子 是否会怀念还算正常的人生 https://t.co/p804YcDmya"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063332885126410429",
+        "created_at": "2026-06-06T18:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063332885126410429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/seeFvn/status/2063332580271784009",
+              "start": 39,
+              "url": "https://t.co/PuXP82Jrk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063332885126410429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063332580271784009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在滥用不是为了开心快乐逃避现实而是仅仅想要一些药物一些粉末让我“正常”仅此 https://t.co/PuXP82Jrk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 634,
+          "like_count": 4187,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1455
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

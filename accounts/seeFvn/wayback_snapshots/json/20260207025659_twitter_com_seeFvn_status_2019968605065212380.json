@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2019699437216710705",
+    "created_at": "2026-02-07T02:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019968605065212380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684625495181176833",
+          "start": 0,
+          "username": "hh2516731072429"
+        },
+        {
+          "end": 27,
+          "id": "1912063502782812160",
+          "start": 17,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019968605065212380",
+    "in_reply_to_user_id": "1684625495181176833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019721508059558161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hh2516731072429 @Ekouuuuuu 管好你自己去 感康 270t 要奇效哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2019699437216710705",
+        "created_at": "2026-02-07T02:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019968605065212380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684625495181176833",
+              "start": 0,
+              "username": "hh2516731072429"
+            },
+            {
+              "end": 27,
+              "id": "1912063502782812160",
+              "start": 17,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019968605065212380",
+        "in_reply_to_user_id": "1684625495181176833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019721508059558161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hh2516731072429 @Ekouuuuuu 管好你自己去 感康 270t 要奇效哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684625495181176833",
+        "conversation_id": "2019699437216710705",
+        "created_at": "2026-02-06T10:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019721508059558161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019721508059558161",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019699437216710705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 那很爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 365,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 853
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T18:03:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/geye_zm/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/geye_zm/status/1959891033132507591",
+                "start": 0,
+                "url": "https://t.co/Vmmhdx3Wv0"
+              }
+            ]
+          }
+        },
+        "id": "1684625495181176833",
+        "name": "hhybt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019559308611186691/Lw78s3Cl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 1013,
+          "like_count": 2752,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 2689
+        },
+        "url": "https://t.co/Vmmhdx3Wv0",
+        "username": "hh2516731072429",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖同類互fo‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 248,
+          "like_count": 8181,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

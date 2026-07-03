@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2047388349565157849",
+    "created_at": "2026-04-23T18:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047388349565157849"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047388349565157849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞巴林推荐和苯二氮卓类药物联用 会产生一种幸福和完全没有焦虑的感觉 建议普瑞巴林应从低剂量开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2047388349565157849",
+        "created_at": "2026-04-23T18:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047388349565157849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047388349565157849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林推荐和苯二氮卓类药物联用 会产生一种幸福和完全没有焦虑的感觉 建议普瑞巴林应从低剂量开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 475,
+          "like_count": 3251,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1131
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2037798589993472299",
+    "created_at": "2026-03-28T07:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037798589993472299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "53074745",
+          "start": 3,
+          "username": "ni1hannah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037798589993472299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037657670467850537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ni1hannah: 台湾是一个国家。\n看看有多少人骂我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2037798589993472299",
+        "created_at": "2026-03-28T07:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037798589993472299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "53074745",
+              "start": 3,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037798589993472299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037657670467850537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ni1hannah: 台湾是一个国家。\n看看有多少人骂我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "53074745",
+        "conversation_id": "2037657670467850537",
+        "created_at": "2026-03-27T22:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T23:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037657670467850537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037657670467850537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 275060,
+          "like_count": 1650,
+          "quote_count": 7,
+          "reply_count": 647,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "台湾是一个国家。\n看看有多少人骂我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 448,
+          "like_count": 3073,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1112
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-02T14:19:51.000Z",
+        "description": "Math teacher. Former college professor from China. Ph.D, Blog writer. Bilingual tweets （English & Chinese) about education & culture. 英语学习， 美国生活、教育、文化资讯。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Hannahni7716?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Hannahni7716?feature=shared",
+                "start": 0,
+                "url": "https://t.co/XGliNjlrU9"
+              }
+            ]
+          }
+        },
+        "id": "53074745",
+        "name": "Hannah倪妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686183910365929472/HDQuIwNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17346,
+          "following_count": 2475,
+          "like_count": 3976,
+          "listed_count": 132,
+          "media_count": 499,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/XGliNjlrU9",
+        "username": "ni1hannah",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056685464850219370",
+    "created_at": "2026-05-19T10:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056685464850219370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1225274552940318720",
+          "start": 3,
+          "username": "realOliverSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056685464850219370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056366375158141284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realOliverSama: 其实消除同性恋最简单的办法就是异性恋不要生孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056685464850219370",
+        "created_at": "2026-05-19T10:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056685464850219370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1225274552940318720",
+              "start": 3,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056685464850219370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056366375158141284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realOliverSama: 其实消除同性恋最简单的办法就是异性恋不要生孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225274552940318720",
+        "conversation_id": "2056366375158141284",
+        "created_at": "2026-05-18T13:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056366375158141284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056366375158141284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19800,
+          "like_count": 415,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "其实消除同性恋最简单的办法就是异性恋不要生孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 570,
+          "like_count": 3834,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1318
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:26:49.000Z",
+        "description": "Laugh till our ribs get tough. @Zerlight0653",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Zerlight0653"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogabyoliver?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kogabyoliver?s=21",
+                "start": 0,
+                "url": "https://t.co/wqRTCJu30G"
+              }
+            ]
+          }
+        },
+        "id": "1225274552940318720",
+        "location": "Ocean Blvd.",
+        "name": "Oliver",
+        "pinned_tweet_id": "2049409101441180085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056208220742639616/aGqPDV_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17443,
+          "following_count": 952,
+          "like_count": 58654,
+          "listed_count": 17,
+          "media_count": 961,
+          "tweet_count": 5860
+        },
+        "url": "https://t.co/wqRTCJu30G",
+        "username": "realOliverSama",
+        "verified": false
+      }
+    ]
+  }
+}

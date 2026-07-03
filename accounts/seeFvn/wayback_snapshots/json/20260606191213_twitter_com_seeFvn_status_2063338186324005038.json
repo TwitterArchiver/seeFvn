@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2063338186324005038",
+    "created_at": "2026-06-06T19:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063338186324005038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/seefvn/status/2063333306788130845",
+          "start": 80,
+          "url": "https://t.co/1OrIf6OAWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063338186324005038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063333306788130845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我od有三年了 我现在14岁再过不久就15岁了或许如果可以一直保持这样也好 以前有人提醒过我成瘾我没有相信吧 我觉得自己没有什么戒断反应（打错了重新发一下🥺） https://t.co/1OrIf6OAWu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063338186324005038",
+        "created_at": "2026-06-06T19:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063338186324005038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/seefvn/status/2063333306788130845",
+              "start": 80,
+              "url": "https://t.co/1OrIf6OAWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063338186324005038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063333306788130845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我od有三年了 我现在14岁再过不久就15岁了或许如果可以一直保持这样也好 以前有人提醒过我成瘾我没有相信吧 我觉得自己没有什么戒断反应（打错了重新发一下🥺） https://t.co/1OrIf6OAWu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2063333306788130845",
+        "created_at": "2026-06-06T18:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063333306788130845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/seeFvn/status/2063332885126410429",
+              "start": 41,
+              "url": "https://t.co/p804YcDmya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333306788130845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063332885126410429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是否会怀念从前正常的人生 是否会怀念起床不是药物的日子 是否会怀念还算正常的人生 https://t.co/p804YcDmya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 634,
+          "like_count": 4188,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1456
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

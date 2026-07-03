@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056307999061544960"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056308011623481495",
+    "created_at": "2026-05-18T09:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056308011623481495"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "男男"
+        },
+        {
+          "end": 74,
+          "start": 72,
+          "tag": "狗"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 87,
+          "start": 85,
+          "tag": "M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2WaSN8PPXk",
+          "end": 111,
+          "expanded_url": "https://x.com/seeFvn/status/2056308011623481495/photo/1",
+          "media_key": "3_2056307999061544960",
+          "start": 88,
+          "url": "https://t.co/2WaSN8PPXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056308011623481495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Hi 我是 ee 接半绿/非绿线下 可 SM 报销来回路费 无套另说 价格可谈\n*11年100斤0m\n*过门35咨询线下\n*线下可定制\n#男男 #狗 #妈妈活 #爸爸活 #M https://t.co/2WaSN8PPXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2056307999061544960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIl5OvjbkAA91vA.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056307999061544960"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056308011623481495",
+        "created_at": "2026-05-18T09:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056308011623481495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "男男"
+            },
+            {
+              "end": 74,
+              "start": 72,
+              "tag": "狗"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 87,
+              "start": 85,
+              "tag": "M"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WaSN8PPXk",
+              "end": 111,
+              "expanded_url": "https://x.com/seeFvn/status/2056308011623481495/photo/1",
+              "media_key": "3_2056307999061544960",
+              "start": 88,
+              "url": "https://t.co/2WaSN8PPXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056308011623481495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi 我是 ee 接半绿/非绿线下 可 SM 报销来回路费 无套另说 价格可谈\n*11年100斤0m\n*过门35咨询线下\n*线下可定制\n#男男 #狗 #妈妈活 #爸爸活 #M https://t.co/2WaSN8PPXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2056307522274038046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 570,
+          "like_count": 3722,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1309
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

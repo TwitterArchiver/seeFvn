@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068084666024726720",
+    "created_at": "2026-06-20T06:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068222257709953108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812193973001129985",
+          "start": 0,
+          "username": "affect1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068222257709953108",
+    "in_reply_to_user_id": "1812193973001129985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068205288004767893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affect1217 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068084666024726720",
+        "created_at": "2026-06-20T06:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068222257709953108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812193973001129985",
+              "start": 0,
+              "username": "affect1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068222257709953108",
+        "in_reply_to_user_id": "1812193973001129985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068205288004767893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affect1217 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812193973001129985",
+        "conversation_id": "2068084666024726720",
+        "created_at": "2026-06-20T05:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068205288004767893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068205288004767893",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068084666024726720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 生日快乐啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK\nabuse/不見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 711,
+          "like_count": 4599,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-13T18:35:10.000Z",
+        "description": "08/高三在上学中/isfp/高敏感人格/轻度抑郁/懒癌晚期/喜欢就fo/发碎碎念",
+        "id": "1812193973001129985",
+        "location": "天堂",
+        "name": "晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012718687308914688/pUJyycg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 429,
+          "like_count": 14835,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "affect1217",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063574008264904704"
+      ],
+      "media_source_tweet_id": [
+        "2063574011272212721"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069890935396438172",
+    "created_at": "2026-06-24T21:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069890935396438172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063564638328147968",
+          "start": 3,
+          "username": "frontier_tut"
+        },
+        {
+          "end": 46,
+          "id": "2011375652579262464",
+          "start": 32,
+          "username": "Kagamine_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sN3AeamBqG",
+          "end": 77,
+          "expanded_url": "https://x.com/frontier_tut/status/2063574011272212721/photo/1",
+          "media_key": "3_2063574008264904704",
+          "start": 54,
+          "url": "https://t.co/sN3AeamBqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069890935396438172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063574011272212721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frontier_tut: 我是镜音 第十世转生\n旧名义@Kagamine_8964\n互fo巡回🥹 https://t.co/sN3AeamBqG"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kagamine_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kagamine_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kagamine_8964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063574008264904704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNJoJJb0AAlbZN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063574008264904704"
+          ],
+          "media_source_tweet_id": [
+            "2063574011272212721"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069890935396438172",
+        "created_at": "2026-06-24T21:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069890935396438172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063564638328147968",
+              "start": 3,
+              "username": "frontier_tut"
+            },
+            {
+              "end": 46,
+              "id": "2011375652579262464",
+              "start": 32,
+              "username": "Kagamine_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sN3AeamBqG",
+              "end": 77,
+              "expanded_url": "https://x.com/frontier_tut/status/2063574011272212721/photo/1",
+              "media_key": "3_2063574008264904704",
+              "start": 54,
+              "url": "https://t.co/sN3AeamBqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069890935396438172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063574011272212721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frontier_tut: 我是镜音 第十世转生\n旧名义@Kagamine_8964\n互fo巡回🥹 https://t.co/sN3AeamBqG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063574008264904704"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-06-07T10:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063574011272212721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2011375652579262464",
+              "start": 14,
+              "username": "Kagamine_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sN3AeamBqG",
+              "end": 59,
+              "expanded_url": "https://x.com/frontier_tut/status/2063574011272212721/photo/1",
+              "media_key": "3_2063574008264904704",
+              "start": 36,
+              "url": "https://t.co/sN3AeamBqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063574011272212721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2489,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是镜音 第十世转生\n旧名义@Kagamine_8964\n互fo巡回🥹 https://t.co/sN3AeamBqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 740,
+          "like_count": 4750,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 114,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

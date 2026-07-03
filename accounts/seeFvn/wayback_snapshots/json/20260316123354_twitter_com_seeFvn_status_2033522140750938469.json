@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2033522140750938469",
+    "created_at": "2026-03-16T12:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033522140750938469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1788950422188593152",
+          "start": 3,
+          "username": "remain1123345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033522140750938469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033466831223046607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @remain1123345: 其实都是这样的，顺直女被顺直男骂了就想拐性少数说这不是我们，南通被顺直男和顺直女骂了就想拐其他性少数说这不是我们，其实都是自卑的表现，面对质疑只知道自证，其实都是一群赔钱货罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2033522140750938469",
+        "created_at": "2026-03-16T12:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033522140750938469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1788950422188593152",
+              "start": 3,
+              "username": "remain1123345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033522140750938469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033466831223046607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @remain1123345: 其实都是这样的，顺直女被顺直男骂了就想拐性少数说这不是我们，南通被顺直男和顺直女骂了就想拐其他性少数说这不是我们，其实都是自卑的表现，面对质疑只知道自证，其实都是一群赔钱货罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788950422188593152",
+        "conversation_id": "2033466831223046607",
+        "created_at": "2026-03-16T08:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033466831223046607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aichijiandanxy…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/Aichijiandanxyz/status/2033454604466221122",
+              "start": 89,
+              "url": "https://t.co/rYjlY3wg9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033466831223046607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033454604466221122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实都是这样的，顺直女被顺直男骂了就想拐性少数说这不是我们，南通被顺直男和顺直女骂了就想拐其他性少数说这不是我们，其实都是自卑的表现，面对质疑只知道自证，其实都是一群赔钱货罢了 https://t.co/rYjlY3wg9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 408,
+          "like_count": 2802,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 976
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-10T15:13:30.000Z",
+        "description": "爱破防的基佬来了大家都小心点😂",
+        "id": "1788950422188593152",
+        "name": "remain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788950697586708480/-ZAVwNgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1135,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1200
+        },
+        "username": "remain1123345",
+        "verified": false
+      }
+    ]
+  }
+}

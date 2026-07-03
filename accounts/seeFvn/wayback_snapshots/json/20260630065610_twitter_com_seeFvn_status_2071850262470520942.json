@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071481681115324760",
+    "created_at": "2026-06-30T06:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071850262470520942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071850262470520942",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071849725788299583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 我以前吃舍曲林感觉好像没有怎么 不过我感觉喹硫平我一吃就会做特别真实的噩梦 不过我现在已经不吃这些还是每天睡醒醒一次一个梦😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5366,
+        "height": 152,
+        "media_key": "13_2071849712114692096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071849712114692096/img/XifMLWCU0YYSAR3S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071849712114692096/vid/avc1/152x152/_rSireC6PW2NbLXu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071849712114692096/pl/8xDPnuP0WXx-dZ5g.m3u8"
+          }
+        ],
+        "width": 152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071849712110465024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCwVgZW8AAEqWG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071481681115324760",
+        "created_at": "2026-06-30T06:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071850262470520942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071850262470520942",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071849725788299583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 我以前吃舍曲林感觉好像没有怎么 不过我感觉喹硫平我一吃就会做特别真实的噩梦 不过我现在已经不吃这些还是每天睡醒醒一次一个梦😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071849712114692096",
+            "3_2071849712110465024"
+          ]
+        },
+        "author_id": "1879125730581450753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071481681115324760",
+        "created_at": "2026-06-30T06:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071849725788299583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FflzMkJA5",
+              "end": 63,
+              "expanded_url": "https://x.com/dxmpopper2006/status/2071849725788299583/video/1",
+              "media_key": "13_2071849712114692096",
+              "start": 40,
+              "url": "https://t.co/8FflzMkJA5"
+            },
+            {
+              "display_url": "pic.x.com/8FflzMkJA5",
+              "end": 63,
+              "expanded_url": "https://x.com/dxmpopper2006/status/2071849725788299583/video/1",
+              "media_key": "3_2071849712110465024",
+              "start": 40,
+              "url": "https://t.co/8FflzMkJA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071849725788299583",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071848234100928565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 我吃艾司西酞普兰也会做一堆梦几乎一睡就会做梦 睡回笼觉都能做梦 https://t.co/8FflzMkJA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 796,
+          "like_count": 5395,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1734
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈/English/中文\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 83,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "dxmpopper2006",
+        "verified": false
+      }
+    ]
+  }
+}

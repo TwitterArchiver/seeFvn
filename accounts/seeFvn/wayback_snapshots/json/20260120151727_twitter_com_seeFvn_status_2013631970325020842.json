@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2013302405761221100",
+    "created_at": "2026-01-20T15:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013631970325020842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013631970325020842",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013302405761221100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 这是仙女么！😤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9009,
+        "height": 1280,
+        "media_key": "7_2013302363021250560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013302363021250560/pu/img/Uwah22Ty1hx8QH9n.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013302363021250560/pu/vid/avc1/320x568/2PPOa4EU5TMR-yjh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013302363021250560/pu/vid/avc1/480x852/I3rfsWDksQHeY1Mg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013302363021250560/pu/vid/avc1/720x1280/GWJpGVvrgOPlktqT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013302363021250560/pu/pl/iy4AA3dn_hOJ5ZhY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2013302405761221100",
+        "created_at": "2026-01-20T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013631970325020842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013631970325020842",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013302405761221100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 这是仙女么！😤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013302363021250560"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2013302405761221100",
+        "created_at": "2026-01-19T17:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013302405761221100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2j5YnyVQl",
+              "end": 44,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2013302405761221100/video/1",
+              "media_key": "7_2013302363021250560",
+              "start": 21,
+              "url": "https://t.co/X2j5YnyVQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013302405761221100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌界揍人最可愛的一把刀✌︎˶╹ꇴ╹˶✌︎ https://t.co/X2j5YnyVQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "死體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011417140654678016/1dtJGE41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 376,
+          "like_count": 2390,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 764
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "滿紙荒唐言一把辛酸淚‖叫我白菜就好了捏‖cisgender‖養病中…‖🇯🇵🤝🇹🇼‖支畜滾‖同類互fo‖https://t.co/8kuFPf6mcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 74,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 51,
+                "url": "https://t.co/8kuFPf6mcv"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/",
+        "name": "白菜Akina",
+        "pinned_tweet_id": "2010331167195828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 225,
+          "like_count": 6615,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1312
+        },
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

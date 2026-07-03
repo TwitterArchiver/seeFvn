@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072197816953553005",
+    "created_at": "2026-07-01T05:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072197816953553005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/seefvn/status/2072196024148578407",
+          "start": 22,
+          "url": "https://t.co/NQHTHjQSbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072197816953553005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072196024148578407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以尊重理解所有人我也希望你们可以尊重我 https://t.co/NQHTHjQSbZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072197816953553005",
+        "created_at": "2026-07-01T05:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072197816953553005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/seefvn/status/2072196024148578407",
+              "start": 22,
+              "url": "https://t.co/NQHTHjQSbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072197816953553005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072196024148578407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以尊重理解所有人我也希望你们可以尊重我 https://t.co/NQHTHjQSbZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072196024148578407",
+        "created_at": "2026-07-01T05:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072196024148578407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072196024148578407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不喜欢有人在我评论区一直问怎么开的 什么感觉这些话 难道我置顶不看的吗。。 再在我评论区或者私信问这种我都会拉黑。。点进主页还是 R18难道你们觉得 x 真的是看黄软件？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 799,
+          "like_count": 5474,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

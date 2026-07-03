@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055612680686252032"
+      ],
+      "media_source_tweet_id": [
+        "2055612747161755852"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2055674614219682085",
+    "created_at": "2026-05-16T15:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055674614219682085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1323083590570287104",
+          "start": 3,
+          "username": "Q_May_007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9D2pOswaIk",
+          "end": 83,
+          "expanded_url": "https://x.com/clashreport/status/2055612747161755852/video/1",
+          "media_key": "13_2055612680686252032",
+          "start": 60,
+          "url": "https://t.co/9D2pOswaIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055674614219682085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055620285450129614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Q_May_007: 💥刚刚台湾宣布：\n\n中华民国是一个主权独立、民主的国家。\n\n北京无权对台湾提出主权要求。 https://t.co/9D2pOswaIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20800,
+        "height": 1080,
+        "media_key": "13_2055612680686252032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055612680686252032/img/0LHKIftg1UBN9gRm.jpg",
+        "public_metrics": {
+          "view_count": 118540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/480x270/n_M1OH-nUfKKjP3Y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/1920x1080/IBV3eHxauzJBEcKW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/640x360/S1-Rw96reFDZQNNB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/vid/avc1/1280x720/uXDznFt11doH98a1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055612680686252032/pl/wJCJHki51PoIdxJ4.m3u8?v=bc2"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055612680686252032"
+          ],
+          "media_source_tweet_id": [
+            "2055612747161755852"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2055674614219682085",
+        "created_at": "2026-05-16T15:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055674614219682085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1323083590570287104",
+              "start": 3,
+              "username": "Q_May_007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D2pOswaIk",
+              "end": 83,
+              "expanded_url": "https://x.com/clashreport/status/2055612747161755852/video/1",
+              "media_key": "13_2055612680686252032",
+              "start": 60,
+              "url": "https://t.co/9D2pOswaIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055674614219682085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055620285450129614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Q_May_007: 💥刚刚台湾宣布：\n\n中华民国是一个主权独立、民主的国家。\n\n北京无权对台湾提出主权要求。 https://t.co/9D2pOswaIk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055612680686252032"
+          ],
+          "media_source_tweet_id": [
+            "2055612747161755852"
+          ]
+        },
+        "author_id": "1323083590570287104",
+        "conversation_id": "2055620285450129614",
+        "created_at": "2026-05-16T12:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055620285450129614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D2pOswaIk",
+              "end": 68,
+              "expanded_url": "https://x.com/clashreport/status/2055612747161755852/video/1",
+              "media_key": "13_2055612680686252032",
+              "start": 45,
+              "url": "https://t.co/9D2pOswaIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055620285450129614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 149635,
+          "like_count": 1032,
+          "quote_count": 18,
+          "reply_count": 169,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "💥刚刚台湾宣布：\n\n中华民国是一个主权独立、民主的国家。\n\n北京无权对台湾提出主权要求。 https://t.co/9D2pOswaIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2055545503048483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 565,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1298
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-02T02:04:52.000Z",
+        "description": "We Are the Citizens of the New Federal State of China Our Mission is to Take Down the EVIL Chinese Communist Party ❗️Take Down The CCP❗️⬇️欢迎订阅🔔我的YouTube频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@QMAYSHOW",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@QMAYSHOW",
+                "start": 0,
+                "url": "https://t.co/ZUzsbQH8MT"
+              }
+            ]
+          }
+        },
+        "id": "1323083590570287104",
+        "name": "QMAY",
+        "pinned_tweet_id": "2052587978350854375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919179233324118017/vMGWD2JO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44693,
+          "following_count": 841,
+          "like_count": 8215,
+          "listed_count": 123,
+          "media_count": 7293,
+          "tweet_count": 20116
+        },
+        "url": "https://t.co/ZUzsbQH8MT",
+        "username": "Q_May_007",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056762347168178628",
+    "created_at": "2026-05-19T15:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056766060515533040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902512265301258243",
+          "start": 0,
+          "username": "sacred1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056766060515533040",
+    "in_reply_to_user_id": "1902512265301258243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056762347168178628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacred1124 丙泊酚吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056762347168178628",
+        "created_at": "2026-05-19T15:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056766060515533040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902512265301258243",
+              "start": 0,
+              "username": "sacred1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056766060515533040",
+        "in_reply_to_user_id": "1902512265301258243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056762347168178628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacred1124 丙泊酚吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056762347168178628",
+        "created_at": "2026-05-19T15:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056762347168178628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/inline_int/status/2056726424698937765",
+              "start": 30,
+              "url": "https://t.co/scRBzrkAwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056762347168178628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056726424698937765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道跨圈为什么都喜欢用亚硝酸钠 明明有更好更不痛苦的方式 https://t.co/scRBzrkAwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "ee",
+        "id": "1980612830824132609",
+        "name": "背叛自己的意志",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 573,
+          "like_count": 3858,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1329
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 76,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 70
+        },
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071854751369527296"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071854766150521278",
+    "created_at": "2026-06-30T07:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071854766150521278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvroA3zNN6",
+          "end": 50,
+          "expanded_url": "https://x.com/seeFvn/status/2071854766150521278/photo/1",
+          "media_key": "3_2071854751369527296",
+          "start": 27,
+          "url": "https://t.co/jvroA3zNN6"
+        },
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/seefvn/status/2071832634205052930",
+          "start": 51,
+          "url": "https://t.co/DJm3m7ht7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071854766150521278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071832634205052930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再加1t🤤🤤🤤\n（仅个人经历分享，正常剂量医师指导） https://t.co/jvroA3zNN6 https://t.co/DJm3m7ht7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071854751369527296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC061GWAAAefAe.jpg",
+        "width": 1818
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071832616936861696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCgyb6W8AAmPFt.jpg",
+        "width": 1597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071854751369527296"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071854766150521278",
+        "created_at": "2026-06-30T07:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071854766150521278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvroA3zNN6",
+              "end": 50,
+              "expanded_url": "https://x.com/seeFvn/status/2071854766150521278/photo/1",
+              "media_key": "3_2071854751369527296",
+              "start": 27,
+              "url": "https://t.co/jvroA3zNN6"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/seefvn/status/2071832634205052930",
+              "start": 51,
+              "url": "https://t.co/DJm3m7ht7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071854766150521278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071832634205052930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加1t🤤🤤🤤\n（仅个人经历分享，正常剂量医师指导） https://t.co/jvroA3zNN6 https://t.co/DJm3m7ht7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071832616936861696"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071832634205052930",
+        "created_at": "2026-06-30T05:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071832634205052930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwtd8wjvyh",
+              "end": 59,
+              "expanded_url": "https://x.com/seeFvn/status/2071832634205052930/photo/1",
+              "media_key": "3_2071832616936861696",
+              "start": 36,
+              "url": "https://t.co/bwtd8wjvyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071832634205052930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后面去挑战开氨酚 oxy 试试😋\n（仅个人经历分享，正常剂量医师指导） https://t.co/bwtd8wjvyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 798,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

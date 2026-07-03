@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2056693792426926169",
+    "created_at": "2026-05-19T11:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056693792426926169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/seeFvn/status/2056691915966554194",
+          "start": 17,
+          "url": "https://t.co/eZz3yfEDKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056693792426926169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056691915966554194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想问问自己这样真的是我想要的吗 https://t.co/eZz3yfEDKH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056693792426926169",
+        "created_at": "2026-05-19T11:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056693792426926169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/seeFvn/status/2056691915966554194",
+              "start": 17,
+              "url": "https://t.co/eZz3yfEDKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056693792426926169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056691915966554194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想问问自己这样真的是我想要的吗 https://t.co/eZz3yfEDKH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2056691915966554194",
+        "created_at": "2026-05-19T11:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056691915966554194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056691915966554194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白我现在过成这样真的是我想要的吗 或许是的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2056308011623481495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 570,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1321
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

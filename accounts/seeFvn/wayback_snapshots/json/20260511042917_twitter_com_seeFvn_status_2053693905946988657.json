@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053693905946988657",
+    "created_at": "2026-05-11T04:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053693905946988657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1706032859650064384",
+          "start": 3,
+          "username": "MindSharpenerX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053693905946988657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053364262903402924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MindSharpenerX: 每次去中国，心里都会有一种很复杂的感觉。\n\n一边感叹：\n\n“中国真方便。”\n\n另一边又忍不住想：\n\n“这到底是谁在替我们负重前行？”\n\n凌晨两点能点外卖，二十分钟送到；\n快递比人起得早；\n打车便宜到司机都怀疑人生；\n保洁、维修、跑腿，价格…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053693905946988657",
+        "created_at": "2026-05-11T04:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053693905946988657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1706032859650064384",
+              "start": 3,
+              "username": "MindSharpenerX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053693905946988657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053364262903402924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MindSharpenerX: 每次去中国，心里都会有一种很复杂的感觉。\n\n一边感叹：\n\n“中国真方便。”\n\n另一边又忍不住想：\n\n“这到底是谁在替我们负重前行？”\n\n凌晨两点能点外卖，二十分钟送到；\n快递比人起得早；\n打车便宜到司机都怀疑人生；\n保洁、维修、跑腿，价格…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706032859650064384",
+        "conversation_id": "2053364262903402924",
+        "created_at": "2026-05-10T06:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053364262903402924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053364262903402924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每次去中国，心里都会有一种很复杂的感觉。\n\n一边感叹：\n\n“中国真方便。”\n\n另一边又忍不住想：\n\n“这到底是谁在替我们负重前行？”\n\n凌晨两点能点外卖，二十分钟送到；\n快递比人起得早；\n打车便宜到司机都怀疑人生；\n保洁、维修、跑腿，价格低得像活在2010年。\n\n很多人会把这一切总结成一句：\n\n“中国效率真高。”\n\n但待久一点，就会慢慢发现：\n\n有时候，不是效率高，\n而是“人太便宜了”。\n\n⸻\n\n一、外卖为什么便宜？\n\n因为有人在替你燃烧人生。\n\n十几块的外卖，三四块配送费，半小时送到。\n\n很多人已经习惯了这种速度。\n一旦晚五分钟，甚至会觉得平台“退步了”。\n\n但问题来了：\n\n如果这真的是一门赚钱的好生意，为什么骑手普遍每天工作10小时以上？为什么那么多人边送外卖边透支身体？\n\n因为所谓“中国式便利”，很多时候不是靠技术降成本，而是靠劳动者压缩自己的人生。\n\n法国思想家西蒙娜·薇依说：\n\n“一切廉价商品背后，都藏着看不见的劳动者。”\n\n中国社会最神奇的一点在于：\n\n大家一边心疼底层，\n一边拼命点“9块9包邮”。\n\n⸻\n\n二、中国最便宜的，其实是“人”\n\n在很多发达国家，人工贵得离谱。\n\n水管工上门一次几百刀；\n搬个家像在请私人保镖；\n外卖送到门口，价格够在中国吃两顿火锅。\n\n很多人因此得出结论：\n\n“还是中国好。”\n\n但换个角度看：\n\n为什么别的国家人工贵？\n\n因为劳动者有更高工资、更完整保障、更正常的休息权。\n\n而中国很多行业之所以“便宜”，本质上是劳动者议价能力太弱。\n\n于是就出现一种很魔幻的画面：\n\n手机越来越高级\n高铁越来越快\n平台越来越智能\n但普通人越来越累\n\n科技在狂奔，\n人却在“续命”。\n\n⸻\n\n三、“便利”的代价，是整个社会越来越卷\n\n为什么中国什么都能卷成白菜价？\n\n因为所有人都在拼命互相压价。\n\n商家卷；\n平台卷；\n骑手卷；\n司机卷；\n连咖啡都卷到“9块9拯救世界”。\n\n最后消费者确实爽了。\n\n但问题是：\n\n谁赚到钱了？\n\n很多行业已经卷到一种荒诞程度：\n\n老板没利润；\n员工没生活；\n消费者没未来。\n\n只有平台数据越来越漂亮。\n\n英国作家George Orwell曾说过：\n\n“有些制度最厉害的地方，在于它让人逐渐习惯不合理。”\n\n慢慢地，大家开始默认：\n\n加班正常\n单休正常\n35岁失业正常\n骑手闯红灯正常\n“已读不回但秒回客户”也正常\n\n整个社会像一台高速运转的机器。\n\n唯一需要适应机器的，恰恰是人。\n\n⸻\n\n四、真正高级的社会，不是“什么都便宜”\n\n很多人去中国后都会说：\n\n“中国生活成本低，幸福感高。”\n\n但一个更扎心的问题是：\n\n这种低成本，是建立在谁的牺牲之上？\n\n美国总统Franklin D. Roosevelt曾说：\n\n“没有一个企业有权建立在贫困工资之上。”\n\n可现实却是：\n\n我们已经渐渐习惯了：\n\n快递员没时间吃饭；\n骑手冒雨冲红灯；\n工厂12小时两班倒；\n年轻人一边996，一边担心失业。\n\n然后大家再一起感叹：\n\n“中国真方便。”\n\n⸻\n\n所以，每次去中国，最让人五味杂陈的，从来不是物价。\n\n而是你会忽然发现：\n\n这个社会的“高效率”，很多时候并不是因为所有人都过得更好了。\n\n而是因为，总有人在用更低的工资、更长的工时、更少的保障，替整个社会承担成本。\n\n城市依旧灯火通明；\n外卖依旧准时送达；\n只有那些奔波的人，慢慢被系统磨成了“正常现象”。\n\n而最讽刺的是：\n\n当所有人都在歌颂“便利”时，\n已经很少有人会认真问一句：\n\n“送餐的那个人，今天过得好吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 214495,
+          "like_count": 1342,
+          "quote_count": 68,
+          "reply_count": 336,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "每次去中国，心里都会有一种很复杂的感觉。\n\n一边感叹：\n\n“中国真方便。”\n\n另一边又忍不住想：\n\n“这到底是谁在替我们负重前行？”\n\n凌晨两点能点外卖，二十分钟送到；\n快递比人起得早；\n打车便宜到司机都怀疑人生；\n保洁、维修、跑腿，价格低得像活在2010年。\n\n很多人会把这一切总结成一句："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 544,
+          "like_count": 3564,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1245
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T19:48:37.000Z",
+        "description": "1. How do I know it’s true? 2. What do I assume? 3. What evidence would sway me? 4. What would a critic say? 5. What if all thought like me?",
+        "id": "1706032859650064384",
+        "location": "Scotland",
+        "name": "苏格男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752359499191435264/RZa400T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 142,
+          "like_count": 8500,
+          "listed_count": 14,
+          "media_count": 602,
+          "tweet_count": 9909
+        },
+        "username": "MindSharpenerX",
+        "verified": true
+      }
+    ]
+  }
+}

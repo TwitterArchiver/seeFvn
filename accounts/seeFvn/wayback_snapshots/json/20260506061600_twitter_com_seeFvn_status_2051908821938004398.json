@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2051776082542825551",
+    "created_at": "2026-05-06T06:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051908821938004398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051908821938004398",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051776082542825551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 我觉得很美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051776079321522176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlfeS6aYAAs3j6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051776079229317120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlfeSkbcAAEMWq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2056,
+        "media_key": "3_2051776078189113344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlfeOsbMAAak9J.jpg",
+        "width": 2056
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051776076851142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlfeJtbYAA6F_l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2051776082542825551",
+        "created_at": "2026-05-06T06:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051908821938004398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051908821938004398",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051776082542825551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 我觉得很美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051776079321522176",
+            "3_2051776079229317120",
+            "3_2051776078189113344",
+            "3_2051776076851142656"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2051776082542825551",
+        "created_at": "2026-05-05T21:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051776082542825551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1980612830824132609",
+              "start": 41,
+              "username": "seeFvn"
+            },
+            {
+              "end": 62,
+              "id": "2009945300723740673",
+              "start": 51,
+              "username": "Shiroko_Li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCTdQpow6A",
+              "end": 147,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051776082542825551/photo/1",
+              "media_key": "3_2051776079321522176",
+              "start": 124,
+              "url": "https://t.co/pCTdQpow6A"
+            },
+            {
+              "display_url": "pic.x.com/pCTdQpow6A",
+              "end": 147,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051776082542825551/photo/1",
+              "media_key": "3_2051776079229317120",
+              "start": 124,
+              "url": "https://t.co/pCTdQpow6A"
+            },
+            {
+              "display_url": "pic.x.com/pCTdQpow6A",
+              "end": 147,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051776082542825551/photo/1",
+              "media_key": "3_2051776078189113344",
+              "start": 124,
+              "url": "https://t.co/pCTdQpow6A"
+            },
+            {
+              "display_url": "pic.x.com/pCTdQpow6A",
+              "end": 147,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2051776082542825551/photo/1",
+              "media_key": "3_2051776076851142656",
+              "start": 124,
+              "url": "https://t.co/pCTdQpow6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051776082542825551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到白菜的首頁🙃\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女/異性戀\n好閨蜜@seeFvn 男友@Shiroko_Li\n討厭藥物濫用/自殘/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近平早日下台 https://t.co/pCTdQpow6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 529,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1174
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2051776082542825551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 296,
+          "like_count": 11533,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

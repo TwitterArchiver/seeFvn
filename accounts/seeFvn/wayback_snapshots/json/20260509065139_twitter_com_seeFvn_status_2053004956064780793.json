@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053004956064780793",
+    "created_at": "2026-05-09T06:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053004956064780793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/seefvn/status/2053003378381443393",
+          "start": 50,
+          "url": "https://t.co/WlofMItMPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053004956064780793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053003378381443393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总体就是含的时候还好全部含完准备吞口水的时候那种苦味特别大 连喝几口水才好一些 不过崩解挺快的。。 https://t.co/WlofMItMPW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053004956064780793",
+        "created_at": "2026-05-09T06:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053004956064780793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/seefvn/status/2053003378381443393",
+              "start": 50,
+              "url": "https://t.co/WlofMItMPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053004956064780793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053003378381443393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总体就是含的时候还好全部含完准备吞口水的时候那种苦味特别大 连喝几口水才好一些 不过崩解挺快的。。 https://t.co/WlofMItMPW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053003378381443393",
+        "created_at": "2026-05-09T06:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053003378381443393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053003378381443393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑0.4mg 含服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 538,
+          "like_count": 3466,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1213
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

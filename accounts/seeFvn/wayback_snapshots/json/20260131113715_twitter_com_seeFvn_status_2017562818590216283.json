@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2017515709475983569",
+    "created_at": "2026-01-31T11:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017562818590216283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827065234831634432",
+          "start": 0,
+          "username": "1REBIR4ONDAROAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017562818590216283",
+    "in_reply_to_user_id": "1827065234831634432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017515709475983569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1REBIR4ONDAROAD 以为自己很好看吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4933,
+        "height": 1280,
+        "media_key": "13_2017515145761861632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017515145761861632/img/NZD7h81dvoL_meg-.jpg",
+        "public_metrics": {
+          "view_count": 390
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017515145761861632/vid/avc1/320x628/8hIiFAkKoOAWVUL6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017515145761861632/vid/avc1/480x942/Xa2A66O70MTeHbgZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017515145761861632/vid/avc1/652x1280/ePFKKx0L-Mrcx8-j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017515145761861632/pl/nwixUBOzPXDJiQeR.m3u8"
+          }
+        ],
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2017515709475983569",
+        "created_at": "2026-01-31T11:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017562818590216283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827065234831634432",
+              "start": 0,
+              "username": "1REBIR4ONDAROAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017562818590216283",
+        "in_reply_to_user_id": "1827065234831634432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017515709475983569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1REBIR4ONDAROAD 以为自己很好看吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017515145761861632"
+          ]
+        },
+        "author_id": "1827065234831634432",
+        "conversation_id": "2017515709475983569",
+        "created_at": "2026-01-31T08:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017515709475983569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2OKuvjWut",
+              "end": 25,
+              "expanded_url": "https://x.com/1REBIR4ONDAROAD/status/2017515709475983569/video/1",
+              "media_key": "13_2017515145761861632",
+              "start": 2,
+              "url": "https://t.co/J2OKuvjWut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017515709475983569",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1793,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2 https://t.co/J2OKuvjWut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 369,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 831
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T19:27:59.000Z",
+        "description": "傻逼滚",
+        "id": "1827065234831634432",
+        "name": "带土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001346444251549696/I9Q5cR5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 414,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "1REBIR4ONDAROAD",
+        "verified": false
+      }
+    ]
+  }
+}

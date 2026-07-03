@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2017111375156580740",
+    "created_at": "2026-01-31T02:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T03:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017429953105825931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1811012528459399168",
+          "start": 0,
+          "username": "shfq021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017429953105825931",
+    "in_reply_to_user_id": "1811012528459399168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017111375156580740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shfq021 所以呢你想说什么 你是想继承家业吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2017111056389459969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_430ZSbUAEL4tR.jpg",
+        "width": 1263
+      },
+      {
+        "height": 933,
+        "media_key": "3_2017111053298229248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_430Nxa4AAFYFN.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2017111375156580740",
+        "created_at": "2026-01-31T02:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017429953105825931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1811012528459399168",
+              "start": 0,
+              "username": "shfq021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017429953105825931",
+        "in_reply_to_user_id": "1811012528459399168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017111375156580740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shfq021 所以呢你想说什么 你是想继承家业吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017111056389459969",
+            "3_2017111053298229248"
+          ]
+        },
+        "author_id": "1811012528459399168",
+        "conversation_id": "2017111375156580740",
+        "created_at": "2026-01-30T05:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017111375156580740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VeaaoDsOqa",
+              "end": 40,
+              "expanded_url": "https://x.com/shfq021/status/2017111375156580740/photo/1",
+              "media_key": "3_2017111056389459969",
+              "start": 17,
+              "url": "https://t.co/VeaaoDsOqa"
+            },
+            {
+              "display_url": "pic.x.com/VeaaoDsOqa",
+              "end": 40,
+              "expanded_url": "https://x.com/shfq021/status/2017111375156580740/photo/1",
+              "media_key": "3_2017111053298229248",
+              "start": 17,
+              "url": "https://t.co/VeaaoDsOqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017111375156580740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 487924,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "关于我家祖上出过妓!女这回事儿😑 https://t.co/VeaaoDsOqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 370,
+          "like_count": 2493,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 822
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:20:19.000Z",
+        "description": "别一上来大哥大哥的叫，我是女的🥲，仅此一个号无小号，别被冒充我们小号的人骗了。推广自辨",
+        "id": "1811012528459399168",
+        "location": "上海",
+        "name": "上海夫妻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842137823501291520/6K_hTzWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44272,
+          "following_count": 31,
+          "like_count": 967,
+          "listed_count": 98,
+          "media_count": 263,
+          "tweet_count": 479
+        },
+        "username": "shfq021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036284278582157314"
+      ],
+      "media_source_tweet_id": [
+        "2036284287750721589"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2036371206853763483",
+    "created_at": "2026-03-24T09:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036371206853763483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944679199358570496",
+          "start": 3,
+          "username": "0kada_Mi0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/auVyvjHza4",
+          "end": 47,
+          "expanded_url": "https://x.com/0kada_Mi0/status/2036284287750721589/photo/1",
+          "media_key": "3_2036284278582157314",
+          "start": 24,
+          "url": "https://t.co/auVyvjHza4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036371206853763483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036284287750721589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0kada_Mi0: 兄弟姐妹们o起来 https://t.co/auVyvjHza4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2036284278582157314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJVwz6aIAItYmu.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036284278582157314"
+          ],
+          "media_source_tweet_id": [
+            "2036284287750721589"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2036371206853763483",
+        "created_at": "2026-03-24T09:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036371206853763483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944679199358570496",
+              "start": 3,
+              "username": "0kada_Mi0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auVyvjHza4",
+              "end": 47,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2036284287750721589/photo/1",
+              "media_key": "3_2036284278582157314",
+              "start": 24,
+              "url": "https://t.co/auVyvjHza4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036371206853763483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036284287750721589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0kada_Mi0: 兄弟姐妹们o起来 https://t.co/auVyvjHza4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036284278582157314"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2036284287750721589",
+        "created_at": "2026-03-24T03:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036284287750721589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auVyvjHza4",
+              "end": 32,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2036284287750721589/photo/1",
+              "media_key": "3_2036284278582157314",
+              "start": 9,
+              "url": "https://t.co/auVyvjHza4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036284287750721589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2998,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹们o起来 https://t.co/auVyvjHza4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 438,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1086
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 220,
+          "like_count": 17283,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

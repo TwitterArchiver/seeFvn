@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2022313621087560131",
+    "created_at": "2026-02-13T14:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022313621087560131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022313621087560131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和你断联没什么不好的我变得更像正常人不会因为 期待收到你的消息而不停的看状态栏不会因为你在 和别人创造回忆嫉妒到打滚不用再去在意你说话的 语气是否冷漠你对我的态度是否正常 唯一算得上 的缺点是我不知道你今天做了什么 有没有开心因为 我没有参与你的生活你不允许我参与你的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2022313621087560131",
+        "created_at": "2026-02-13T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022313621087560131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022313621087560131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和你断联没什么不好的我变得更像正常人不会因为 期待收到你的消息而不停的看状态栏不会因为你在 和别人创造回忆嫉妒到打滚不用再去在意你说话的 语气是否冷漠你对我的态度是否正常 唯一算得上 的缺点是我不知道你今天做了什么 有没有开心因为 我没有参与你的生活你不允许我参与你的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 368,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 885
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

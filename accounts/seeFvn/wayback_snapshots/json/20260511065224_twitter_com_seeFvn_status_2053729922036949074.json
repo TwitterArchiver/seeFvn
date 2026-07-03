@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053729922036949074",
+    "created_at": "2026-05-11T06:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053729922036949074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/seeFvn/status/2053413439398465978",
+          "start": 53,
+          "url": "https://t.co/5FE7f9Ba1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053729922036949074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053413439398465978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个后续就是 我在衣柜突然睡着断片了似乎 我不知道是不是我含的 我甚至还喝了魔爪 不是很建议像我这样。。 https://t.co/5FE7f9Ba1C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053729922036949074",
+        "created_at": "2026-05-11T06:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053729922036949074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/seeFvn/status/2053413439398465978",
+              "start": 53,
+              "url": "https://t.co/5FE7f9Ba1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053729922036949074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053413439398465978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个后续就是 我在衣柜突然睡着断片了似乎 我不知道是不是我含的 我甚至还喝了魔爪 不是很建议像我这样。。 https://t.co/5FE7f9Ba1C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053413439398465978",
+        "created_at": "2026-05-10T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053413439398465978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/seeFvn/status/2053403051764097473",
+              "start": 109,
+              "url": "https://t.co/FTMD7ctFEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053413439398465978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1018,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053403051764097473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天抑制剂大放送 普瑞巴林 加巴喷丁 巴氯芬 尼古丁 咖啡因 舍曲林 我觉得世界很美丽 我的社交好了很多很多 我可以和谁都轻松聊天 轻微内幻 欣快++ 抑郁--- 后面考虑阿普唑仑0.4mg含服 其实我想试试艾司唑仑 https://t.co/FTMD7ctFEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 543,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1257
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2029266345720987738",
+    "created_at": "2026-03-10T04:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T05:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031226352221999613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1686073716680327168",
+          "start": 0,
+          "username": "stevelinjobs"
+        },
+        {
+          "end": 24,
+          "id": "1912063502782812160",
+          "start": 14,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031226352221999613",
+    "in_reply_to_user_id": "1686073716680327168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029996294501244955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevelinjobs @Ekouuuuuu 你长的好难看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2029266345720987738",
+        "created_at": "2026-03-10T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031226352221999613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686073716680327168",
+              "start": 0,
+              "username": "stevelinjobs"
+            },
+            {
+              "end": 24,
+              "id": "1912063502782812160",
+              "start": 14,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031226352221999613",
+        "in_reply_to_user_id": "1686073716680327168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029996294501244955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevelinjobs @Ekouuuuuu 你长的好难看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686073716680327168",
+        "conversation_id": "2029266345720987738",
+        "created_at": "2026-03-06T19:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029996294501244955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029996294501244955",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029266345720987738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "愿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027881804263235584/0j4lyElT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 391,
+          "like_count": 2704,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 922
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-31T17:58:13.000Z",
+        "description": "",
+        "id": "1686073716680327168",
+        "name": "まひろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982460589751312384/ko0uHriW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "stevelinjobs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 244,
+          "like_count": 9263,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

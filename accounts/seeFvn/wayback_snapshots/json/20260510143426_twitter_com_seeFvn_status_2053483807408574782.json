@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053483807408574782",
+    "created_at": "2026-05-10T14:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053483807408574782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1845454917236031495",
+          "start": 3,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053483807408574782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053381757144277105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dontbesadforit: *LGBT活动在中国受到打压\n：支持咱妈\n*中国人民解放军第四一一医院可以变性，术后可以更改性别\n：咱妈有人被白左渗透了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053483807408574782",
+        "created_at": "2026-05-10T14:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053483807408574782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1845454917236031495",
+              "start": 3,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053483807408574782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053381757144277105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dontbesadforit: *LGBT活动在中国受到打压\n：支持咱妈\n*中国人民解放军第四一一医院可以变性，术后可以更改性别\n：咱妈有人被白左渗透了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "2053381757144277105",
+        "created_at": "2026-05-10T07:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053381757144277105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053381757144277105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10997,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "*LGBT活动在中国受到打压\n：支持咱妈\n*中国人民解放军第四一一医院可以变性，术后可以更改性别\n：咱妈有人被白左渗透了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 542,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1234
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中中！？",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052688556548919296/2XRbsJTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 999,
+          "like_count": 72086,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 9173
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

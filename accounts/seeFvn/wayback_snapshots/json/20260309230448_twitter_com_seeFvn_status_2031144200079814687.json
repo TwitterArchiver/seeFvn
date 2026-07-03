@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2030933459481555149",
+    "created_at": "2026-03-09T23:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T00:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031144200079814687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792158516096180224",
+          "start": 0,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031144200079814687",
+    "in_reply_to_user_id": "1792158516096180224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030933459481555149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_Duckter 请问谁在刻板印象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2030933459481555149",
+        "created_at": "2026-03-09T23:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T00:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031144200079814687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792158516096180224",
+              "start": 0,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031144200079814687",
+        "in_reply_to_user_id": "1792158516096180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030933459481555149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_Duckter 请问谁在刻板印象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "conversation_id": "2030933459481555149",
+        "created_at": "2026-03-09T09:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030933459481555149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030933459481555149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 63357,
+          "like_count": 810,
+          "quote_count": 9,
+          "reply_count": 117,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子学会这几句口头禅真的很加分：\n一、啊啊啊啊啊啊啊啊啊啊啊\n二、妈呀大姐\n三、救命\n四、我不行了\n五、素\n六、惹\n七、受不了了\n八、笑晕\n九、交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "愿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027881804263235584/0j4lyElT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 391,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 921
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  #FreeMaDuGong\n被B了就是你友链的原因 从不主动B人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 18,
+                "tag": "FreeMaDuGong"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Drizzy Duckter Duckworth",
+        "pinned_tweet_id": "2029433147331666299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030633431898664960/b4zzbh_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 1010,
+          "like_count": 15948,
+          "listed_count": 18,
+          "media_count": 349,
+          "tweet_count": 2183
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2027113253177090500",
+    "created_at": "2026-02-27T21:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T22:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027502156396265979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027502156396265979",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027113253177090500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 安律凡恶心死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027113239960850432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHAwGtbkAAEVev.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2027113253177090500",
+        "created_at": "2026-02-27T21:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027502156396265979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027502156396265979",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027113253177090500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 安律凡恶心死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027113239960850432"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "conversation_id": "2027113253177090500",
+        "created_at": "2026-02-26T20:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027113253177090500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dx1pb4YWIm",
+              "end": 28,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2027113253177090500/photo/1",
+              "media_key": "3_2027113239960850432",
+              "start": 5,
+              "url": "https://t.co/dx1pb4YWIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027113253177090500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6083,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此乃何物 https://t.co/dx1pb4YWIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 370,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 899
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "云@fu_shingi95819//绿子@Minakami_Konata//久@LinJiuQAQ//湊@ecstasy_myslee//🤍@ToniKroos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "fu_shingi95819"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "Minakami_Konata"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "LinJiuQAQ"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "ecstasy_myslee"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "ToniKroos"
+              }
+            ]
+          }
+        },
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026678441152753671/9a5vO9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 216,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2084
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

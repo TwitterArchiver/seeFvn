@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2048220521473421727",
+    "created_at": "2026-04-26T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048220521473421727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 58,
+          "id": "1912063502782812160",
+          "start": 48,
+          "username": "Ekouuuuuu"
+        },
+        {
+          "end": 71,
+          "id": "1935705327380410369",
+          "start": 59,
+          "username": "chanhui1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048220521473421727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（定时贴文）Hi 大家中午好呀 不知道我有没有成功呢！ 大家如果可以的话还是好好生活吧！好朋友们@Ekouuuuuu @chanhui1027"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2048220521473421727",
+        "created_at": "2026-04-26T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048220521473421727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1912063502782812160",
+              "start": 48,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 71,
+              "id": "1935705327380410369",
+              "start": 59,
+              "username": "chanhui1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048220521473421727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（定时贴文）Hi 大家中午好呀 不知道我有没有成功呢！ 大家如果可以的话还是好好生活吧！好朋友们@Ekouuuuuu @chanhui1027"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 485,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1161
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "世界會記得你曾來過‖1/7/2024 DXM事變永遠懷念‖三民主義‖查主頁成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina#觜宿六🇹🇼",
+        "pinned_tweet_id": "2045267383476945131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 281,
+          "like_count": 11371,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "如果可以",
+        "id": "1935705327380410369",
+        "location": "纯绿🚪52",
+        "name": "我的坏也照单全收么",
+        "pinned_tweet_id": "2010335922173399267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048086590837379072/KD67nDOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 31,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 621
+        },
+        "username": "chanhui1027",
+        "verified": false
+      }
+    ]
+  }
+}

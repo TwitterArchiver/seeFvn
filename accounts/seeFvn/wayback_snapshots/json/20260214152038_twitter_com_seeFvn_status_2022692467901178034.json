@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "1999645015954588046",
+    "created_at": "2026-02-14T15:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022692467901178034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022692467901178034",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022690548818260016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 山东男人来了😂😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6184,
+        "height": 1188,
+        "media_key": "7_2022690522582941696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022690522582941696/pu/img/dajSo5NZ2ZfKRV83.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022690522582941696/pu/vid/avc1/320x528/9C9F92jrWdh_d2KR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022690522582941696/pu/vid/avc1/480x792/zyj42O316HFjEjBn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022690522582941696/pu/vid/avc1/720x1188/DeDE0E8PeajKM1dD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022690522582941696/pu/pl/qbHHY_Wi060V7Lpe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2026-02-14T15:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022692467901178034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022692467901178034",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022690548818260016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 山东男人来了😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022690522582941696"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "1999645015954588046",
+        "created_at": "2026-02-14T15:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022690548818260016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821199204519141376",
+              "start": 0,
+              "username": "lhoxun849278064"
+            },
+            {
+              "end": 31,
+              "id": "304506442",
+              "start": 17,
+              "username": "peopledailyJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1p0WVvVmG",
+              "end": 64,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2022690548818260016/video/1",
+              "media_key": "7_2022690522582941696",
+              "start": 41,
+              "url": "https://t.co/F1p0WVvVmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022690548818260016",
+        "in_reply_to_user_id": "1821199204519141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022591137576554768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhoxun849278064 @peopledailyJP 是你不傻孩子😂😂 https://t.co/F1p0WVvVmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 369,
+          "like_count": 2632,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 888
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "人總是拎不清自己在別人心裡的位置‖叫我白菜就好‖🚪2778收錢我就跑路‖討厭割手od抽煙喝酒的可以屏蔽我了‖查主頁成分我會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "白菜Akina＃參宿七",
+        "pinned_tweet_id": "2015683916917788830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999521365557391360/nuwyWmKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 247,
+          "like_count": 8452,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2153
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

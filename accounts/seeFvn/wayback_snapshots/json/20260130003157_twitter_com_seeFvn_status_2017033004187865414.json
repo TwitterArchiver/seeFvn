@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2017033004187865414",
+    "created_at": "2026-01-30T00:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017033004187865414"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017033004187865414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "负面情绪藏在身体里 若是慢慢长成了荆棘 不是想伤人 只是怕自己先碎掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2017033004187865414",
+        "created_at": "2026-01-30T00:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017033004187865414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017033004187865414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "负面情绪藏在身体里 若是慢慢长成了荆棘 不是想伤人 只是怕自己先碎掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016744374772867072/9da_CNMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 372,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 812
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

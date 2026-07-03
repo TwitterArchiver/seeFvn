@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071182538052448256"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2071182547594473486",
+    "created_at": "2026-06-28T10:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071182547594473486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fyTGp2TNn",
+          "end": 111,
+          "expanded_url": "https://x.com/seeFvn/status/2071182547594473486/photo/1",
+          "media_key": "3_2071182538052448256",
+          "start": 88,
+          "url": "https://t.co/5fyTGp2TNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071182547594473486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后补充了甲钴胺 明天的话打算吃 bzd 今天原本只打算吃加巴喷丁类的 然后戒了一些时间今天的加巴喷丁终于有些感觉了 然后就是打气。。。\n（仅个人经历分享，正常剂量医师指导） https://t.co/5fyTGp2TNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071182538052448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Ri3WbsAA8TwJ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071182538052448256"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2071182547594473486",
+        "created_at": "2026-06-28T10:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071182547594473486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fyTGp2TNn",
+              "end": 111,
+              "expanded_url": "https://x.com/seeFvn/status/2071182547594473486/photo/1",
+              "media_key": "3_2071182538052448256",
+              "start": 88,
+              "url": "https://t.co/5fyTGp2TNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071182547594473486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后补充了甲钴胺 明天的话打算吃 bzd 今天原本只打算吃加巴喷丁类的 然后戒了一些时间今天的加巴喷丁终于有些感觉了 然后就是打气。。。\n（仅个人经历分享，正常剂量医师指导） https://t.co/5fyTGp2TNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 782,
+          "like_count": 5161,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

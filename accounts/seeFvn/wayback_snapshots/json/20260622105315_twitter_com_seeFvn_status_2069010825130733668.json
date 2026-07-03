@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2069010825130733668",
+    "created_at": "2026-06-22T10:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069010825130733668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/seefvn/status/2069002500213252604",
+          "start": 40,
+          "url": "https://t.co/9kGtAlk593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069010825130733668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069002500213252604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是 N2O 还是什么我现在好解离但是我觉得不如 dxm 那种复杂一些的还是？？ https://t.co/9kGtAlk593"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069000504110383105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaQ_xeagAEzIWe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069010825130733668",
+        "created_at": "2026-06-22T10:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069010825130733668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/seefvn/status/2069002500213252604",
+              "start": 40,
+              "url": "https://t.co/9kGtAlk593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069010825130733668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069002500213252604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是 N2O 还是什么我现在好解离但是我觉得不如 dxm 那种复杂一些的还是？？ https://t.co/9kGtAlk593"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069000504110383105"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069002500213252604",
+        "created_at": "2026-06-22T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:12:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069000518182351034",
+          "2069002500213252604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKG1rACtxG",
+              "end": 48,
+              "expanded_url": "https://x.com/seeFvn/status/2069002500213252604/photo/1",
+              "media_key": "3_2069000504110383105",
+              "start": 25,
+              "url": "https://t.co/TKG1rACtxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069002500213252604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚2t\n（仅个人经历分享，正常剂量医师指导） https://t.co/TKG1rACtxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 719,
+          "like_count": 4632,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

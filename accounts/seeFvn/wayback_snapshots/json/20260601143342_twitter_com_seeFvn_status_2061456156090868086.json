@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2061456156090868086",
+    "created_at": "2026-06-01T14:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061456156090868086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061456156090868086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061304229869035612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月29日，网传根据中国最新监管要求，中国同性交友软件被要求“去标签化\"，这些平台被要求定义为“普通交友软件”。 \n不能展示属性(0/1/0.5/side)和签名，也不能在昵称中中明示或暗示“找对象”，头像中更不能出现任何彩虹元素，一经发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2061205139076034568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrfJzvWMAgtMBq.jpg",
+        "width": 1882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2061456156090868086",
+        "created_at": "2026-06-01T14:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061456156090868086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061456156090868086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061304229869035612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月29日，网传根据中国最新监管要求，中国同性交友软件被要求“去标签化\"，这些平台被要求定义为“普通交友软件”。 \n不能展示属性(0/1/0.5/side)和签名，也不能在昵称中中明示或暗示“找对象”，头像中更不能出现任何彩虹元素，一经发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061205139076034568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2061304229869035612",
+        "created_at": "2026-06-01T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061304229869035612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGqdEveIMK",
+              "end": 173,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2061304229869035612/photo/1",
+              "media_key": "3_2061205139076034568",
+              "start": 150,
+              "url": "https://t.co/jGqdEveIMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061304229869035612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 132493,
+          "like_count": 420,
+          "quote_count": 11,
+          "reply_count": 88,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "5月29日，网传根据中国最新监管要求，中国同性交友软件被要求“去标签化\"，这些平台被要求定义为“普通交友软件”。 \n不能展示属性(0/1/0.5/side)和签名，也不能在昵称中中明示或暗示“找对象”，头像中更不能出现任何彩虹元素，一经发现则封号。 \n目前Blued和翻咔已无法显示属性和签名内容。 https://t.co/jGqdEveIMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "垂死之物",
+        "id": "1980612830824132609",
+        "name": "salvatore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 622,
+          "like_count": 4096,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1419
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235835,
+          "following_count": 1069,
+          "like_count": 9617,
+          "listed_count": 8781,
+          "media_count": 47746,
+          "tweet_count": 54889
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

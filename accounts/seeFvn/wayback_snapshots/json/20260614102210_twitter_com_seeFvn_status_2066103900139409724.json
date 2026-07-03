@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066103886977597440"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2066103900139409724",
+    "created_at": "2026-06-14T10:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066103900139409724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WWEHvMpI8D",
+          "end": 36,
+          "expanded_url": "https://x.com/seeFvn/status/2066103900139409724/photo/1",
+          "media_key": "3_2066103886977597440",
+          "start": 13,
+          "url": "https://t.co/WWEHvMpI8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066103900139409724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "站在天台许愿恋人永不变心 https://t.co/WWEHvMpI8D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066103886977597440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxGidxagAAUZEb.jpg",
+        "width": 1999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066103886977597440"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2066103900139409724",
+        "created_at": "2026-06-14T10:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066103900139409724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWEHvMpI8D",
+              "end": 36,
+              "expanded_url": "https://x.com/seeFvn/status/2066103900139409724/photo/1",
+              "media_key": "3_2066103886977597440",
+              "start": 13,
+              "url": "https://t.co/WWEHvMpI8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066103900139409724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站在天台许愿恋人永不变心 https://t.co/WWEHvMpI8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 683,
+          "like_count": 4424,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1516
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

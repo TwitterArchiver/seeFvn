@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068341945668423866",
+    "created_at": "2026-06-21T15:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068713724282859687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559083758611230720",
+          "start": 0,
+          "username": "kuri_030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068713724282859687",
+    "in_reply_to_user_id": "1559083758611230720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068701579939831911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuri_030 好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068341945668423866",
+        "created_at": "2026-06-21T15:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068713724282859687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559083758611230720",
+              "start": 0,
+              "username": "kuri_030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068713724282859687",
+        "in_reply_to_user_id": "1559083758611230720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068701579939831911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuri_030 好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559083758611230720",
+        "conversation_id": "2068341945668423866",
+        "created_at": "2026-06-21T14:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068701579939831911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068701579939831911",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068341945668423866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 宝宝你试一下打替尔泊肽呢..我就是这样戒掉暴食催吐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK\nabuse/不見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 716,
+          "like_count": 4620,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T07:45:17.000Z",
+        "description": "别靠近我，也别远离我💧/成分类似回fo",
+        "id": "1559083758611230720",
+        "location": "天国",
+        "name": "κīκö",
+        "pinned_tweet_id": "2061421329593897343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559083865452740608/JxoG0awi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 38,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "kuri_030",
+        "verified": false
+      }
+    ]
+  }
+}

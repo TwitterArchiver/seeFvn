@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2032120723880493164",
+    "created_at": "2026-03-13T04:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032307103197733035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916779760824557568",
+          "start": 0,
+          "username": "Valentina748264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032307103197733035",
+    "in_reply_to_user_id": "1916779760824557568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120723880493164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valentina748264 是真的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2032120723880493164",
+        "created_at": "2026-03-13T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032307103197733035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916779760824557568",
+              "start": 0,
+              "username": "Valentina748264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032307103197733035",
+        "in_reply_to_user_id": "1916779760824557568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120723880493164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valentina748264 是真的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916779760824557568",
+        "conversation_id": "2032120723880493164",
+        "created_at": "2026-03-12T15:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032120723880493164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032120723880493164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 466,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕大了去面试真的神了，普瑞巴林能让我和所有人聊天，最后还给客人调了杯尼格罗尼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 398,
+          "like_count": 2732,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 944
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "我们拒绝用一个无聊致死的危险去换取免于饥饿的世界 宝宝天下第一@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "csd.gov.hk/tc_chi/facilit…",
+                "end": 23,
+                "expanded_url": "https://www.csd.gov.hk/tc_chi/facility/facility_ind/ins_nt_slpc.html",
+                "start": 0,
+                "url": "https://t.co/APMxwv2XPw"
+              }
+            ]
+          }
+        },
+        "id": "1916779760824557568",
+        "location": "全体出动操你妈",
+        "name": "Richard Ramirez",
+        "pinned_tweet_id": "1916781908907696486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023226270071525376/sL_6rhul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 98,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2889
+        },
+        "url": "https://t.co/APMxwv2XPw",
+        "username": "Valentina748264",
+        "verified": false
+      }
+    ]
+  }
+}

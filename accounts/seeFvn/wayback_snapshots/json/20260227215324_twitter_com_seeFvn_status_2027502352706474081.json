@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2027361421852315671",
+    "created_at": "2026-02-27T21:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T22:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027502352706474081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027502352706474081",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027361421852315671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 注意安全！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027361407218438146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKidVyXUAIoszG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2027361421852315671",
+        "created_at": "2026-02-27T21:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027502352706474081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027502352706474081",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027361421852315671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 注意安全！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027361407218438146"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2027361421852315671",
+        "created_at": "2026-02-27T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027361421852315671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CysSRMSN1G",
+              "end": 37,
+              "expanded_url": "https://x.com/hyunjennagua/status/2027361421852315671/photo/1",
+              "media_key": "3_2027361407218438146",
+              "start": 14,
+              "url": "https://t.co/CysSRMSN1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027361421852315671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安+哮喘片+普瑞+感康。 https://t.co/CysSRMSN1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 370,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 900
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 227,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2035239697715535892",
+    "created_at": "2026-03-21T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035239697715535892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035239697715535892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后来你真的过上了你想要的生活 每天烟雾缭绕 每天吃一顿饭 每天在药物里沉浸 你不是你想要的生活吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2035239697715535892",
+        "created_at": "2026-03-21T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035239697715535892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035239697715535892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来你真的过上了你想要的生活 每天烟雾缭绕 每天吃一顿饭 每天在药物里沉浸 你不是你想要的生活吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2034563068370604087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 426,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1041
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

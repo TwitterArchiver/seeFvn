@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2053650398737768752",
+    "created_at": "2026-05-11T06:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053720699475464316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750894458659606528",
+          "start": 0,
+          "username": "fuko048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053720699475464316",
+    "in_reply_to_user_id": "1750894458659606528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053692395062276272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko048 好哎🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2053650398737768752",
+        "created_at": "2026-05-11T06:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053720699475464316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750894458659606528",
+              "start": 0,
+              "username": "fuko048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053720699475464316",
+        "in_reply_to_user_id": "1750894458659606528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053692395062276272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko048 好哎🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750894458659606528",
+        "conversation_id": "2053650398737768752",
+        "created_at": "2026-05-11T04:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053692395062276272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053692395062276272",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053650398737768752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 窝也想吃一口😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 542,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1249
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love/oder/英语本当上手/愿往生极乐\n\n明日方舟里的普瑞赛斯已经没有了😭",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 355,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 927
+        },
+        "username": "fuko048",
+        "verified": true
+      }
+    ]
+  }
+}

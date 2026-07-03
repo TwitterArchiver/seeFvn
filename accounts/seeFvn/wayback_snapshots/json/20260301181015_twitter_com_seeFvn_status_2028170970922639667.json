@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2028032202173468933",
+    "created_at": "2026-03-01T18:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T19:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028170970922639667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1889695481938448384",
+          "start": 0,
+          "username": "PnKoZCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028170970922639667",
+    "in_reply_to_user_id": "1889695481938448384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028032202173468933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PnKoZCN 太好了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15315,
+        "height": 1278,
+        "media_key": "7_2028031982677250048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028031982677250048/pu/img/8gdbNCmMTCd2bWDh.jpg",
+        "public_metrics": {
+          "view_count": 14187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028031982677250048/pu/vid/avc1/320x692/Yy9MxkkEVqWGW2Xz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028031982677250048/pu/vid/avc1/480x1038/EXeZfSyRWYoU0nl9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028031982677250048/pu/vid/avc1/590x1278/u8bFUgWoqCTKZq76.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028031982677250048/pu/pl/1gIK4Z9Pzn19HHok.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2028032202173468933",
+        "created_at": "2026-03-01T18:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T19:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028170970922639667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028170970922639667",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028032202173468933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 太好了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028031982677250048"
+          ]
+        },
+        "author_id": "1889695481938448384",
+        "conversation_id": "2028032202173468933",
+        "created_at": "2026-03-01T08:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028032202173468933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hheuG1x6RZ",
+              "end": 45,
+              "expanded_url": "https://x.com/PnKoZCN/status/2028032202173468933/video/1",
+              "media_key": "7_2028031982677250048",
+              "start": 22,
+              "url": "https://t.co/hheuG1x6RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028032202173468933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 33892,
+          "like_count": 279,
+          "quote_count": 4,
+          "reply_count": 46,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我OD了20000mg普瑞巴林将不再是空话 https://t.co/hheuG1x6RZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "愿",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027881804263235584/0j4lyElT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 371,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 906
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 370,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 518
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

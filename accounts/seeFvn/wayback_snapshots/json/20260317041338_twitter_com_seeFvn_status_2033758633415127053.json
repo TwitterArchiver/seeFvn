@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2033525505820110957",
+    "created_at": "2026-03-17T04:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033758633415127053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297323279095435264",
+          "start": 0,
+          "username": "fudujiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033758633415127053",
+    "in_reply_to_user_id": "1297323279095435264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033525505820110957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fudujiya 其实就是这样d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2033525505820110957",
+        "created_at": "2026-03-17T04:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033758633415127053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297323279095435264",
+              "start": 0,
+              "username": "fudujiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033758633415127053",
+        "in_reply_to_user_id": "1297323279095435264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033525505820110957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fudujiya 其实就是这样d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297323279095435264",
+        "conversation_id": "2033525505820110957",
+        "created_at": "2026-03-16T12:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033525505820110957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033525505820110957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4898,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒科普对欧弟妹来说其实是好物推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 413,
+          "like_count": 2831,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 990
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-23T00:02:37.000Z",
+        "description": "06/od/同类看到会互fo/🚪88私信口令红包",
+        "id": "1297323279095435264",
+        "location": "不会痛苦的地方……",
+        "name": "尼亚_naY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377875415834628/XQRbpLb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 339,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 376
+        },
+        "username": "fudujiya",
+        "verified": false
+      }
+    ]
+  }
+}

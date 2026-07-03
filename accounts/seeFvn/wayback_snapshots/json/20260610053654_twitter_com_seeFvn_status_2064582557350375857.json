@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2064578127247114491",
+    "created_at": "2026-06-10T05:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064582557350375857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569188240128876545",
+          "start": 0,
+          "username": "for_4ngel_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064582557350375857",
+    "in_reply_to_user_id": "1569188240128876545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064578127247114491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel_2 加胶囊会好很多 我试过这个鼻吸含服测试可以说是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2064578127247114491",
+        "created_at": "2026-06-10T05:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064582557350375857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569188240128876545",
+              "start": 0,
+              "username": "for_4ngel_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064582557350375857",
+        "in_reply_to_user_id": "1569188240128876545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064578127247114491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel_2 加胶囊会好很多 我试过这个鼻吸含服测试可以说是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569188240128876545",
+        "conversation_id": "2064578127247114491",
+        "created_at": "2026-06-10T05:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064578127247114491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel_2/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/for_4ngel_2/status/2064577034626666690",
+              "start": 56,
+              "url": "https://t.co/69Z3l6sBMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064578127247114491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064577034626666690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样是13:13因为没有空胶囊了我直接吃的粉我他妈怎么这么蠢忘了加巴喷丁族药物都是有机酸，酸死我了辣的我喉咙痛 https://t.co/69Z3l6sBMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 656,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1499
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-12T04:56:53.000Z",
+        "description": "这里是Angel二号机|07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1569188240128876545",
+        "location": "若能成為誰的心臟",
+        "name": "Angel #昴宿四",
+        "pinned_tweet_id": "2064422864489717816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 31,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "for_4ngel_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2020012136509186434",
+    "created_at": "2026-02-07T05:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T06:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020012136509186434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020012136509186434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱一个人是就算看见她虚伪 装 轻浮 谄媚 也愿意照单全收吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2020012136509186434",
+        "created_at": "2026-02-07T05:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020012136509186434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020012136509186434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱一个人是就算看见她虚伪 装 轻浮 谄媚 也愿意照单全收吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 364,
+          "like_count": 2565,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 857
+        },
+        "username": "seeFvn",
+        "verified": false
+      }
+    ]
+  }
+}

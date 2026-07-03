@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035672604313600000",
+        "3_2035672604296761344",
+        "3_2035672604305195008"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035672614367297561",
+    "created_at": "2026-03-22T10:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035672614367297561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggenBrUMfb",
+          "end": 28,
+          "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+          "media_key": "3_2035672604313600000",
+          "start": 5,
+          "url": "https://t.co/ggenBrUMfb"
+        },
+        {
+          "display_url": "pic.x.com/ggenBrUMfb",
+          "end": 28,
+          "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+          "media_key": "3_2035672604296761344",
+          "start": 5,
+          "url": "https://t.co/ggenBrUMfb"
+        },
+        {
+          "display_url": "pic.x.com/ggenBrUMfb",
+          "end": 28,
+          "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+          "media_key": "3_2035672604305195008",
+          "start": 5,
+          "url": "https://t.co/ggenBrUMfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035672614367297561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "起号吧😂 https://t.co/ggenBrUMfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035672604313600000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEApcrsbQAA2UVd.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035672604296761344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEApcroaUAAcHOo.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035672604305195008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEApcrqbAAA9WJv.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035672604313600000",
+            "3_2035672604296761344",
+            "3_2035672604305195008"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035672614367297561",
+        "created_at": "2026-03-22T10:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035672614367297561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggenBrUMfb",
+              "end": 28,
+              "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+              "media_key": "3_2035672604313600000",
+              "start": 5,
+              "url": "https://t.co/ggenBrUMfb"
+            },
+            {
+              "display_url": "pic.x.com/ggenBrUMfb",
+              "end": 28,
+              "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+              "media_key": "3_2035672604296761344",
+              "start": 5,
+              "url": "https://t.co/ggenBrUMfb"
+            },
+            {
+              "display_url": "pic.x.com/ggenBrUMfb",
+              "end": 28,
+              "expanded_url": "https://x.com/seeFvn/status/2035672614367297561/photo/1",
+              "media_key": "3_2035672604305195008",
+              "start": 5,
+              "url": "https://t.co/ggenBrUMfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035672614367297561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起号吧😂 https://t.co/ggenBrUMfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "已经和普瑞巴林结婚",
+        "id": "1980612830824132609",
+        "name": "抖音用户 2778",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 429,
+          "like_count": 2995,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1066
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

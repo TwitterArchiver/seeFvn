@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2041874169378566195",
+    "created_at": "2026-04-08T20:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041982399253213347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041873578334072832",
+          "start": 0,
+          "username": "Futi4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041982399253213347",
+    "in_reply_to_user_id": "2041873578334072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041874169378566195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futi4444 我来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2041874169378566195",
+        "created_at": "2026-04-08T20:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041982399253213347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041873578334072832",
+              "start": 0,
+              "username": "Futi4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041982399253213347",
+        "in_reply_to_user_id": "2041873578334072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041874169378566195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futi4444 我来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041873578334072832",
+        "conversation_id": "2041874169378566195",
+        "created_at": "2026-04-08T13:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041874169378566195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041874169378566195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3939,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯 第四次重生\n再次被恶意举报\n寻回好友中\n请各位帮忙转帖 \n感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031983577416785921/4tATj3IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 476,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1106
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:40:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/no3PkhljL1"
+              }
+            ]
+          }
+        },
+        "id": "2041873578334072832",
+        "location": "零食供应➡️",
+        "name": "扶梯四世 好友寻回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041873811507965954/GYl6UxnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 39,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/no3PkhljL1",
+        "username": "Futi4444",
+        "verified": false
+      }
+    ]
+  }
+}

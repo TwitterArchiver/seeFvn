@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2021571354810626479",
+    "created_at": "2026-02-11T13:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021571354810626479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1620347661160435712",
+          "start": 3,
+          "username": "Fislonely_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021571354810626479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017137888023228619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Fislonely_: 百fo了谢谢宝宝们，也快过年了给宝宝们抽个奖吧。\n🌟一等奖（名额x1）：🧧200\n🌟二等奖（名额x2）：🧧100\n🌟三等奖（名额x3）：🧧50\n【关注·点赞·转帖·评论】就可以啦，辛苦宝宝们了！🙏\n‼️2月15日开奖‼️ https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021571354810626479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021571354810626479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021571354810626479"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2017137873183789058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5QNVobUAINSRO.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017137873183789058"
+          ]
+        },
+        "author_id": "1620347661160435712",
+        "conversation_id": "2017137888023228619",
+        "created_at": "2026-01-30T07:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017137888023228619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pR1J2GcRfV",
+              "end": 134,
+              "expanded_url": "https://x.com/Fislonely_/status/2017137888023228619/photo/1",
+              "media_key": "3_2017137873183789058",
+              "start": 111,
+              "url": "https://t.co/pR1J2GcRfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017137888023228619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3702,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 23
+        },
+        "reply_settings": "following",
+        "text": "百fo了谢谢宝宝们，也快过年了给宝宝们抽个奖吧。\n🌟一等奖（名额x1）：🧧200\n🌟二等奖（名额x2）：🧧100\n🌟三等奖（名额x3）：🧧50\n【关注·点赞·转帖·评论】就可以啦，辛苦宝宝们了！🙏\n‼️2月15日开奖‼️ https://t.co/pR1J2GcRfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "19890604",
+        "id": "1980612830824132609",
+        "name": "唯一",
+        "pinned_tweet_id": "2020383762316669063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018206407334699009/IcP94-y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 365,
+          "like_count": 2626,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 880
+        },
+        "username": "seeFvn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T09:06:11.000Z",
+        "description": "【查成分互fo】双性恋 大家都来找我玩！推文包含血图｜LGBTQ+全友好｜只是想在死前多交些朋友… 【我的佛@wu_si42846】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "wu_si42846"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fislonely",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fislonely",
+                "start": 0,
+                "url": "https://t.co/GcBrxcB3Ds"
+              }
+            ]
+          }
+        },
+        "id": "1620347661160435712",
+        "location": "合肥",
+        "name": "Fislonely",
+        "pinned_tweet_id": "2019305353876500903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048789347012608/OaP7ONSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 216,
+          "like_count": 3904,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/GcBrxcB3Ds",
+        "username": "Fislonely_",
+        "verified": false
+      }
+    ]
+  }
+}

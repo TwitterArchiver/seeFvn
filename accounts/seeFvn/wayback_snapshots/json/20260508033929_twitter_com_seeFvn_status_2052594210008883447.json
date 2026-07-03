@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052442608631496704",
+        "3_2052442608665006080",
+        "3_2052442608656646146",
+        "3_2052442608644030464"
+      ],
+      "media_source_tweet_id": [
+        "2052444188785135939",
+        "2052444188785135939",
+        "2052444188785135939",
+        "2052444188785135939"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052594210008883447",
+    "created_at": "2026-05-08T03:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052594210008883447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1951181920022437889",
+          "start": 3,
+          "username": "blackdoginmyhed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqMANUfdZV",
+          "end": 120,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+          "media_key": "3_2052442608631496704",
+          "start": 97,
+          "url": "https://t.co/EqMANUfdZV"
+        },
+        {
+          "display_url": "pic.x.com/EqMANUfdZV",
+          "end": 120,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+          "media_key": "3_2052442608665006080",
+          "start": 97,
+          "url": "https://t.co/EqMANUfdZV"
+        },
+        {
+          "display_url": "pic.x.com/EqMANUfdZV",
+          "end": 120,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+          "media_key": "3_2052442608656646146",
+          "start": 97,
+          "url": "https://t.co/EqMANUfdZV"
+        },
+        {
+          "display_url": "pic.x.com/EqMANUfdZV",
+          "end": 120,
+          "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+          "media_key": "3_2052442608644030464",
+          "start": 97,
+          "url": "https://t.co/EqMANUfdZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052594210008883447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052444188785135939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackdoginmyhed: 现在我也卖纸烟了哦!俄产正品黑龙江发货!\n查普曼 曼彻斯特 万宝路 以及卡比龙等!\n转发这条抽三位一人一盒任选烟喵 或者折现30r\n五月二十一日开奖! https://t.co/EqMANUfdZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2052442608631496704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu9raFbQAANUcN.jpg",
+        "width": 1033
+      },
+      {
+        "height": 960,
+        "media_key": "3_2052442608665006080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu9raNakAAOBGJ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2052442608656646146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu9raLbAAIO71L.jpg",
+        "width": 960
+      },
+      {
+        "height": 707,
+        "media_key": "3_2052442608644030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu9raIagAAXjLb.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052442608631496704",
+            "3_2052442608665006080",
+            "3_2052442608656646146",
+            "3_2052442608644030464"
+          ],
+          "media_source_tweet_id": [
+            "2052444188785135939",
+            "2052444188785135939",
+            "2052444188785135939",
+            "2052444188785135939"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052594210008883447",
+        "created_at": "2026-05-08T03:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052594210008883447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1951181920022437889",
+              "start": 3,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 120,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608631496704",
+              "start": 97,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 120,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608665006080",
+              "start": 97,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 120,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608656646146",
+              "start": 97,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 120,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608644030464",
+              "start": 97,
+              "url": "https://t.co/EqMANUfdZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052594210008883447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052444188785135939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackdoginmyhed: 现在我也卖纸烟了哦!俄产正品黑龙江发货!\n查普曼 曼彻斯特 万宝路 以及卡比龙等!\n转发这条抽三位一人一盒任选烟喵 或者折现30r\n五月二十一日开奖! https://t.co/EqMANUfdZV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052442608631496704",
+            "3_2052442608665006080",
+            "3_2052442608656646146",
+            "3_2052442608644030464"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052444188785135939",
+        "created_at": "2026-05-07T17:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052444188785135939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 99,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608631496704",
+              "start": 76,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 99,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608665006080",
+              "start": 76,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 99,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608656646146",
+              "start": 76,
+              "url": "https://t.co/EqMANUfdZV"
+            },
+            {
+              "display_url": "pic.x.com/EqMANUfdZV",
+              "end": 99,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2052444188785135939/photo/1",
+              "media_key": "3_2052442608644030464",
+              "start": 76,
+              "url": "https://t.co/EqMANUfdZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052444188785135939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "现在我也卖纸烟了哦!俄产正品黑龙江发货!\n查普曼 曼彻斯特 万宝路 以及卡比龙等!\n转发这条抽三位一人一盒任选烟喵 或者折现30r\n五月二十一日开奖! https://t.co/EqMANUfdZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "she/her",
+        "id": "1980612830824132609",
+        "name": "ee",
+        "pinned_tweet_id": "2035267278196162716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 535,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1196
+        },
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些烟!vape电子烟常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋都有! 悦刻注油空蛋9r一个 纸烟有俄产万宝路 查普曼系列 寿百年系列包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 300,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 609
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}
