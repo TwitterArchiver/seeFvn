@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072420101459255315",
+    "created_at": "2026-07-02T17:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072736065656619429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800582504841412608",
+          "start": 0,
+          "username": "Kabelsalat_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072736065656619429",
+    "in_reply_to_user_id": "1800582504841412608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072730556077645966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kabelsalat_010 好的！我后面会出！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072420101459255315",
+        "created_at": "2026-07-02T17:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072736065656619429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800582504841412608",
+              "start": 0,
+              "username": "Kabelsalat_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072736065656619429",
+        "in_reply_to_user_id": "1800582504841412608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072730556077645966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kabelsalat_010 好的！我后面会出！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800582504841412608",
+        "conversation_id": "2072420101459255315",
+        "created_at": "2026-07-02T17:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072730556077645966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072730556077645966",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072420101459255315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 求测评！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 722,
+          "like_count": 5831,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1805
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-11T17:35:12.000Z",
+        "description": "我是一只水母",
+        "id": "1800582504841412608",
+        "name": "wasabiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800582754326986753/SvYNyW0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 362,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Kabelsalat_010",
+        "verified": false
+      }
+    ]
+  }
+}

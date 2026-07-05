@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072821523900215773",
+    "created_at": "2026-07-02T23:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072821523900215773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072821523900215773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "去甲曲马多(M1 / O-DSMT)对 mu 阿片受体的ki 值是约 3.4 nM 噻奈普汀对 mu 阿片受体的 ki 值是约 383 nM 曲马多 (原药)对mu 阿片受体的 ki值是约 2400 nM 从绝对数值上看，曲马多（M1）比噻奈普汀强得多 但在实际的超大剂量滥用场景中 噻奈普汀带来的上头感和致命性往往远高于曲马多原因在于药物代谢动力学的巨大差异\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去甲曲马多(M1 / O-DSMT)对 mu 阿片受体的ki 值是约 3.4 nM 噻奈普汀对 mu 阿片受体的 ki 值是约 383 nM 曲马多 (原药)对mu 阿片受体的 ki值是约 2400 nM 从绝对数值上看，曲马多（M1）比噻奈普汀强得多 但在实际的超大剂量滥用场景中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072821523900215773",
+        "created_at": "2026-07-02T23:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072821523900215773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072821523900215773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去甲曲马多(M1 / O-DSMT)对 mu 阿片受体的ki 值是约 3.4 nM 噻奈普汀对 mu 阿片受体的 ki 值是约 383 nM 曲马多 (原药)对mu 阿片受体的 ki值是约 2400 nM 从绝对数值上看，曲马多（M1）比噻奈普汀强得多 但在实际的超大剂量滥用场景中 噻奈普汀带来的上头感和致命性往往远高于曲马多原因在于药物代谢动力学的巨大差异\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去甲曲马多(M1 / O-DSMT)对 mu 阿片受体的ki 值是约 3.4 nM 噻奈普汀对 mu 阿片受体的 ki 值是约 383 nM 曲马多 (原药)对mu 阿片受体的 ki值是约 2400 nM 从绝对数值上看，曲马多（M1）比噻奈普汀强得多 但在实际的超大剂量滥用场景中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 728,
+          "like_count": 5859,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

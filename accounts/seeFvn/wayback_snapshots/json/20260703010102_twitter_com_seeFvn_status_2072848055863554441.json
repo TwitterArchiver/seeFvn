@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072260264989524086",
+    "created_at": "2026-07-03T01:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072848055863554441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052687679930658821",
+          "start": 0,
+          "username": "Zakky979PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072848055863554441",
+    "in_reply_to_user_id": "2052687679930658821",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072837095052488746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zakky979PR 好吃😋🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072260264989524086",
+        "created_at": "2026-07-03T01:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072848055863554441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052687679930658821",
+              "start": 0,
+              "username": "Zakky979PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072848055863554441",
+        "in_reply_to_user_id": "2052687679930658821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072837095052488746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zakky979PR 好吃😋🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052687679930658821",
+        "conversation_id": "2072260264989524086",
+        "created_at": "2026-07-03T00:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072837095052488746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072837095052488746",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072260264989524086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 等我寄给你100g普瑞原粉你就不说这话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 729,
+          "like_count": 5869,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1811
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T09:51:16.000Z",
+        "description": "https://t.co/ooruJ1Ppg9\nhttps://t.co/T15BTWpCzU 信任卖家 @pr80_NightHaven\n普瑞原粉，自己看置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "pr80_NightHaven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ooruJ1Ppg9"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 47,
+                "expanded_url": "http://pr80.net",
+                "start": 24,
+                "url": "https://t.co/T15BTWpCzU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ooruJ1Ppg9"
+              }
+            ]
+          }
+        },
+        "id": "2052687679930658821",
+        "location": "Tokyo",
+        "name": "Zakky 普瑞原粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072728811020693504/uMLbTRtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/ooruJ1Ppg9",
+        "username": "Zakky979PR",
+        "verified": false
+      }
+    ]
+  }
+}

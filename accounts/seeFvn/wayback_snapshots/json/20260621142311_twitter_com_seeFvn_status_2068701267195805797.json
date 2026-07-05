@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068541834230743515",
+    "created_at": "2026-06-21T14:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068701267195805797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068701267195805797",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068670686839878081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 嗯嗯好的谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068541834230743515",
+        "created_at": "2026-06-21T14:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068701267195805797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068701267195805797",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068670686839878081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 嗯嗯好的谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2068541834230743515",
+        "created_at": "2026-06-21T12:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068670686839878081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068670686839878081",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068650185845277001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 比如说你吃900mg普瑞巴林配20mg美金刚，就会有3600mg普瑞巴林的效果。美金刚可以增强普瑞药效，但金刚烷胺因为这个药自身的特殊性联用普瑞会发生很不好的事情。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK\nabuse/不見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 716,
+          "like_count": 4618,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgoxKJ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "Mutsumi🔜Freedom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 468,
+          "like_count": 5155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/y3ZllgoxKJ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

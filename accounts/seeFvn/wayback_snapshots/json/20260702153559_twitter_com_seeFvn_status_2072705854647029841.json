@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2072705854647029841",
+    "created_at": "2026-07-02T15:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072705854647029841"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "门槛mei"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "线下"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935705327380410369",
+          "start": 3,
+          "username": "wohensad001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072705854647029841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071840198389064009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wohensad001: 爸妈断了我的生活费没办法了 所以来接线下了\n=小明 江浙沪线下 #门槛mei #线下 #高中生 \n🚪52 基础过🚪➕v 可咨询线下\n🚪388半绿线下\n🚪520非绿线下\n可支付宝口令 微信赞赏码\n过完🚪记得备注微信号 我看到会立马加你的！ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2071840168143683585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCnp-WXAAEZRYQ.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2071840168156282881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCnp-ZXQAE0R1e.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2072705854647029841",
+        "created_at": "2026-07-02T15:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072705854647029841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "门槛mei"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "线下"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "高中生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935705327380410369",
+              "start": 3,
+              "username": "wohensad001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072705854647029841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071840198389064009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wohensad001: 爸妈断了我的生活费没办法了 所以来接线下了\n=小明 江浙沪线下 #门槛mei #线下 #高中生 \n🚪52 基础过🚪➕v 可咨询线下\n🚪388半绿线下\n🚪520非绿线下\n可支付宝口令 微信赞赏码\n过完🚪记得备注微信号 我看到会立马加你的！ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071840168143683585",
+            "3_2071840168156282881"
+          ]
+        },
+        "author_id": "1935705327380410369",
+        "conversation_id": "2071840198389064009",
+        "created_at": "2026-06-30T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071840198389064009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "门槛mei"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "线下"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/57bKyF7326",
+              "end": 142,
+              "expanded_url": "https://x.com/wohensad001/status/2071840198389064009/photo/1",
+              "media_key": "3_2071840168143683585",
+              "start": 119,
+              "url": "https://t.co/57bKyF7326"
+            },
+            {
+              "display_url": "pic.x.com/57bKyF7326",
+              "end": 142,
+              "expanded_url": "https://x.com/wohensad001/status/2071840198389064009/photo/1",
+              "media_key": "3_2071840168156282881",
+              "start": 119,
+              "url": "https://t.co/57bKyF7326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071840198389064009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 712,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爸妈断了我的生活费没办法了 所以来接线下了\n=小明 江浙沪线下 #门槛mei #线下 #高中生 \n🚪52 基础过🚪➕v 可咨询线下\n🚪388半绿线下\n🚪520非绿线下\n可支付宝口令 微信赞赏码\n过完🚪记得备注微信号 我看到会立马加你的！ https://t.co/57bKyF7326"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 719,
+          "like_count": 5809,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "嗯",
+        "pinned_tweet_id": "2071840198389064009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068450356070420480/9XXnoJSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 30,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "wohensad001",
+        "verified": false
+      }
+    ]
+  }
+}

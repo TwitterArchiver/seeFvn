@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2068651349726900325",
+    "created_at": "2026-06-21T11:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068651349726900325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/seefvn/status/2068649700182671687",
+          "start": 18,
+          "url": "https://t.co/lRbK1O0W6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068651349726900325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068649700182671687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一下这个是一天按照需要选择的） https://t.co/lRbK1O0W6P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068651349726900325",
+        "created_at": "2026-06-21T11:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068651349726900325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/seefvn/status/2068649700182671687",
+              "start": 18,
+              "url": "https://t.co/lRbK1O0W6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068651349726900325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068649700182671687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下这个是一天按照需要选择的） https://t.co/lRbK1O0W6P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2068636222466179128",
+        "created_at": "2026-06-21T10:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068649700182671687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068649700182671687",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068646057584603147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 是的我很明白 我现在对加巴类的没有以前那么强了 我剂量方面的话 阿普唑仑0.4分2次舌下-0.8mg 劳拉西泮1-2mg 舌下 or 囗服 艾司唑仑我用的不多一天最多也是1-2mg 囗服 我同时明白 bzd 戒断远比加巴类危险的多 我也会考虑！还是谢谢你的提醒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK\nabuse/不見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 715,
+          "like_count": 4612,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

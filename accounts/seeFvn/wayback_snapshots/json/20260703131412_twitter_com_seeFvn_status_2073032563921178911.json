@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2073032563921178911",
+    "created_at": "2026-07-03T13:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073032563921178911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karo269640607/…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/karo269640607/status/2072921070257188895",
+          "start": 79,
+          "url": "https://t.co/NeE9KOnTtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073032563921178911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072921070257188895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额你说的解离是要从 DXM代谢成DXO 才有用 如果 CYP2D6被抑制没有 DXO 只会有特别难受的5HT 综合症😅\n（仅个人经历分享，正常剂量医师指导） https://t.co/NeE9KOnTtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2072920802392207360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR-fKoa8AAsCIL.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2073032563921178911",
+        "created_at": "2026-07-03T13:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073032563921178911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karo269640607/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/karo269640607/status/2072921070257188895",
+              "start": 79,
+              "url": "https://t.co/NeE9KOnTtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073032563921178911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072921070257188895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额你说的解离是要从 DXM代谢成DXO 才有用 如果 CYP2D6被抑制没有 DXO 只会有特别难受的5HT 综合症😅\n（仅个人经历分享，正常剂量医师指导） https://t.co/NeE9KOnTtG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072920802392207360"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2072921070257188895",
+        "created_at": "2026-07-03T05:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072921070257188895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzxRAApLju",
+              "end": 58,
+              "expanded_url": "https://x.com/karo269640607/status/2072921070257188895/photo/1",
+              "media_key": "3_2072920802392207360",
+              "start": 35,
+              "url": "https://t.co/PzxRAApLju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072921070257188895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以右美沙芬跟安非他酮一起磕会可能血清素综合征但是会很爽因为强效抑制 https://t.co/PzxRAApLju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 731,
+          "like_count": 5872,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混乱邪恶同人女 | 讨厌宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 703,
+          "like_count": 36464,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 7412
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}
