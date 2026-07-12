@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2074120332273754293",
+    "created_at": "2026-07-06T13:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074120332273754293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1998751032650969088",
+          "start": 3,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074120332273754293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074046789670645814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Sakura233: 无处方切勿购买多多，无处方使用精二确实有被认定xd的可能性，那套盐野义不知情抗辩根本没有用了，这上面也写的这么明确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2074120332273754293",
+        "created_at": "2026-07-06T13:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074120332273754293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1998751032650969088",
+              "start": 3,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074120332273754293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074046789670645814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Sakura233: 无处方切勿购买多多，无处方使用精二确实有被认定xd的可能性，那套盐野义不知情抗辩根本没有用了，这上面也写的这么明确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2074046789670645814",
+        "created_at": "2026-07-06T08:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074046789670645814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stolly21_TG/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Stolly21_TG/status/2074002402613858450",
+              "start": 58,
+              "url": "https://t.co/moPAn6b3ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074046789670645814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002402613858450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无处方切勿购买多多，无处方使用精二确实有被认定xd的可能性，那套盐野义不知情抗辩根本没有用了，这上面也写的这么明确 https://t.co/moPAn6b3ou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 747,
+          "like_count": 6279,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 564,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074177169425891329"
+      ],
+      "media_source_tweet_id": [
+        "2074177174018646523"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074463944052256994",
+    "created_at": "2026-07-07T12:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074463944052256994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986452594206838785",
+          "start": 3,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZS0JfGx8C",
+          "end": 126,
+          "expanded_url": "https://x.com/Idontselldrug/status/2074177174018646523/photo/1",
+          "media_key": "3_2074177169425891329",
+          "start": 103,
+          "url": "https://t.co/2ZS0JfGx8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074463944052256994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074177174018646523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontselldrug: 这些傻逼记者真的为了流量脸都不要了，莱博雷生达利雷生这种无成瘾性无滥用潜力的好安眠药都能被拿来做文章，知道找不出什么药的坏处就旁敲侧击暗示说有拿这药自杀的案例，气笑了 https://t.co/2ZS0JfGx8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2074177169425891329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj1JWjbAAEBxY1.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074177169425891329"
+          ],
+          "media_source_tweet_id": [
+            "2074177174018646523"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074463944052256994",
+        "created_at": "2026-07-07T12:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074463944052256994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986452594206838785",
+              "start": 3,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZS0JfGx8C",
+              "end": 126,
+              "expanded_url": "https://x.com/Idontselldrug/status/2074177174018646523/photo/1",
+              "media_key": "3_2074177169425891329",
+              "start": 103,
+              "url": "https://t.co/2ZS0JfGx8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074463944052256994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074177174018646523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontselldrug: 这些傻逼记者真的为了流量脸都不要了，莱博雷生达利雷生这种无成瘾性无滥用潜力的好安眠药都能被拿来做文章，知道找不出什么药的坏处就旁敲侧击暗示说有拿这药自杀的案例，气笑了 https://t.co/2ZS0JfGx8C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074177169425891329"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074177174018646523",
+        "created_at": "2026-07-06T17:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074177174018646523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZS0JfGx8C",
+              "end": 107,
+              "expanded_url": "https://x.com/Idontselldrug/status/2074177174018646523/photo/1",
+              "media_key": "3_2074177169425891329",
+              "start": 84,
+              "url": "https://t.co/2ZS0JfGx8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074177174018646523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4309,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这些傻逼记者真的为了流量脸都不要了，莱博雷生达利雷生这种无成瘾性无滥用潜力的好安眠药都能被拿来做文章，知道找不出什么药的坏处就旁敲侧击暗示说有拿这药自杀的案例，气笑了 https://t.co/2ZS0JfGx8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 751,
+          "like_count": 6352,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 291,
+          "like_count": 2549,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 3061
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

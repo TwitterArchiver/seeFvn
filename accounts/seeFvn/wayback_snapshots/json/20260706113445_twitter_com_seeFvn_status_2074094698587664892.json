@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2074094698587664892",
+    "created_at": "2026-07-06T11:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074094698587664892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912063502782812160",
+          "start": 3,
+          "username": "Ekouuuuuu"
+        },
+        {
+          "end": 82,
+          "id": "1980612830824132609",
+          "start": 75,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074094698587664892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073904608901235015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ekouuuuuu: 歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女\n唯一的閨蜜@seeFvn \n討厭藥物濫用/餐券/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3954,
+        "media_key": "3_2073904490466709504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf9JWRbEAAoEs9.jpg",
+        "width": 3071
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073904522402189313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf9LNPb0AEO6HL.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2073904547991552000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf9MskagAAEsOf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2073904572066869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf9OGQasAA9fKk.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2074094698587664892",
+        "created_at": "2026-07-06T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074094698587664892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912063502782812160",
+              "start": 3,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 82,
+              "id": "1980612830824132609",
+              "start": 75,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074094698587664892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073904608901235015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ekouuuuuu: 歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女\n唯一的閨蜜@seeFvn \n討厭藥物濫用/餐券/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073904490466709504",
+            "3_2073904522402189313",
+            "3_2073904547991552000",
+            "3_2073904572066869248"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2073904608901235015",
+        "created_at": "2026-07-05T22:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073904608901235015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1980612830824132609",
+              "start": 60,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9rBQ1awNL",
+              "end": 153,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2073904608901235015/photo/1",
+              "media_key": "3_2073904490466709504",
+              "start": 130,
+              "url": "https://t.co/o9rBQ1awNL"
+            },
+            {
+              "display_url": "pic.x.com/o9rBQ1awNL",
+              "end": 153,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2073904608901235015/photo/1",
+              "media_key": "3_2073904522402189313",
+              "start": 130,
+              "url": "https://t.co/o9rBQ1awNL"
+            },
+            {
+              "display_url": "pic.x.com/o9rBQ1awNL",
+              "end": 153,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2073904608901235015/photo/1",
+              "media_key": "3_2073904547991552000",
+              "start": 130,
+              "url": "https://t.co/o9rBQ1awNL"
+            },
+            {
+              "display_url": "pic.x.com/o9rBQ1awNL",
+              "end": 153,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2073904608901235015/photo/1",
+              "media_key": "3_2073904572066869248",
+              "start": 130,
+              "url": "https://t.co/o9rBQ1awNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073904608901235015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜都可以☑️\n台灣語/國語🆗\n三民主義🇹🇼 自我認知性別女\n唯一的閨蜜@seeFvn \n討厭藥物濫用/餐券/負能量/cosplay/碎碎唸/吸毒的麻煩自行屏蔽🥲\n討厭中國「特色」社會主義\n獨裁狗習近平早日下台 https://t.co/o9rBQ1awNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 744,
+          "like_count": 6261,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2073904608901235015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 429,
+          "like_count": 14619,
+          "listed_count": 0,
+          "media_count": 659,
+          "tweet_count": 3960
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

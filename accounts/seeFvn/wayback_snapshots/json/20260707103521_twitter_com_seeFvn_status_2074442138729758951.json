@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2074442138729758951",
+    "created_at": "2026-07-07T10:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074442138729758951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074442138729758951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074198366997913646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoim33: 再次补充\n这种通过银行转账的收款方式是欧洲扣款水电费的常用手段\n通过提供账户号码申请 SEPA Direct Debit 请求直接从银行账户内拉出资金并扣款\n而现在多数欧洲银行有一个账户下挂多个银行账户的服务，尤其是企业账户\n因此相关结算数据可能是在验证…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2074442138729758951",
+        "created_at": "2026-07-07T10:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074442138729758951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074442138729758951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074198366997913646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoim33: 再次补充\n这种通过银行转账的收款方式是欧洲扣款水电费的常用手段\n通过提供账户号码申请 SEPA Direct Debit 请求直接从银行账户内拉出资金并扣款\n而现在多数欧洲银行有一个账户下挂多个银行账户的服务，尤其是企业账户\n因此相关结算数据可能是在验证…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074198366997913646",
+        "created_at": "2026-07-06T18:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074198366997913646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/mizorewww/status/2074192615558557740",
+              "start": 145,
+              "url": "https://t.co/77TCgB7Xv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074198366997913646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再次补充\n这种通过银行转账的收款方式是欧洲扣款水电费的常用手段\n通过提供账户号码申请 SEPA Direct Debit 请求直接从银行账户内拉出资金并扣款\n而现在多数欧洲银行有一个账户下挂多个银行账户的服务，尤其是企业账户\n因此相关结算数据可能是在验证银行帐户有效后直接 placing 而无后续的二次验证，而在结算后与银行收到 Direct Debit 请求中间，他们只需要停用相关银行账户便可达到白嫖目的\n而根据 stripe 的规则，在 Direct Debit Placing 失败并重试三次后，相关账单信息会被直接提供给收单方，同时，对应的银行账户，以及 Stripe Checkout Portal 和 Customer ID 会被停用，导致后续通过 Stripe Checkout Portal 在这个商家进行的任何购买都会被拒绝"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4255,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074192615558557740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次补充\n这种通过银行转账的收款方式是欧洲扣款水电费的常用手段\n通过提供账户号码申请 SEPA Direct Debit 请求直接从银行账户内拉出资金并扣款\n而现在多数欧洲银行有一个账户下挂多个银行账户的服务，尤其是企业账户\n因此相关结算数据可能是在验证银行帐户有效后直接 placing https://t.co/77TCgB7Xv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 749,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6423,
+          "following_count": 3099,
+          "like_count": 55158,
+          "listed_count": 22,
+          "media_count": 3479,
+          "tweet_count": 14290
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

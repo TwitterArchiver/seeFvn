@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2074932158032994657",
+    "created_at": "2026-07-08T19:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074932158032994657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074932158032994657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074463441427779871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 我讨厌中国的精神医疗系统是有原因的，比如我今天才知道被确诊双相情感障碍的患者无法预约天安门广场这类事情。这只是其中一个例子，被上报还无法报考公务员、教师资格证、执业医师证、律师资格证、驾照。\n\n我不希望任何人去精神科被医生确诊这个，希望…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1501,
+        "media_key": "3_2074444165220622336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnn-jZbYAAzeh_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2074932158032994657",
+        "created_at": "2026-07-08T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074932158032994657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074932158032994657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074463441427779871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 我讨厌中国的精神医疗系统是有原因的，比如我今天才知道被确诊双相情感障碍的患者无法预约天安门广场这类事情。这只是其中一个例子，被上报还无法报考公务员、教师资格证、执业医师证、律师资格证、驾照。\n\n我不希望任何人去精神科被医生确诊这个，希望…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074444165220622336"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2074463441427779871",
+        "created_at": "2026-07-07T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074463441427779871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvd3b2uA7e",
+              "end": 163,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2074463441427779871/photo/1",
+              "media_key": "3_2074444165220622336",
+              "start": 140,
+              "url": "https://t.co/uvd3b2uA7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074463441427779871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我讨厌中国的精神医疗系统是有原因的，比如我今天才知道被确诊双相情感障碍的患者无法预约天安门广场这类事情。这只是其中一个例子，被上报还无法报考公务员、教师资格证、执业医师证、律师资格证、驾照。\n\n我不希望任何人去精神科被医生确诊这个，希望大家能遇到一个不上报也会给你开药的好医生。\n\n我只能说🇨🇳你无敌了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 38440,
+          "like_count": 275,
+          "quote_count": 11,
+          "reply_count": 32,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌中国的精神医疗系统是有原因的，比如我今天才知道被确诊双相情感障碍的患者无法预约天安门广场这类事情。这只是其中一个例子，被上报还无法报考公务员、教师资格证、执业医师证、律师资格证、驾照。\n\n我不希望任何人去精神科被医生确诊这个，希望大家能遇到一个不上报也会给你开药的好医生。 https://t.co/uvd3b2uA7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 762,
+          "like_count": 6617,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1960,
+          "like_count": 3371,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 7682
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

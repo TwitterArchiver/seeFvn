@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2073308353762062345",
+    "created_at": "2026-07-04T16:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073441411526021425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855511003515273216",
+          "start": 0,
+          "username": "ZCmBwMO54021984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073441411526021425",
+    "in_reply_to_user_id": "1855511003515273216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073428708065792017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZCmBwMO54021984 这个不是 journal 啦 我以前应该有发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2073308353762062345",
+        "created_at": "2026-07-04T16:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073441411526021425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855511003515273216",
+              "start": 0,
+              "username": "ZCmBwMO54021984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073441411526021425",
+        "in_reply_to_user_id": "1855511003515273216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073428708065792017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZCmBwMO54021984 这个不是 journal 啦 我以前应该有发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855511003515273216",
+        "conversation_id": "2073308353762062345",
+        "created_at": "2026-07-04T15:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428708065792017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428708065792017",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073308353762062345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn journal怎么调成中文版🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 736,
+          "like_count": 6043,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1820
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T07:21:27.000Z",
+        "description": "",
+        "id": "1855511003515273216",
+        "name": "💀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070789922299293696/0d2lJ7qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "ZCmBwMO54021984",
+        "verified": false
+      }
+    ]
+  }
+}
