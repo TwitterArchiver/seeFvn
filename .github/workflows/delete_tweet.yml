@@ -20,12 +20,12 @@ jobs:
 
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml --quiet
 
-      - name: 拉取最新 archive.py（用 build-index）
+      - name: 拉取最新 archive.py
         run: |
           curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
           echo "archive.py $(wc -l < /tmp/archive.py) 行"
@@ -49,20 +49,14 @@ jobs:
             SNAP="accounts/${U}/wayback_snapshots"
             [ -d "$SNAP" ] || continue
 
-            # 删除该 id 对应的 html/json 文件（可能已被手动删除，删不到也无所谓）
-            DELETED=0
+            # 删除该 id 对应的 html/json 文件（可能已被手动删除，删不到也无妨）
             for TID in $IDS; do
               for f in "$SNAP"/html/*status_${TID}.html "$SNAP"/json/*status_${TID}.json; do
-                if [ -f "$f" ]; then
-                  rm -f "$f"
-                  echo "[$U] 删除 $(basename "$f")"
-                  DELETED=1
-                fi
+                [ -f "$f" ] && rm -f "$f" && echo "[$U] 删除 $(basename "$f")"
               done
             done
-            [ "$DELETED" -eq 0 ] && echo "[$U] 无实体文件（可能已手动删除），仍将重建索引清理残留"
 
-            # 无条件重建索引：即使文件已被手动删除，也要让 index.json 去掉这些推文
+            # 无条件重建索引：即使文件已被手动删除，也让 index.json 去掉这些推文
             echo "::group::[$U] 重建索引"
             ( cd "$SNAP/.." && python3 /tmp/archive.py build-index ) || echo "::warning::[$U] build-index 出错"
             echo "::endgroup::"
@@ -74,7 +68,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "无变化，无需推送"
+            echo "无变化"
             exit 0
           fi
           git commit -m "🗑️ 删除推文 ${{ github.event.inputs.tweet_ids }} [skip ci]"
