@@ -1,0 +1,86 @@
+name: 删除指定推文
+
+on:
+  workflow_dispatch:
+    inputs:
+      tweet_ids:
+        description: '要删除的推文 ID（多个用空格分隔，如 2056308011623481495 2056308011623481496）'
+        required: true
+      account:
+        description: '账号目录名（留空则自动扫描 accounts/ 下所有账号里查找）'
+        required: false
+        default: ''
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 安装依赖
+        run: pip install requests beautifulsoup4 lxml --quiet
+
+      - name: 拉取最新 archive.py
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+          echo "archive.py $(wc -l < /tmp/archive.py) 行"
+
+      - name: 确定账号列表
+        id: info
+        run: |
+          IN="${{ github.event.inputs.account }}"
+          if [ -n "$IN" ]; then
+            ACCOUNTS="$IN"
+          else
+            ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
+              [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
+            done)
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 执行删除
+        run: |
+          IDS="${{ github.event.inputs.tweet_ids }}"
+          echo "要删除的推文: $IDS"
+          FOUND=0
+          while IFS= read -r U; do
+            [ -z "$U" ] && continue
+            [ -d "accounts/${U}/wayback_snapshots" ] || continue
+            # 检查这个账号里有没有目标推文
+            HIT=0
+            for TID in $IDS; do
+              if ls "accounts/${U}/wayback_snapshots/json/" 2>/dev/null | grep -q "status_${TID}\.json"; then
+                HIT=1; break
+              fi
+            done
+            if [ "$HIT" -eq 1 ]; then
+              echo "::group::[$U] 删除推文"
+              ( cd "accounts/${U}" && python3 /tmp/archive.py delete-tweet $IDS ) || echo "::warning::[$U] 删除出错"
+              echo "::endgroup::"
+              FOUND=1
+            fi
+          done <<< "${{ steps.info.outputs.accounts }}"
+          if [ "$FOUND" -eq 0 ]; then
+            echo "::warning::在所有账号里都没找到这些推文 ID"
+          fi
+
+      - name: 推送
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变化（可能推文不存在）"
+            exit 0
+          fi
+          git commit -m "🗑️ 删除推文 ${{ github.event.inputs.tweet_ids }} [skip ci]"
+          git push
