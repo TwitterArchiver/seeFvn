@@ -7,7 +7,7 @@ on:
         description: '要删除的推文 ID（多个用空格分隔，如 2056308011623481495 2056308011623481496）'
         required: true
       account:
-        description: '账号目录名（留空则自动扫描 accounts/ 下所有账号里查找）'
+        description: '账号目录名（留空则自动在所有账号里查找）'
         required: false
         default: ''
 
@@ -21,56 +21,58 @@ jobs:
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml --quiet
 
-      - name: 拉取最新 archive.py
+      - name: 拉取最新 archive.py（仅用 build-index）
         run: |
           curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
           echo "archive.py $(wc -l < /tmp/archive.py) 行"
 
-      - name: 确定账号列表
-        id: info
+      - name: 删除推文文件并重建索引
         run: |
-          IN="${{ github.event.inputs.account }}"
-          if [ -n "$IN" ]; then
-            ACCOUNTS="$IN"
+          IDS="${{ github.event.inputs.tweet_ids }}"
+          IN_ACCT="${{ github.event.inputs.account }}"
+          echo "要删除的推文 ID: $IDS"
+
+          # 确定要处理的账号目录
+          if [ -n "$IN_ACCT" ]; then
+            ACCOUNTS="$IN_ACCT"
           else
             ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
               [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
             done)
           fi
-          echo "accounts<<EOF" >> $GITHUB_OUTPUT
-          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
-          echo "EOF"           >> $GITHUB_OUTPUT
 
-      - name: 执行删除
-        run: |
-          IDS="${{ github.event.inputs.tweet_ids }}"
-          echo "要删除的推文: $IDS"
-          FOUND=0
+          ANY_DELETED=0
           while IFS= read -r U; do
             [ -z "$U" ] && continue
-            [ -d "accounts/${U}/wayback_snapshots" ] || continue
-            # 检查这个账号里有没有目标推文
+            SNAP="accounts/${U}/wayback_snapshots"
+            [ -d "$SNAP" ] || continue
+
             HIT=0
             for TID in $IDS; do
-              if ls "accounts/${U}/wayback_snapshots/json/" 2>/dev/null | grep -q "status_${TID}\.json"; then
-                HIT=1; break
-              fi
+              # 删除该 id 对应的 html 和 json 文件
+              for f in "$SNAP"/html/*status_${TID}.html "$SNAP"/json/*status_${TID}.json; do
+                if [ -f "$f" ]; then
+                  rm -f "$f"
+                  echo "[$U] 删除 $(basename "$f")"
+                  HIT=1; ANY_DELETED=1
+                fi
+              done
             done
+
+            # 该账号有删除，就重建索引
             if [ "$HIT" -eq 1 ]; then
-              echo "::group::[$U] 删除推文"
-              ( cd "accounts/${U}" && python3 /tmp/archive.py delete-tweet $IDS ) || echo "::warning::[$U] 删除出错"
+              echo "::group::[$U] 重建索引"
+              ( cd "$SNAP/.." && python3 /tmp/archive.py build-index ) || echo "::warning::[$U] build-index 出错"
               echo "::endgroup::"
-              FOUND=1
             fi
-          done <<< "${{ steps.info.outputs.accounts }}"
-          if [ "$FOUND" -eq 0 ]; then
-            echo "::warning::在所有账号里都没找到这些推文 ID"
+          done <<< "$ACCOUNTS"
+
+          if [ "$ANY_DELETED" -eq 0 ]; then
+            echo "::warning::没有找到这些推文 ID 对应的文件（可能已删除或 ID 不对）"
           fi
 
       - name: 推送
@@ -79,7 +81,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "无变化（可能推文不存在）"
+            echo "无变化，无需推送"
             exit 0
           fi
           git commit -m "🗑️ 删除推文 ${{ github.event.inputs.tweet_ids }} [skip ci]"
