@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2076483212600087008",
+    "created_at": "2026-07-13T01:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076483212600087008"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076483212600087008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 473,
+            "id": "2056703191597920256",
+            "start": 460,
+            "username": "Mandrake8964"
+          },
+          {
+            "end": 482,
+            "id": "2029874575282937856",
+            "start": 474,
+            "username": "dud9jml"
+          },
+          {
+            "end": 495,
+            "id": "1935705327380410369",
+            "start": 483,
+            "username": "wohensad001"
+          },
+          {
+            "end": 509,
+            "id": "2030666471152693250",
+            "start": 496,
+            "username": "QaqQaqa92806"
+          }
+        ]
+      },
+      "text": "我是 ee\n声明：本人不滥用任何物质 所有都是经医师开具处方严格按照医师指导服用 请不要问我感觉/渠道 统一回复我不知道我不清楚 因为我是按照处方服用 本人严格尊守国家法律法规 无不良影响\nI am ee  \nDeclaration: I do not abuse any substances. All are prescribed by a physician and taken strictly according to the physician's guidance. Please do not ask me about feelings/channels. I will uniformly reply that I don't know and I'm not clear, because I take them as prescribed. I strictly abide by national laws and regulations, with no adverse effects.  \n@Mandrake8964 @dud9jml @wohensad001 @QaqQaqa92806"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是 ee\n声明：本人不滥用任何物质 所有都是经医师开具处方严格按照医师指导服用 请不要问我感觉/渠道 统一回复我不知道我不清楚 因为我是按照处方服用 本人严格尊守国家法律法规 无不良影响\nI am ee  \nDeclaration: I do not abuse any substances. All are prescribed by a physician and taken"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2076483212600087008",
+        "created_at": "2026-07-13T01:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076483212600087008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076483212600087008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 473,
+                "id": "2056703191597920256",
+                "start": 460,
+                "username": "Mandrake8964"
+              },
+              {
+                "end": 482,
+                "id": "2029874575282937856",
+                "start": 474,
+                "username": "dud9jml"
+              },
+              {
+                "end": 495,
+                "id": "1935705327380410369",
+                "start": 483,
+                "username": "wohensad001"
+              },
+              {
+                "end": 509,
+                "id": "2030666471152693250",
+                "start": 496,
+                "username": "QaqQaqa92806"
+              }
+            ]
+          },
+          "text": "我是 ee\n声明：本人不滥用任何物质 所有都是经医师开具处方严格按照医师指导服用 请不要问我感觉/渠道 统一回复我不知道我不清楚 因为我是按照处方服用 本人严格尊守国家法律法规 无不良影响\nI am ee  \nDeclaration: I do not abuse any substances. All are prescribed by a physician and taken strictly according to the physician's guidance. Please do not ask me about feelings/channels. I will uniformly reply that I don't know and I'm not clear, because I take them as prescribed. I strictly abide by national laws and regulations, with no adverse effects.  \n@Mandrake8964 @dud9jml @wohensad001 @QaqQaqa92806"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是 ee\n声明：本人不滥用任何物质 所有都是经医师开具处方严格按照医师指导服用 请不要问我感觉/渠道 统一回复我不知道我不清楚 因为我是按照处方服用 本人严格尊守国家法律法规 无不良影响\nI am ee  \nDeclaration: I do not abuse any substances. All are prescribed by a physician and taken"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 787,
+          "like_count": 6982,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1898
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake flowers",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T11:17:57.000Z",
+        "description": "",
+        "id": "2029874575282937856",
+        "name": "dud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030040413512331264/VDe0KuAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "dud9jml",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "嗯",
+        "pinned_tweet_id": "2071840198389064009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301914431098880/SfdlGMkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 28,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "wohensad001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T15:26:37.000Z",
+        "description": "我很可爱     👻👻@seeFvn 有🚪加Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "seeFvn"
+              }
+            ]
+          }
+        },
+        "id": "2030666471152693250",
+        "name": "你在干啥",
+        "pinned_tweet_id": "2033877730643874160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051002753737265152/PxxDZUjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 5,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "QaqQaqa92806",
+        "verified": false
+      }
+    ]
+  }
+}

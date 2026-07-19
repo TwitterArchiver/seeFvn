@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077090487429726208",
+        "3_2077090487446491136"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2077090504718553230",
+    "created_at": "2026-07-14T17:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077090504718553230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y3qOpUfqqq",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2077090504718553230/photo/1",
+          "media_key": "3_2077090487429726208",
+          "start": 63,
+          "url": "https://t.co/y3qOpUfqqq"
+        },
+        {
+          "display_url": "pic.x.com/y3qOpUfqqq",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2077090504718553230/photo/1",
+          "media_key": "3_2077090487446491136",
+          "start": 63,
+          "url": "https://t.co/y3qOpUfqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077090504718553230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于普瑞巴林的一些事情\n（仅个人经历分享，正常剂量医师指导）\n（非医疗建议 ）\n（请勿模仿仅供娱乐）\n（警示贴文请不要模仿） https://t.co/y3qOpUfqqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077090487429726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOyx2XgAAnDgI.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077090487446491136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOyx6XUAA6Ynu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077090487429726208",
+            "3_2077090487446491136"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2077090504718553230",
+        "created_at": "2026-07-14T17:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077090504718553230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3qOpUfqqq",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2077090504718553230/photo/1",
+              "media_key": "3_2077090487429726208",
+              "start": 63,
+              "url": "https://t.co/y3qOpUfqqq"
+            },
+            {
+              "display_url": "pic.x.com/y3qOpUfqqq",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2077090504718553230/photo/1",
+              "media_key": "3_2077090487446491136",
+              "start": 63,
+              "url": "https://t.co/y3qOpUfqqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077090504718553230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于普瑞巴林的一些事情\n（仅个人经历分享，正常剂量医师指导）\n（非医疗建议 ）\n（请勿模仿仅供娱乐）\n（警示贴文请不要模仿） https://t.co/y3qOpUfqqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 792,
+          "like_count": 7094,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1914
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

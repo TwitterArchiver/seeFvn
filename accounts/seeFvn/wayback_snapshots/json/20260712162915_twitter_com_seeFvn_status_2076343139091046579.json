@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2076343139091046579",
+    "created_at": "2026-07-12T16:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076343139091046579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056703191597920256",
+          "start": 3,
+          "username": "Mandala_Aru"
+        },
+        {
+          "end": 61,
+          "id": "1912063502782812160",
+          "start": 51,
+          "username": "Ekouuuuuu"
+        },
+        {
+          "end": 86,
+          "id": "1980612830824132609",
+          "start": 79,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076343139091046579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076340685972836556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mandala_Aru: 歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜就好☑️\n上一世@Ekouuuuuu被奸人舉報尋回互fo中🥺\n唯一的閨蜜@seeFvn \n討厭藥濫/餐券/負能量/cosplay/碎碎唸的自行屏蔽😇\n聲明：本人不濫用任何物質 所有都是經醫師開…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Ekouuuuuu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ekouuuuuu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ekouuuuuu"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076340682562871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCk2ZDaIAAmjb5.jpg",
+        "width": 1591
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076340681203908608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCk2T_aAAA9Abk.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076340681808003072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCk2WPbwAA4GKm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2038,
+        "media_key": "3_2076340683154337792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCk2bQbMAAnqjT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2076343139091046579",
+        "created_at": "2026-07-12T16:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076343139091046579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056703191597920256",
+              "start": 3,
+              "username": "Mandala_Aru"
+            },
+            {
+              "end": 61,
+              "id": "1912063502782812160",
+              "start": 51,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 86,
+              "id": "1980612830824132609",
+              "start": 79,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076343139091046579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076340685972836556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mandala_Aru: 歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜就好☑️\n上一世@Ekouuuuuu被奸人舉報尋回互fo中🥺\n唯一的閨蜜@seeFvn \n討厭藥濫/餐券/負能量/cosplay/碎碎唸的自行屏蔽😇\n聲明：本人不濫用任何物質 所有都是經醫師開…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076340682562871296",
+            "3_2076340681203908608",
+            "3_2076340681808003072",
+            "3_2076340683154337792"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2076340685972836556",
+        "created_at": "2026-07-12T16:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076340685972836556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1912063502782812160",
+              "start": 34,
+              "username": "Ekouuuuuu"
+            },
+            {
+              "end": 69,
+              "id": "1980612830824132609",
+              "start": 62,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qJD86Lkj3",
+              "end": 167,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2076340685972836556/photo/1",
+              "media_key": "3_2076340682562871296",
+              "start": 144,
+              "url": "https://t.co/0qJD86Lkj3"
+            },
+            {
+              "display_url": "pic.x.com/0qJD86Lkj3",
+              "end": 167,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2076340685972836556/photo/1",
+              "media_key": "3_2076340681203908608",
+              "start": 144,
+              "url": "https://t.co/0qJD86Lkj3"
+            },
+            {
+              "display_url": "pic.x.com/0qJD86Lkj3",
+              "end": 167,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2076340685972836556/photo/1",
+              "media_key": "3_2076340681808003072",
+              "start": 144,
+              "url": "https://t.co/0qJD86Lkj3"
+            },
+            {
+              "display_url": "pic.x.com/0qJD86Lkj3",
+              "end": 167,
+              "expanded_url": "https://x.com/Mandala_Aru/status/2076340685972836556/photo/1",
+              "media_key": "3_2076340683154337792",
+              "start": 144,
+              "url": "https://t.co/0qJD86Lkj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076340685972836556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到Mandrake的首頁🙃\n叫我曼德拉草/白菜就好☑️\n上一世@Ekouuuuuu被奸人舉報尋回互fo中🥺\n唯一的閨蜜@seeFvn \n討厭藥濫/餐券/負能量/cosplay/碎碎唸的自行屏蔽😇\n聲明：本人不濫用任何物質 所有都是經醫師開具處方嚴格按照醫師指導服用 不推薦任何渠道 https://t.co/0qJD86Lkj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 783,
+          "like_count": 6962,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1890
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "name": "Fate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "Mandala_Aru",
+        "verified": false
+      }
+    ]
+  }
+}
