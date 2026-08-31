@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2090713383783780630",
+    "created_at": "2026-08-21T08:11:28.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090713383783780630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1273841727187673089",
+          "start": 3,
+          "username": "niegiru"
+        }
+      ],
+      "urls": [
+        {
+          "description": "間違い・改善点等ございましたら、Ｘ【@niegiru】まで。制作者：煮田GUILTY ・共同編集は許可できません ・個人が趣味で作成したものです。内容については責任が取れません。 ・歴史的事実が不明なものもあり、参考程度にお願いします。 ・転載はご自由に (一部セルは▶から参考URLや書籍名に飛べます※調整中) 世界の出来事 医療・薬物関連の出来事 大麻 幻覚剤（キノコ/DMT/LSD/MDMA/他サイケデリクスなど) 覚せい剤（コカイン/タバコ/覚醒剤） カフェイン含有物/砂糖 アルコール アヘン/オピエート/オピオイド その他薬（麻酔/解離性幻覚剤/精神薬など） メモ 参考,ソース 紀元前B.C. 13500 アメリカ大陸で旧石器文化＝メソアメリカ文明 ▶ 11000 新石器時代。食料生産（農耕、牧畜）始まる※ ▶ ビール の製造（イスラエル） ※穀物生産は生水より安全な飲料、アルコール飲料を作るため に始まったとする説があります 10000 中国で土器の製作 東アジアで大麻の 栽培 アメリカ大陸で タバコ の使用 ▶ 蜂蜜酒、果物酒(ワイン等) の製造 ▶ 酒場の文化史（海野弘） 酒の起源（パトリック・",
+          "display_url": "docs.google.com/spreadsheets/d…",
+          "end": 118,
+          "expanded_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 95,
+          "status": 200,
+          "title": "ドラッグと世界の歴史",
+          "unwound_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+          "url": "https://t.co/ORivRXnMff"
+        },
+        {
+          "display_url": "t.co/vTvDFvS",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/vTvDFvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090713383783780630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090424977485123698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niegiru: 「ドラッグと世界の歴史」\n最近フォロワーさん増えましたので改めて紹介。\n向精神物質+aの歴史をスプレッドシートにまとめています。何かしらのお役に立てれば幸いです。\nhttps://t.co/ORivRXnMff https://t.co/vTvDFvS…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31807,
+        "height": 720,
+        "media_key": "13_2090423701254922240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090423701254922240/img/g_52kTN8aZxvPw0q.jpg",
+        "public_metrics": {
+          "view_count": 1491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090423701254922240/vid/avc1/480x270/9u1n6_DOEkW4tbbP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090423701254922240/vid/avc1/640x360/tItYVOs1keBbtIqV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090423701254922240/vid/avc1/1280x720/93PjReiDknSwHUsR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090423701254922240/pl/O_C0_HQnFbDohitl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2090713383783780630",
+        "created_at": "2026-08-21T08:11:28.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090713383783780630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1273841727187673089",
+              "start": 3,
+              "username": "niegiru"
+            }
+          ],
+          "urls": [
+            {
+              "description": "間違い・改善点等ございましたら、Ｘ【@niegiru】まで。制作者：煮田GUILTY ・共同編集は許可できません ・個人が趣味で作成したものです。内容については責任が取れません。 ・歴史的事実が不明なものもあり、参考程度にお願いします。 ・転載はご自由に (一部セルは▶から参考URLや書籍名に飛べます※調整中) 世界の出来事 医療・薬物関連の出来事 大麻 幻覚剤（キノコ/DMT/LSD/MDMA/他サイケデリクスなど) 覚せい剤（コカイン/タバコ/覚醒剤） カフェイン含有物/砂糖 アルコール アヘン/オピエート/オピオイド その他薬（麻酔/解離性幻覚剤/精神薬など） メモ 参考,ソース 紀元前B.C. 13500 アメリカ大陸で旧石器文化＝メソアメリカ文明 ▶ 11000 新石器時代。食料生産（農耕、牧畜）始まる※ ▶ ビール の製造（イスラエル） ※穀物生産は生水より安全な飲料、アルコール飲料を作るため に始まったとする説があります 10000 中国で土器の製作 東アジアで大麻の 栽培 アメリカ大陸で タバコ の使用 ▶ 蜂蜜酒、果物酒(ワイン等) の製造 ▶ 酒場の文化史（海野弘） 酒の起源（パトリック・",
+              "display_url": "docs.google.com/spreadsheets/d…",
+              "end": 118,
+              "expanded_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "ドラッグと世界の歴史",
+              "unwound_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+              "url": "https://t.co/ORivRXnMff"
+            },
+            {
+              "display_url": "t.co/vTvDFvS",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/vTvDFvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090713383783780630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090424977485123698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niegiru: 「ドラッグと世界の歴史」\n最近フォロワーさん増えましたので改めて紹介。\n向精神物質+aの歴史をスプレッドシートにまとめています。何かしらのお役に立てれば幸いです。\nhttps://t.co/ORivRXnMff https://t.co/vTvDFvS…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090423701254922240"
+          ]
+        },
+        "author_id": "1273841727187673089",
+        "conversation_id": "2090424977485123698",
+        "created_at": "2026-08-20T13:05:27.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090424977485123698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "間違い・改善点等ございましたら、Ｘ【@niegiru】まで。制作者：煮田GUILTY ・共同編集は許可できません ・個人が趣味で作成したものです。内容については責任が取れません。 ・歴史的事実が不明なものもあり、参考程度にお願いします。 ・転載はご自由に (一部セルは▶から参考URLや書籍名に飛べます※調整中) 世界の出来事 医療・薬物関連の出来事 大麻 幻覚剤（キノコ/DMT/LSD/MDMA/他サイケデリクスなど) 覚せい剤（コカイン/タバコ/覚醒剤） カフェイン含有物/砂糖 アルコール アヘン/オピエート/オピオイド その他薬（麻酔/解離性幻覚剤/精神薬など） メモ 参考,ソース 紀元前B.C. 13500 アメリカ大陸で旧石器文化＝メソアメリカ文明 ▶ 11000 新石器時代。食料生産（農耕、牧畜）始まる※ ▶ ビール の製造（イスラエル） ※穀物生産は生水より安全な飲料、アルコール飲料を作るため に始まったとする説があります 10000 中国で土器の製作 東アジアで大麻の 栽培 アメリカ大陸で タバコ の使用 ▶ 蜂蜜酒、果物酒(ワイン等) の製造 ▶ 酒場の文化史（海野弘） 酒の起源（パトリック・",
+              "display_url": "docs.google.com/spreadsheets/d…",
+              "end": 105,
+              "expanded_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090425025581203456/Baa9TaDt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "ドラッグと世界の歴史",
+              "unwound_url": "https://docs.google.com/spreadsheets/d/1Zxd01TRm3B7WG03qgvsexU7AAC1bjxxQK6JeaGYIv68/edit?usp=sharing",
+              "url": "https://t.co/ORivRXnMff"
+            },
+            {
+              "display_url": "pic.x.com/vTvDFvSMM7",
+              "end": 129,
+              "expanded_url": "https://x.com/niegiru/status/2090424977485123698/video/1",
+              "media_key": "13_2090423701254922240",
+              "start": 106,
+              "url": "https://t.co/vTvDFvSMM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090424977485123698",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090423701254922240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 3969,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "「ドラッグと世界の歴史」\n最近フォロワーさん増えましたので改めて紹介。\n向精神物質+aの歴史をスプレッドシートにまとめています。何かしらのお役に立てれば幸いです。\nhttps://t.co/ORivRXnMff https://t.co/vTvDFvSMM7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2090713383783780630",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 812,
+          "like_count": 9127,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2113
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-19T04:55:39.000Z",
+        "description": "💊擬人化創作【#ドラッグスパーク】\npixiv：https://t.co/P4bte5Lasy\nSkeb：https://t.co/v801PgPxVM\n本&グッズ：https://t.co/0Z0Ml1pq6f\nFAタグ【#ドラッグスパークFA】ぬい【#にえぎるぬい】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 7,
+                "tag": "ドラッグスパーク"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "tag": "ドラッグスパークFA"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "tag": "にえぎるぬい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4436229",
+                "end": 47,
+                "expanded_url": "https://www.pixiv.net/users/4436229",
+                "start": 24,
+                "url": "https://t.co/P4bte5Lasy"
+              },
+              {
+                "display_url": "skeb.jp/@niegiru",
+                "end": 76,
+                "expanded_url": "https://skeb.jp/@niegiru",
+                "start": 53,
+                "url": "https://t.co/v801PgPxVM"
+              },
+              {
+                "display_url": "nietagiru.booth.pm",
+                "end": 106,
+                "expanded_url": "https://nietagiru.booth.pm/",
+                "start": 83,
+                "url": "https://t.co/0Z0Ml1pq6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nietagiru.wixsite.com/my-site-1",
+                "end": 23,
+                "expanded_url": "https://nietagiru.wixsite.com/my-site-1",
+                "start": 0,
+                "url": "https://t.co/AUSgAJ4VNh"
+              }
+            ]
+          }
+        },
+        "id": "1273841727187673089",
+        "is_identity_verified": false,
+        "location": "heart",
+        "most_recent_tweet_id": "2090453805779619906",
+        "name": "煮田GUILTY",
+        "pinned_tweet_id": "2088215685310939172",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273841727187673089/1767438998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973014993856794625/pi8PiWtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 1,
+          "like_count": 338,
+          "listed_count": 23,
+          "media_count": 286,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/AUSgAJ4VNh",
+        "username": "niegiru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

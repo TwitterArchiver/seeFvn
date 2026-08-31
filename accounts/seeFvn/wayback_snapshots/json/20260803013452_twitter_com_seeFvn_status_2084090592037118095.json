@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084090575100489728",
+        "3_2084090575100448768"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084090592037118095",
+    "created_at": "2026-08-03T01:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084090592037118095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        },
+        {
+          "end": 23,
+          "id": "711509826",
+          "start": 12,
+          "username": "ZakkysPR80"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kmy15tNYNw",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2084090592037118095/photo/1",
+          "media_key": "3_2084090575100489728",
+          "start": 63,
+          "url": "https://t.co/Kmy15tNYNw"
+        },
+        {
+          "display_url": "pic.x.com/Kmy15tNYNw",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2084090592037118095/photo/1",
+          "media_key": "3_2084090575100448768",
+          "start": 63,
+          "url": "https://t.co/Kmy15tNYNw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084090592037118095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱来自@pr80net @ZakkysPR80 \n特别好的 pr80呀速速买起来！🤤🤤\n（仅个人经历分享，正常剂量医师指导） https://t.co/Kmy15tNYNw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ZakkysPR80].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ZakkysPR80",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ZakkysPR80"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084090575100489728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwtVgiasAAOaBv.jpg",
+        "width": 1884
+      },
+      {
+        "height": 1864,
+        "media_key": "3_2084090575100448768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwtVgiaEAAUoL5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084090575100489728",
+            "3_2084090575100448768"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084090592037118095",
+        "created_at": "2026-08-03T01:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084090592037118095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            },
+            {
+              "end": 23,
+              "id": "711509826",
+              "start": 12,
+              "username": "ZakkysPR80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kmy15tNYNw",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2084090592037118095/photo/1",
+              "media_key": "3_2084090575100489728",
+              "start": 63,
+              "url": "https://t.co/Kmy15tNYNw"
+            },
+            {
+              "display_url": "pic.x.com/Kmy15tNYNw",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2084090592037118095/photo/1",
+              "media_key": "3_2084090575100448768",
+              "start": 63,
+              "url": "https://t.co/Kmy15tNYNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084090592037118095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@pr80net @ZakkysPR80 \n特别好的 pr80呀速速买起来！🤤🤤\n（仅个人经历分享，正常剂量医师指导） https://t.co/Kmy15tNYNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 833,
+          "like_count": 8284,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2032
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 425,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

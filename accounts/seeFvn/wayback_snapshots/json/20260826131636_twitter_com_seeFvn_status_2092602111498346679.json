@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092115024370364416"
+      ],
+      "media_source_tweet_id": [
+        "2092115027851710728"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2092602111498346679",
+    "created_at": "2026-08-26T13:16:36.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092602111498346679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QOS26O43YR",
+          "end": 76,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2092115027851710728/photo/1",
+          "media_key": "3_2092115024370364416",
+          "start": 53,
+          "url": "https://t.co/QOS26O43YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092602111498346679",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092115024370364416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092115027851710728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 我真的很想问心理健全的人，在路上看到别人身上几道疤会克死你们还是怎样？ https://t.co/QOS26O43YR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2092115024370364416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQivh7jacAAjuhz.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092115024370364416"
+          ],
+          "media_source_tweet_id": [
+            "2092115027851710728"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2092602111498346679",
+        "created_at": "2026-08-26T13:16:36.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092602111498346679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOS26O43YR",
+              "end": 76,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2092115027851710728/photo/1",
+              "media_key": "3_2092115024370364416",
+              "start": 53,
+              "url": "https://t.co/QOS26O43YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092602111498346679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092115024370364416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092115027851710728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 我真的很想问心理健全的人，在路上看到别人身上几道疤会克死你们还是怎样？ https://t.co/QOS26O43YR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092115024370364416"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "conversation_id": "2092115027851710728",
+        "created_at": "2026-08-25T05:01:06.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092115027851710728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOS26O43YR",
+              "end": 59,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2092115027851710728/photo/1",
+              "media_key": "3_2092115024370364416",
+              "start": 36,
+              "url": "https://t.co/QOS26O43YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092115027851710728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092115024370364416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 72563,
+          "like_count": 1649,
+          "quote_count": 45,
+          "reply_count": 246,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想问心理健全的人，在路上看到别人身上几道疤会克死你们还是怎样？ https://t.co/QOS26O43YR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2092602111498346679",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 828,
+          "like_count": 9417,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2092602111762763927",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 729,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

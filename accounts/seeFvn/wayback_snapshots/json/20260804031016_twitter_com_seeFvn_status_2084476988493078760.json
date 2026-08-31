@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084476979991171072"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2084476988493078760",
+    "created_at": "2026-08-04T03:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084476988493078760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "38217523",
+          "start": 18,
+          "username": "ZakkysLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESQBYzZvSV",
+          "end": 72,
+          "expanded_url": "https://x.com/seeFvn/status/2084476988493078760/photo/1",
+          "media_key": "3_2084476979991171072",
+          "start": 49,
+          "url": "https://t.co/ESQBYzZvSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084476988493078760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "报告-我的耐受有点高了-普瑞巴林推荐@ZakkysLab \n（仅个人经历分享，正常剂量医师指导） https://t.co/ESQBYzZvSV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084476979991171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2MxO7aUAANgQG.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084476979991171072"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2084476988493078760",
+        "created_at": "2026-08-04T03:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084476988493078760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "38217523",
+              "start": 18,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESQBYzZvSV",
+              "end": 72,
+              "expanded_url": "https://x.com/seeFvn/status/2084476988493078760/photo/1",
+              "media_key": "3_2084476979991171072",
+              "start": 49,
+              "url": "https://t.co/ESQBYzZvSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084476988493078760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告-我的耐受有点高了-普瑞巴林推荐@ZakkysLab \n（仅个人经历分享，正常剂量医师指导） https://t.co/ESQBYzZvSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 838,
+          "like_count": 8335,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

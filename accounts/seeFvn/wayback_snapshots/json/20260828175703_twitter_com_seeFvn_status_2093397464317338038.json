@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2093397464317338038",
+    "created_at": "2026-08-28T17:57:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093397464317338038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093397464317338038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998810919682638294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 大概是美金刚指南 给美金刚正名了 别再骂美金刚了😣\n美金刚要远远远远远优于金刚烷胺\n金刚烷胺纯消耗你多巴胺储备然后让你变成小僵尸好几天\n但美金刚不会哦 美金刚可以让人变成不焦虑不抑郁 可以让人以一种独特的视角看待事物\n对于超高剂量 我的建议是加一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1998810916314558465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70z8DAaMAEMZyT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1788,
+        "media_key": "3_1998810916683730944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70z8EYbUAAeT4L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2093397464317338038",
+        "created_at": "2026-08-28T17:57:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093397464317338038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093397464317338038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998810919682638294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 大概是美金刚指南 给美金刚正名了 别再骂美金刚了😣\n美金刚要远远远远远优于金刚烷胺\n金刚烷胺纯消耗你多巴胺储备然后让你变成小僵尸好几天\n但美金刚不会哦 美金刚可以让人变成不焦虑不抑郁 可以让人以一种独特的视角看待事物\n对于超高剂量 我的建议是加一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998810916314558465",
+            "3_1998810916683730944"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "1998810919682638294",
+        "created_at": "2025-12-10T17:43:54.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998810919682638294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJ0jwWKL1O",
+              "end": 170,
+              "expanded_url": "https://x.com/_Shikieiki/status/1998810919682638294/photo/1",
+              "media_key": "3_1998810916314558465",
+              "start": 147,
+              "url": "https://t.co/iJ0jwWKL1O"
+            },
+            {
+              "display_url": "pic.x.com/iJ0jwWKL1O",
+              "end": 170,
+              "expanded_url": "https://x.com/_Shikieiki/status/1998810919682638294/photo/1",
+              "media_key": "3_1998810916683730944",
+              "start": 147,
+              "url": "https://t.co/iJ0jwWKL1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998810919682638294",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1998810916314558465"
+          },
+          {
+            "media_key": "3_1998810916683730944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 55607,
+          "like_count": 287,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "大概是美金刚指南 给美金刚正名了 别再骂美金刚了😣\n美金刚要远远远远远优于金刚烷胺\n金刚烷胺纯消耗你多巴胺储备然后让你变成小僵尸好几天\n但美金刚不会哦 美金刚可以让人变成不焦虑不抑郁 可以让人以一种独特的视角看待事物\n对于超高剂量 我的建议是加一些些苯海拉明 防止可能会带来的呕吐(D2\n拮抗 https://t.co/iJ0jwWKL1O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2093397464317338038",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 842,
+          "like_count": 9604,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2154
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧\n伴侣 @octoTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "octoTvT"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2092372742981189901",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448206950903255040/1672820400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 960,
+          "like_count": 28385,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 4352
+        },
+        "url": "",
+        "username": "_Shikieiki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

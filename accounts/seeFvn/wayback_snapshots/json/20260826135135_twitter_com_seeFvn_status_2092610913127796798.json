@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092610899496382464"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2092610913127796798",
+    "created_at": "2026-08-26T13:51:35.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092610913127796798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xhX2VNdQZa",
+          "end": 89,
+          "expanded_url": "https://x.com/seeFvn/status/2092610913127796798/photo/1",
+          "media_key": "3_2092610899496382464",
+          "start": 66,
+          "url": "https://t.co/xhX2VNdQZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092610913127796798",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092610899496382464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿普唑仑（安律凡）也有这个风险并且在以前就因为这个被赔偿了 可是在国内精神科医生根本不会告诉你这个副作用 你从来都以为是自己的问题 https://t.co/xhX2VNdQZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2092610899496382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpyhqWXsAAnWlX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092610899496382464"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2092610913127796798",
+        "created_at": "2026-08-26T13:51:35.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092610913127796798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhX2VNdQZa",
+              "end": 89,
+              "expanded_url": "https://x.com/seeFvn/status/2092610913127796798/photo/1",
+              "media_key": "3_2092610899496382464",
+              "start": 66,
+              "url": "https://t.co/xhX2VNdQZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092610913127796798",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092610899496382464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑（安律凡）也有这个风险并且在以前就因为这个被赔偿了 可是在国内精神科医生根本不会告诉你这个副作用 你从来都以为是自己的问题 https://t.co/xhX2VNdQZa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2092610913127796798",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 828,
+          "like_count": 9431,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

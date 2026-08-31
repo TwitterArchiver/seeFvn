@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2093316083445063776",
+    "created_at": "2026-08-28T17:58:18.000Z",
+    "display_text_range": [
+      37,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093397779003437452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 22,
+          "id": "1520079308005711872",
+          "start": 9,
+          "username": "Izay01Sakuya"
+        },
+        {
+          "end": 36,
+          "id": "1789010584731586561",
+          "start": 23,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093397779003437452",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093316083445063776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @Izay01Sakuya @17_ZakkysLab 一个人解离没有一个可以说话的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093316043041300480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzz2awaYAA0kjV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2093316083445063776",
+        "created_at": "2026-08-28T17:58:18.000Z",
+        "display_text_range": [
+          37,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093397779003437452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1520079308005711872",
+              "start": 9,
+              "username": "Izay01Sakuya"
+            },
+            {
+              "end": 36,
+              "id": "1789010584731586561",
+              "start": 23,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093397779003437452",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093316083445063776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @Izay01Sakuya @17_ZakkysLab 一个人解离没有一个可以说话的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093316043041300480"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2093316083445063776",
+        "created_at": "2026-08-28T12:33:40.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093316083445063776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1789010584731586561",
+              "start": 22,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 165,
+              "expanded_url": "https://x.com/i/chat/group_join/g2093287882618524147/d03W4h9S3h",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2093289474889588736/nHrf1cIA?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093289474889588736/nHrf1cIA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/chat/group_join/g2093287882618524147/d03W4h9S3h",
+              "url": "https://t.co/su7IhV7WIZ"
+            },
+            {
+              "display_url": "pic.x.com/oI5QJl1lOY",
+              "end": 189,
+              "expanded_url": "https://x.com/pr80net/status/2093316083445063776/photo/1",
+              "media_key": "3_2093316043041300480",
+              "start": 166,
+              "url": "https://t.co/oI5QJl1lOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093316083445063776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093316043041300480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "1789010584731586561",
+                "start": 22,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 165,
+                "expanded_url": "https://x.com/i/chat/group_join/g2093287882618524147/d03W4h9S3h",
+                "start": 142,
+                "url": "https://t.co/Pg9w8JMTgc"
+              }
+            ]
+          },
+          "text": "永夜安港 【今日空投】！！\n奖品依旧是来自 @17_ZakkysLab 的正宗妙妙小礼物babypink，【一共五份】！这次有点不一样，他们的群组迁移到X Chat了，因此这次需要【加群、转发、评论】，今日评论的主题是：“孤独的具象化是什么样？”，扎鸡叔会抽取群内的幸运观众送出礼物！https://t.co/Pg9w8JMTgc"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 920,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【今日空投】！！\n奖品依旧是来自 @17_ZakkysLab 的正宗妙妙小礼物babypink，【一共五份】！这次有点不一样，他们的群组迁移到X Chat了，因此这次需要【加群、转发、评论】，今日评论的主题是：“孤独的具象化是什么样？”，扎鸡叔会抽取群内的幸运观众送出礼物！https://t.co/su7IhV7WIZ https://t.co/oI5QJl1lOY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2093397779003437452",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 842,
+          "like_count": 9611,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2093361368317771783",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2093316083445063776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 625,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T16:35:32.000Z",
+        "description": "不可预测的变化无常。\n💊/🔪/所有取向友好🍔\n迷茫...\n欢迎所有可爱的人哦",
+        "id": "1520079308005711872",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2093371657859776866",
+        "name": "战斗女仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520079308005711872/1785814508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090338518161887232/ikhs5leu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 32,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Izay01Sakuya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2093397708816146604",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 62,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

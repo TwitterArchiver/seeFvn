@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2082764911545864639",
+    "created_at": "2026-07-30T15:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082849628370657355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "830242535360507904",
+          "start": 0,
+          "username": "Chanyfgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082849628370657355",
+    "in_reply_to_user_id": "830242535360507904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082830182730350990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chanyfgh 这个我不太清楚 我还没有吃 我后面吃了可以出一个报告？🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2082764911545864639",
+        "created_at": "2026-07-30T15:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082849628370657355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "830242535360507904",
+              "start": 0,
+              "username": "Chanyfgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082849628370657355",
+        "in_reply_to_user_id": "830242535360507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082830182730350990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chanyfgh 这个我不太清楚 我还没有吃 我后面吃了可以出一个报告？🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2082764911545864639",
+        "created_at": "2026-07-30T14:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082830182730350990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082830182730350990",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082764911545864639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 这个药效是怎样的？我在考虑要不要吃这个药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 831,
+          "like_count": 8127,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2017
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 540,
+          "like_count": 825,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      }
+    ]
+  }
+}

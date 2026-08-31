@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2092474810588901583",
+    "created_at": "2026-08-27T07:24:14.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092875823514542450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060645496176381953",
+          "start": 0,
+          "username": "kkkkaaaakkkll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092875823514542450",
+    "in_reply_to_user_id": "2060645496176381953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092474810588901583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkaaaakkkll 得了一种看见 ymp 就想吐的病"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092474786685534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn2u2naQAA2Wjo.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2092474810588901583",
+        "created_at": "2026-08-27T07:24:14.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092875823514542450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060645496176381953",
+              "start": 0,
+              "username": "kkkkaaaakkkll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092875823514542450",
+        "in_reply_to_user_id": "2060645496176381953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092474810588901583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkaaaakkkll 得了一种看见 ymp 就想吐的病"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092474786685534208"
+          ]
+        },
+        "author_id": "2060645496176381953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092474810588901583",
+        "created_at": "2026-08-26T04:50:45.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092474810588901583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcUqp0OVpY",
+              "end": 27,
+              "expanded_url": "https://x.com/kkkkaaaakkkll/status/2092474810588901583/photo/1",
+              "media_key": "3_2092474786685534208",
+              "start": 4,
+              "url": "https://t.co/jcUqp0OVpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092474810588901583",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092474786685534208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 22302,
+          "like_count": 1313,
+          "quote_count": 19,
+          "reply_count": 15,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "白米🍚 https://t.co/jcUqp0OVpY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2092875823514542450",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 828,
+          "like_count": 9478,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T09:10:53.000Z",
+        "description": "14さい\n沼津に来い、\nさぶ@kkkrrraaar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "kkkrrraaar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nq76w2ime1b9rx…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nq76w2ime1b9rxk?t=LkOEWc&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/eepl2g8G0d"
+              }
+            ]
+          }
+        },
+        "id": "2060645496176381953",
+        "is_identity_verified": false,
+        "location": "マンチでパンチ👊🫪👊",
+        "most_recent_tweet_id": "2092874004285763920",
+        "name": "からさん。",
+        "pinned_tweet_id": "2077537588391580051",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060645496176381953/1787682709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091118131087572992/XLjTBjZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 64,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/eepl2g8G0d",
+        "username": "kkkkaaaakkkll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

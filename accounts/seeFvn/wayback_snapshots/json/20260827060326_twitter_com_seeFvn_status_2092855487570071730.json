@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092571887025131520"
+      ],
+      "media_source_tweet_id": [
+        "2092571903336837250"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2092855487570071730",
+    "created_at": "2026-08-27T06:03:26.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092855487570071730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+          "display_url": "bbc.com/news/articles/…",
+          "end": 60,
+          "expanded_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+          "images": [
+            {
+              "height": 576,
+              "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+          "unwound_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+          "url": "https://t.co/z9pkyWNZDK"
+        },
+        {
+          "display_url": "pic.x.com/exSoOsidTm",
+          "end": 84,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2092571903336837250/photo/1",
+          "media_key": "3_2092571887025131520",
+          "start": 61,
+          "url": "https://t.co/exSoOsidTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092855487570071730",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092571887025131520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092571903336837250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: 我去bbc居然报道中国药物滥用情况了！https://t.co/z9pkyWNZDK https://t.co/exSoOsidTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2092571887025131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpPC1kaEAAB7jE.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092571887025131520"
+          ],
+          "media_source_tweet_id": [
+            "2092571903336837250"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2092855487570071730",
+        "created_at": "2026-08-27T06:03:26.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092855487570071730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+              "display_url": "bbc.com/news/articles/…",
+              "end": 60,
+              "expanded_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+              "unwound_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+              "url": "https://t.co/z9pkyWNZDK"
+            },
+            {
+              "display_url": "pic.x.com/exSoOsidTm",
+              "end": 84,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2092571903336837250/photo/1",
+              "media_key": "3_2092571887025131520",
+              "start": 61,
+              "url": "https://t.co/exSoOsidTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092855487570071730",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092571887025131520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092571903336837250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: 我去bbc居然报道中国药物滥用情况了！https://t.co/z9pkyWNZDK https://t.co/exSoOsidTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092571887025131520"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2092571903336837250",
+        "created_at": "2026-08-26T11:16:34.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092571903336837250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
+              "display_url": "bbc.com/news/articles/…",
+              "end": 42,
+              "expanded_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092383357355339776/mvjMHak3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+              "unwound_url": "https://www.bbc.com/news/articles/c99d08j3kz1o",
+              "url": "https://t.co/z9pkyWNZDK"
+            },
+            {
+              "display_url": "pic.x.com/exSoOsidTm",
+              "end": 66,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2092571903336837250/photo/1",
+              "media_key": "3_2092571887025131520",
+              "start": 43,
+              "url": "https://t.co/exSoOsidTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092571903336837250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092571887025131520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 10485,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我去bbc居然报道中国药物滥用情况了！https://t.co/z9pkyWNZDK https://t.co/exSoOsidTm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2092855487570071730",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 829,
+          "like_count": 9436,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2140
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2092853737287287118",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1064,
+          "like_count": 2622,
+          "listed_count": 4,
+          "media_count": 583,
+          "tweet_count": 4094
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

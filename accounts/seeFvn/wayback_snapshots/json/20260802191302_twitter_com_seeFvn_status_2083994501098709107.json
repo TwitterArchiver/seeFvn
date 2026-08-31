@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2083949533319569849",
+    "created_at": "2026-08-02T19:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083994501098709107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885853676503474176",
+          "start": 0,
+          "username": "Eroerosense"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083994501098709107",
+    "in_reply_to_user_id": "1885853676503474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083979858607251917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eroerosense 对…我这里毫无显示"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2083949533319569849",
+        "created_at": "2026-08-02T19:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083994501098709107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885853676503474176",
+              "start": 0,
+              "username": "Eroerosense"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083994501098709107",
+        "in_reply_to_user_id": "1885853676503474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083979858607251917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eroerosense 对…我这里毫无显示"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885853676503474176",
+        "conversation_id": "2083949533319569849",
+        "created_at": "2026-08-02T18:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083979858607251917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083979858607251917",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083949533319569849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 就算是这样，Musk 也不发 X Money 邀请，气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 834,
+          "like_count": 8281,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 2031
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T00:52:30.000Z",
+        "description": "English/日本語/中国語 Ok\n\n碎碎念专用号，互FO 欢迎",
+        "id": "1885853676503474176",
+        "location": "地球🌍",
+        "name": "鬱鬱鬱鬱鬱鬱鬱鬱鬱",
+        "pinned_tweet_id": "2083198083823783986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083905097051017216/qRaY3k7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 5,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "Eroerosense",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088531510190301184"
+      ],
+      "media_source_tweet_id": [
+        "2088531527038841023"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2088558919702458612",
+    "created_at": "2026-08-15T09:30:24.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088558919702458612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056703191597920256",
+          "start": 3,
+          "username": "Mandrake8964"
+        },
+        {
+          "end": 40,
+          "id": "1980612830824132609",
+          "start": 33,
+          "username": "seeFvn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HPM8PfdVkI",
+          "end": 64,
+          "expanded_url": "https://x.com/Mandrake8964/status/2088531527038841023/photo/1",
+          "media_key": "3_2088531510190301184",
+          "start": 41,
+          "url": "https://t.co/HPM8PfdVkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088558919702458612",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088531510190301184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088531527038841023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mandrake8964: 比夏天的太陽更明亮的照耀著的你@seeFvn https://t.co/HPM8PfdVkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088531510190301184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv0V88aYAADKyh.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088531510190301184"
+          ],
+          "media_source_tweet_id": [
+            "2088531527038841023"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2088558919702458612",
+        "created_at": "2026-08-15T09:30:24.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088558919702458612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056703191597920256",
+              "start": 3,
+              "username": "Mandrake8964"
+            },
+            {
+              "end": 40,
+              "id": "1980612830824132609",
+              "start": 33,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPM8PfdVkI",
+              "end": 64,
+              "expanded_url": "https://x.com/Mandrake8964/status/2088531527038841023/photo/1",
+              "media_key": "3_2088531510190301184",
+              "start": 41,
+              "url": "https://t.co/HPM8PfdVkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088558919702458612",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088531510190301184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088531527038841023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mandrake8964: 比夏天的太陽更明亮的照耀著的你@seeFvn https://t.co/HPM8PfdVkI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088531510190301184"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2088531527038841023",
+        "created_at": "2026-08-15T07:41:33.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088531527038841023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1980612830824132609",
+              "start": 15,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPM8PfdVkI",
+              "end": 46,
+              "expanded_url": "https://x.com/Mandrake8964/status/2088531527038841023/photo/1",
+              "media_key": "3_2088531510190301184",
+              "start": 23,
+              "url": "https://t.co/HPM8PfdVkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088531527038841023",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088531510190301184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比夏天的太陽更明亮的照耀著的你@seeFvn https://t.co/HPM8PfdVkI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2088558919702458612",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 813,
+          "like_count": 8761,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2094
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2088540154005004575",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 127,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

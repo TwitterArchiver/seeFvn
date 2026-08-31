@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081275604092305408"
+      ],
+      "media_source_tweet_id": [
+        "2081335974047752599"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2081999342240444416",
+    "created_at": "2026-07-28T07:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081999342240444416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IftxZaCNFF",
+          "end": 50,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+          "media_key": "3_2081275604092305408",
+          "start": 27,
+          "url": "https://t.co/IftxZaCNFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081999342240444416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081335974047752599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 无性别是伟大的 https://t.co/IftxZaCNFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2081275604092305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOItIoWbwAAvlSM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081275604092305408"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2081335974047752599",
+        "created_at": "2026-07-26T11:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081335974047752599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IftxZaCNFF",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+              "media_key": "3_2081275604092305408",
+              "start": 8,
+              "url": "https://t.co/IftxZaCNFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081335974047752599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 72595,
+          "like_count": 3870,
+          "quote_count": 27,
+          "reply_count": 63,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "无性别是伟大的 https://t.co/IftxZaCNFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081275604092305408"
+          ],
+          "media_source_tweet_id": [
+            "2081335974047752599"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2081999342240444416",
+        "created_at": "2026-07-28T07:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081999342240444416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IftxZaCNFF",
+              "end": 50,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+              "media_key": "3_2081275604092305408",
+              "start": 27,
+              "url": "https://t.co/IftxZaCNFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081999342240444416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081335974047752599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 无性别是伟大的 https://t.co/IftxZaCNFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 830,
+          "like_count": 8044,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14040,
+          "following_count": 1801,
+          "like_count": 26654,
+          "listed_count": 17,
+          "media_count": 5836,
+          "tweet_count": 29656
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

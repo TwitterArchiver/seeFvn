@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2090706882910372061",
+    "created_at": "2026-08-21T07:45:38.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090706882910372061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090706882910372061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090700428996727199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 8月20日，一名河南网友发帖称，自己患有重度抑郁症，因病情无法正常上班，询问国家是否有相应补助。\n该帖仅获54个赞，却收获超过310条评论。\n多数网友留言表示：“我不同意用我们纳税人的钱帮你。”\n有人附和：“我也不同意”“俺不中嘞”。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090670717616730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQON8NnbMAAtXtd.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2090706882910372061",
+        "created_at": "2026-08-21T07:45:38.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090706882910372061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090706882910372061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090700428996727199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 8月20日，一名河南网友发帖称，自己患有重度抑郁症，因病情无法正常上班，询问国家是否有相应补助。\n该帖仅获54个赞，却收获超过310条评论。\n多数网友留言表示：“我不同意用我们纳税人的钱帮你。”\n有人附和：“我也不同意”“俺不中嘞”。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090670717616730112"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2090700428996727199",
+        "created_at": "2026-08-21T07:20:00.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090700428996727199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zetRlhmlx",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2090700428996727199/photo/1",
+              "media_key": "3_2090670717616730112",
+              "start": 118,
+              "url": "https://t.co/9zetRlhmlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090700428996727199",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090670717616730112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "8月20日，一名河南网友发帖称，自己患有重度抑郁症，因病情无法正常上班，询问国家是否有相应补助。\n该帖仅获54个赞，却收获超过310条评论。\n多数网友留言表示：“我不同意用我们纳税人的钱帮你。”\n有人附和：“我也不同意”“俺不中嘞”。\n另有网友称：“我也不同意，我去年个税交了11万，我有资格说这句话。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8294,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "8月20日，一名河南网友发帖称，自己患有重度抑郁症，因病情无法正常上班，询问国家是否有相应补助。\n该帖仅获54个赞，却收获超过310条评论。\n多数网友留言表示：“我不同意用我们纳税人的钱帮你。”\n有人附和：“我也不同意”“俺不中嘞”。 https://t.co/9zetRlhmlx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2090706882910372061",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 812,
+          "like_count": 9123,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2090700428996727199",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253702,
+          "following_count": 1081,
+          "like_count": 10081,
+          "listed_count": 8889,
+          "media_count": 52431,
+          "tweet_count": 59740
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

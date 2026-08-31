@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2081710052616917290",
+    "created_at": "2026-07-27T11:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081710052616917290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081710052616917290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我是ee 我打算在26.7.27尽力减掉娱乐性使用药物 老实说我想过这个问题很多次 但是一直没有做 有一段时间觉得自己一辈子可能都这样了 也许这次不可能是最后一次 虽然可能我还会继续滥用 但是应该不会是现在 我可能以后会更注意频率 尽力不变成现在这个样子 我依然会发一些关于药物的贴文 最后希望大家都可以没有戒断反应的戒掉这些\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是ee 我打算在26.7.27尽力减掉娱乐性使用药物 老实说我想过这个问题很多次 但是一直没有做 有一段时间觉得自己一辈子可能都这样了 也许这次不可能是最后一次 虽然可能我还会继续滥用 但是应该不会是现在 我可能以后会更注意频率 尽力不变成现在这个样子 我依然会发一些关于药物的贴文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2081710052616917290",
+        "created_at": "2026-07-27T11:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081710052616917290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081710052616917290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是ee 我打算在26.7.27尽力减掉娱乐性使用药物 老实说我想过这个问题很多次 但是一直没有做 有一段时间觉得自己一辈子可能都这样了 也许这次不可能是最后一次 虽然可能我还会继续滥用 但是应该不会是现在 我可能以后会更注意频率 尽力不变成现在这个样子 我依然会发一些关于药物的贴文 最后希望大家都可以没有戒断反应的戒掉这些\n（仅个人经历分享，正常剂量医师指导）\n（请勿模仿仅供娱乐）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是ee 我打算在26.7.27尽力减掉娱乐性使用药物 老实说我想过这个问题很多次 但是一直没有做 有一段时间觉得自己一辈子可能都这样了 也许这次不可能是最后一次 虽然可能我还会继续滥用 但是应该不会是现在 我可能以后会更注意频率 尽力不变成现在这个样子 我依然会发一些关于药物的贴文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 827,
+          "like_count": 8004,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

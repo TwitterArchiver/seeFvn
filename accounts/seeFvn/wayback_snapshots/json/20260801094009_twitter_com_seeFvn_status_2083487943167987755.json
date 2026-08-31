@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2081993596769620252",
+    "created_at": "2026-08-01T09:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083487943167987755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1486303771168686084",
+          "start": 0,
+          "username": "liuxinchen880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083487943167987755",
+    "in_reply_to_user_id": "1486303771168686084",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083212487382667584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuxinchen880 journal"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2081993596769620252",
+        "created_at": "2026-08-01T09:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083487943167987755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1486303771168686084",
+              "start": 0,
+              "username": "liuxinchen880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083487943167987755",
+        "in_reply_to_user_id": "1486303771168686084",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083212487382667584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuxinchen880 journal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486303771168686084",
+        "conversation_id": "2081993596769620252",
+        "created_at": "2026-07-31T15:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083212487382667584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083212487382667584",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081993596769620252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 啥软件呀宝子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 823,
+          "like_count": 8178,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2022
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T11:43:39.000Z",
+        "description": "An Asian teenager from China",
+        "id": "1486303771168686084",
+        "name": "Aurelius_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204978213421057/6-i0Menb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 120,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "liuxinchen880",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2084367019806466101",
+    "created_at": "2026-08-04T03:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084478344519901425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084478344519901425",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084367019806466101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一个打错了 ww 酒石酸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084367008284672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0owCZaAAAsK-c.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084367008288968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0owCabkAA6Qzk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2084367019806466101",
+        "created_at": "2026-08-04T03:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084478344519901425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084478344519901425",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084367019806466101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个打错了 ww 酒石酸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084367008284672000",
+            "3_2084367008288968704"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2084367019806466101",
+        "created_at": "2026-08-03T19:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084367019806466101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQTKOxbCZZ",
+              "end": 78,
+              "expanded_url": "https://x.com/seeFvn/status/2084367019806466101/photo/1",
+              "media_key": "3_2084367008284672000",
+              "start": 55,
+              "url": "https://t.co/xQTKOxbCZZ"
+            },
+            {
+              "display_url": "pic.x.com/xQTKOxbCZZ",
+              "end": 78,
+              "expanded_url": "https://x.com/seeFvn/status/2084367019806466101/photo/1",
+              "media_key": "3_2084367008288968704",
+              "start": 55,
+              "url": "https://t.co/xQTKOxbCZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084367019806466101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 406,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BZDs 测评为我自己吃过写出来的\n（非医学建议 如有需要请询问医师）\n（仅个人经历分享，正常剂量医师指导） https://t.co/xQTKOxbCZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 838,
+          "like_count": 8335,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

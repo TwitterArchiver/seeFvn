@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080982228864266240",
+        "3_2080982228843335680",
+        "3_2080982228876886016"
+      ],
+      "media_source_tweet_id": [
+        "2080982238431436983",
+        "2080982238431436983",
+        "2080982238431436983"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2081197847706304684",
+    "created_at": "2026-07-26T02:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081197847706304684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fg17UxGgsJ",
+          "end": 56,
+          "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+          "media_key": "3_2080982228864266240",
+          "start": 33,
+          "url": "https://t.co/fg17UxGgsJ"
+        },
+        {
+          "display_url": "pic.x.com/fg17UxGgsJ",
+          "end": 56,
+          "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+          "media_key": "3_2080982228843335680",
+          "start": 33,
+          "url": "https://t.co/fg17UxGgsJ"
+        },
+        {
+          "display_url": "pic.x.com/fg17UxGgsJ",
+          "end": 56,
+          "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+          "media_key": "3_2080982228876886016",
+          "start": 33,
+          "url": "https://t.co/fg17UxGgsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081197847706304684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982238431436983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080982228864266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8da8AAgMN7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080982228843335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8YbkAAysEw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2080982228876886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8gbgAADBau.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982238431436983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982238431436983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 501598,
+          "like_count": 2202,
+          "quote_count": 40,
+          "reply_count": 533,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ],
+          "media_source_tweet_id": [
+            "2080982238431436983",
+            "2080982238431436983",
+            "2080982238431436983"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2081197847706304684",
+        "created_at": "2026-07-26T02:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081197847706304684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 56,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 33,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 56,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 33,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 56,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 33,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081197847706304684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982238431436983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 813,
+          "like_count": 7898,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1996
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 373,
+          "like_count": 1698,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

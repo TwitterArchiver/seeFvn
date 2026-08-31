@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2084467792749977673",
+    "created_at": "2026-08-10T02:30:27.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086641297817850257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029874575282937856",
+          "start": 0,
+          "username": "dud9jml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086641297817850257",
+    "in_reply_to_user_id": "2029874575282937856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084467792749977673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dud9jml 酒和 dxm 不太可以吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2084467792749977673",
+        "created_at": "2026-08-10T02:30:27.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086641297817850257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029874575282937856",
+              "start": 0,
+              "username": "dud9jml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086641297817850257",
+        "in_reply_to_user_id": "2029874575282937856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084467792749977673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dud9jml 酒和 dxm 不太可以吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029874575282937856",
+        "conversation_id": "2084467792749977673",
+        "created_at": "2026-08-04T02:33:43.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084467792749977673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084467792749977673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次吃盐野义 吃完盐野义药效过了之后我好难受 然后突然想起来昨天吃完pr凌晨喝了啤酒 然后盐野义昨天下午就吃了 我现在很慌 我的心脏好烧 我的肚子好烧 我的尿路好烧 我一直在发抖 我该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2086641297817850257",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 807,
+          "like_count": 8602,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T11:17:57.000Z",
+        "description": "精神残疾 只有碎碎念 喜欢友好的人//@seeFvn//唯一的好友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "seeFvn"
+              }
+            ]
+          }
+        },
+        "id": "2029874575282937856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086098515030368525",
+        "name": "dud",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030040413512331264/VDe0KuAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "dud9jml",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2089647440446337035",
+    "created_at": "2026-08-18T12:54:49.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089697524374196590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089697524374196590",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089647440446337035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 使用频率很高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1877,
+        "media_key": "3_2089647428689694720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_rQ9TbkAA9HMd.jpg",
+        "width": 1690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2089647440446337035",
+        "created_at": "2026-08-18T12:54:49.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089697524374196590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089697524374196590",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089647440446337035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 使用频率很高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089647428689694720"
+          ]
+        },
+        "author_id": "3016619443",
+        "conversation_id": "2089647440446337035",
+        "created_at": "2026-08-18T09:35:48.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089647440446337035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57245PFPmQ",
+              "end": 41,
+              "expanded_url": "https://x.com/EvanWritesX/status/2089647440446337035/photo/1",
+              "media_key": "3_2089647428689694720",
+              "start": 18,
+              "url": "https://t.co/57245PFPmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089647440446337035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089647428689694720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1146,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有多久没打开 Gemini 了？ https://t.co/57245PFPmQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2089697524374196590",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 815,
+          "like_count": 8956,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRWjfN \nVPS推荐：https://t.co/4oGVUk3sE0 （搬瓦工）https://t.co/ki7kfZIH8k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRWjfN"
+              },
+              {
+                "display_url": "bandwagonhost.com/aff.php?aff=81…",
+                "end": 88,
+                "expanded_url": "https://bandwagonhost.com/aff.php?aff=81656&pid=87",
+                "start": 65,
+                "url": "https://t.co/4oGVUk3sE0"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://dmit.io/aff.php?aff=16962",
+                "start": 94,
+                "url": "https://t.co/ki7kfZIH8k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRWjfN"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "is_identity_verified": false,
+        "location": "WeChat ID：EvanCreates",
+        "most_recent_tweet_id": "2089694126732370411",
+        "name": "Jason",
+        "pinned_tweet_id": "2087434349117661399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3016619443/1743008111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049313362732032000/vVC4jj-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22237,
+          "following_count": 840,
+          "like_count": 9615,
+          "listed_count": 98,
+          "media_count": 1737,
+          "tweet_count": 8716
+        },
+        "url": "https://t.co/2wytvRWjfN",
+        "username": "EvanWritesX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
