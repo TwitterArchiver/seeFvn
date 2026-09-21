@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100756005797892096",
+        "3_2100756005802160128"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2100753570727624823",
+    "created_at": "2026-09-18T01:17:19.000Z",
+    "display_text_range": [
+      9,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T02:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100756016711471527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2063566397649891328",
+          "start": 0,
+          "username": "taiqili"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NPTBUw3ke",
+          "end": 75,
+          "expanded_url": "https://x.com/seeFvn/status/2100756016711471527/photo/1",
+          "media_key": "3_2100756005797892096",
+          "start": 52,
+          "url": "https://t.co/0NPTBUw3ke"
+        },
+        {
+          "display_url": "pic.x.com/0NPTBUw3ke",
+          "end": 75,
+          "expanded_url": "https://x.com/seeFvn/status/2100756016711471527/photo/1",
+          "media_key": "3_2100756005802160128",
+          "start": 52,
+          "url": "https://t.co/0NPTBUw3ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100756016711471527",
+    "in_reply_to_user_id": "2063566397649891328",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100756005797892096"
+      },
+      {
+        "media_key": "3_2100756005802160128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100753929353167300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taiqili 我问 ai 的回复大概是这样 具体可以去搜索看看 不过我感觉相对以前越来越不容易了🥲 https://t.co/0NPTBUw3ke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2100756005797892096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdidP1aEAAWHlO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 415,
+        "media_key": "3_2100756005802160128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdidP2bMAA3U6t.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100756005797892096",
+            "3_2100756005802160128"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2100753570727624823",
+        "created_at": "2026-09-18T01:17:19.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100756016711471527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2063566397649891328",
+              "start": 0,
+              "username": "taiqili"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NPTBUw3ke",
+              "end": 75,
+              "expanded_url": "https://x.com/seeFvn/status/2100756016711471527/photo/1",
+              "media_key": "3_2100756005797892096",
+              "start": 52,
+              "url": "https://t.co/0NPTBUw3ke"
+            },
+            {
+              "display_url": "pic.x.com/0NPTBUw3ke",
+              "end": 75,
+              "expanded_url": "https://x.com/seeFvn/status/2100756016711471527/photo/1",
+              "media_key": "3_2100756005802160128",
+              "start": 52,
+              "url": "https://t.co/0NPTBUw3ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100756016711471527",
+        "in_reply_to_user_id": "2063566397649891328",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100756005797892096"
+          },
+          {
+            "media_key": "3_2100756005802160128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100753929353167300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taiqili 我问 ai 的回复大概是这样 具体可以去搜索看看 不过我感觉相对以前越来越不容易了🥲 https://t.co/0NPTBUw3ke"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063566397649891328",
+        "conversation_id": "2100753570727624823",
+        "created_at": "2026-09-18T01:09:01.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100753929353167300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100753929353167300",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100753570727624823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 问问是什么新法（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2100756016711471527",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 793,
+          "like_count": 11136,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2369
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T10:19:44.000Z",
+        "description": "我是苔祈里｜负能苦水日常号｜上网找个隐秘的地方发自言自语｜希望大家好好相处｜直fo互fo全部都欢迎｜I love cats🐱｜📭taiqili2026@gmail.com",
+        "id": "2063566397649891328",
+        "is_identity_verified": false,
+        "location": "冬",
+        "most_recent_tweet_id": "2100755776176632171",
+        "name": "苔祈里",
+        "pinned_tweet_id": "2094794305206649105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063566397649891328/1782188942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074791627504357376/gRNytEIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 92,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "taiqili",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

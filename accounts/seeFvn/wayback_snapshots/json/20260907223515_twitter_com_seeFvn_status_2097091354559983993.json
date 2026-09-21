@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097091336642195457",
+        "3_2097091336734441473",
+        "3_2097091336536981504"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2097091354559983993",
+    "created_at": "2026-09-07T22:35:15.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T23:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097091354559983993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDYBo6YbdE",
+          "end": 46,
+          "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+          "media_key": "3_2097091336642195457",
+          "start": 23,
+          "url": "https://t.co/uDYBo6YbdE"
+        },
+        {
+          "display_url": "pic.x.com/uDYBo6YbdE",
+          "end": 46,
+          "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+          "media_key": "3_2097091336734441473",
+          "start": 23,
+          "url": "https://t.co/uDYBo6YbdE"
+        },
+        {
+          "display_url": "pic.x.com/uDYBo6YbdE",
+          "end": 46,
+          "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+          "media_key": "3_2097091336536981504",
+          "start": 23,
+          "url": "https://t.co/uDYBo6YbdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097091354559983993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097091336642195457"
+      },
+      {
+        "media_key": "3_2097091336734441473"
+      },
+      {
+        "media_key": "3_2097091336536981504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞巴林\n（非医学建议 如有需要请询问医师） https://t.co/uDYBo6YbdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097091336642195457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpddbYbcAECzSW.jpg",
+        "width": 969
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2097091336734441473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpddbubAAERzzX.jpg",
+        "width": 945
+      },
+      {
+        "height": 872,
+        "media_key": "3_2097091336536981504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpdda_WAAAmoJE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097091336642195457",
+            "3_2097091336734441473",
+            "3_2097091336536981504"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2097091354559983993",
+        "created_at": "2026-09-07T22:35:15.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097091354559983993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDYBo6YbdE",
+              "end": 46,
+              "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+              "media_key": "3_2097091336642195457",
+              "start": 23,
+              "url": "https://t.co/uDYBo6YbdE"
+            },
+            {
+              "display_url": "pic.x.com/uDYBo6YbdE",
+              "end": 46,
+              "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+              "media_key": "3_2097091336734441473",
+              "start": 23,
+              "url": "https://t.co/uDYBo6YbdE"
+            },
+            {
+              "display_url": "pic.x.com/uDYBo6YbdE",
+              "end": 46,
+              "expanded_url": "https://x.com/seeFvn/status/2097091354559983993/photo/1",
+              "media_key": "3_2097091336536981504",
+              "start": 23,
+              "url": "https://t.co/uDYBo6YbdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097091354559983993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097091336642195457"
+          },
+          {
+            "media_key": "3_2097091336734441473"
+          },
+          {
+            "media_key": "3_2097091336536981504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林\n（非医学建议 如有需要请询问医师） https://t.co/uDYBo6YbdE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2097091354559983993",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 844,
+          "like_count": 10371,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2250
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

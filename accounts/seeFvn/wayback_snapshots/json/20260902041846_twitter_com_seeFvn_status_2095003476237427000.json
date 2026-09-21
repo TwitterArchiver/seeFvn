@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2095003476237427000",
+    "created_at": "2026-09-02T04:18:46.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095003476237427000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067675948074582016",
+          "start": 3,
+          "username": "johnternus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095003476237427000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25546
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094814214787633367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnternus: hello"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2095003476237427000",
+        "created_at": "2026-09-02T04:18:46.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095003476237427000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067675948074582016",
+              "start": 3,
+              "username": "johnternus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095003476237427000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25546
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094814214787633367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnternus: hello"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067675948074582016",
+        "conversation_id": "2094814214787633367",
+        "created_at": "2026-09-01T15:46:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094814214787633367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094814214787633367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11980,
+          "impression_count": 48357749,
+          "like_count": 396590,
+          "quote_count": 9279,
+          "reply_count": 49129,
+          "retweet_count": 25545
+        },
+        "reply_settings": "everyone",
+        "text": "hello"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2095003476237427000",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 854,
+          "like_count": 9877,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_bigger.png",
+          "description": "Apple",
+          "url": "https://twitter.com/Apple",
+          "user_id": [
+            "380749300"
+          ]
+        },
+        "created_at": "2026-06-18T18:28:56.000Z",
+        "description": " CEO",
+        "id": "2067675948074582016",
+        "is_identity_verified": false,
+        "location": "Cupertino",
+        "most_recent_tweet_id": "2094814214787633367",
+        "name": "John Ternus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067675948074582016/1788276892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633670,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 948,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "johnternus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

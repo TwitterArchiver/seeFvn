@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2100244694894817464",
+    "created_at": "2026-09-17T11:20:36.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100545449908469839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "126255549",
+          "start": 0,
+          "username": "HarriesSteele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100545449908469839",
+    "in_reply_to_user_id": "126255549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100244694894817464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarriesSteele 一直是这样吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2100244680269312000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWRaLzbMAACJzd.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2100244694894817464",
+        "created_at": "2026-09-17T11:20:36.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100545449908469839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "126255549",
+              "start": 0,
+              "username": "HarriesSteele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100545449908469839",
+        "in_reply_to_user_id": "126255549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100244694894817464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarriesSteele 一直是这样吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100244680269312000"
+          ]
+        },
+        "author_id": "126255549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100244694894817464",
+        "created_at": "2026-09-16T15:25:30.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100244694894817464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DtKsNjxMm",
+              "end": 46,
+              "expanded_url": "https://x.com/HarriesSteele/status/2100244694894817464/photo/1",
+              "media_key": "3_2100244680269312000",
+              "start": 23,
+              "url": "https://t.co/7DtKsNjxMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100244694894817464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100244680269312000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7927,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "paypal提现手续费这么高吗？要收35刀？ https://t.co/7DtKsNjxMm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2100545449908469839",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 790,
+          "like_count": 11106,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-25T08:11:38.000Z",
+        "description": "AI Product Founder · Building in Public\n → https://t.co/8Fon50jlsg\n → https://t.co/mqUInGg9LO\n → https://t.co/G8KY3gmLYd\n → https://t.co/xoVKa7iti4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "issafesite.com",
+                "end": 66,
+                "expanded_url": "https://issafesite.com",
+                "start": 43,
+                "url": "https://t.co/8Fon50jlsg"
+              },
+              {
+                "display_url": "yizhan.club",
+                "end": 93,
+                "expanded_url": "https://yizhan.club",
+                "start": 70,
+                "url": "https://t.co/mqUInGg9LO"
+              },
+              {
+                "display_url": "appscreenshotcreator.com",
+                "end": 120,
+                "expanded_url": "https://www.appscreenshotcreator.com",
+                "start": 97,
+                "url": "https://t.co/G8KY3gmLYd"
+              },
+              {
+                "display_url": "talktg.com",
+                "end": 147,
+                "expanded_url": "https://talktg.com",
+                "start": 124,
+                "url": "https://t.co/xoVKa7iti4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "harries.blog",
+                "end": 23,
+                "expanded_url": "https://www.harries.blog",
+                "start": 0,
+                "url": "https://t.co/bSzSbfr3XM"
+              }
+            ]
+          }
+        },
+        "id": "126255549",
+        "is_identity_verified": true,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2100533869149900855",
+        "name": "Harries",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126255549/1779350353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057763284808601600/FRYjdhmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10091,
+          "following_count": 9024,
+          "like_count": 5041,
+          "listed_count": 14,
+          "media_count": 814,
+          "tweet_count": 33500
+        },
+        "url": "https://t.co/bSzSbfr3XM",
+        "username": "HarriesSteele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

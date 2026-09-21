@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2096682815723372772",
+    "created_at": "2026-09-06T22:27:06.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096726913523822704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660883504115204096",
+          "start": 0,
+          "username": "ruriyuzuki0373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096726913523822704",
+    "in_reply_to_user_id": "1660883504115204096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096682815723372772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruriyuzuki0373 呼吸抑制警告⚠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2096682815723372772",
+        "created_at": "2026-09-06T22:27:06.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096726913523822704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660883504115204096",
+              "start": 0,
+              "username": "ruriyuzuki0373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096726913523822704",
+        "in_reply_to_user_id": "1660883504115204096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096682815723372772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruriyuzuki0373 呼吸抑制警告⚠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660883504115204096",
+        "conversation_id": "2096682815723372772",
+        "created_at": "2026-09-06T19:31:52.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096682815723372772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096682815723372772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔➕pr爽死我了（白兔吃35t以上 pr15t）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2096726913523822704",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 842,
+          "like_count": 10276,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 2242
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T05:41:20.000Z",
+        "description": "这里是结月，这个账号分享od报告或是负面情绪🩸（有时候会晕过去可能就没有了—）",
+        "id": "1660883504115204096",
+        "is_identity_verified": false,
+        "location": "Yau Tsim Mong District",
+        "most_recent_tweet_id": "2096720287400423720",
+        "name": "結月",
+        "pinned_tweet_id": "2095174514414067937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660883504115204096/1730215709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995421974282338304/4uSzqOwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 168,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "ruriyuzuki0373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2094811729435980165",
+    "created_at": "2026-09-02T04:17:58.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095003275451883522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095003275451883522",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094811729435980165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 讲的很好哦😙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2094811721223606272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJEKWLbkAARCLj.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2094811729435980165",
+        "created_at": "2026-09-02T04:17:58.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095003275451883522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095003275451883522",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094811729435980165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 讲的很好哦😙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094811721223606272"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2094811729435980165",
+        "created_at": "2026-09-01T15:36:50.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094811729435980165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecyuqVWiHh",
+              "end": 86,
+              "expanded_url": "https://x.com/YangDowond/status/2094811729435980165/photo/1",
+              "media_key": "3_2094811721223606272",
+              "start": 63,
+              "url": "https://t.co/ecyuqVWiHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094811729435980165",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094811721223606272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于卖药这事，我之前认识一位四十来岁的东北老姐，她就一直在卖图片里这几种药，我认识她是因为挺奇怪的一个事情（不方便展开说了）\n然后我在她这里最一开始是为了给我妈买便宜点的络活喜，我妈高血压挺严重的总说辉瑞原研的效果不错，从这买也是为了买到点便宜的原研，后来也出于娱乐化用途在她这里买过几次乐瑞卡（原研pr80）\n这老姐跟我说过一次她所有的药都是自身真的有相关疾病然后有处方的，而且她有商业医疗保险，好多病她都好了但还是一直在拿药，就是为了从商保套现，我印象很深的是她说走商报买乐瑞卡一盒才八块钱来着，当时还挺震惊我的\n不过商保公司也不傻，一直以来也都在严查这类行为，也过去一段时间了不知道她还在不在卖这些\n（注：本人不卖药！）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于卖药这事，我之前认识一位四十来岁的东北老姐，她就一直在卖图片里这几种药，我认识她是因为挺奇怪的一个事情（不方便展开说了） https://t.co/ecyuqVWiHh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2095003275451883522",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 853,
+          "like_count": 9875,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2187
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094971186744844683",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 286,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096697080358297600"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2096697100880740549",
+    "created_at": "2026-09-06T20:28:38.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096697100880740549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WXL9rHGzux",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2096697100880740549/photo/1",
+          "media_key": "3_2096697080358297600",
+          "start": 63,
+          "url": "https://t.co/WXL9rHGzux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096697100880740549",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096697080358297600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的3t 没有什么感觉了似乎 昨天确实是有呼吸抑制要是不用400mg 咖啡因会更严重\n（仅个人经历分享，正常剂量医师指导） https://t.co/WXL9rHGzux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2096697080358297600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRj24sRa4AAiSBL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096697080358297600"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2096697100880740549",
+        "created_at": "2026-09-06T20:28:38.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096697100880740549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXL9rHGzux",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2096697100880740549/photo/1",
+              "media_key": "3_2096697080358297600",
+              "start": 63,
+              "url": "https://t.co/WXL9rHGzux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096697100880740549",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096697080358297600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的3t 没有什么感觉了似乎 昨天确实是有呼吸抑制要是不用400mg 咖啡因会更严重\n（仅个人经历分享，正常剂量医师指导） https://t.co/WXL9rHGzux"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2096697100880740549",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 842,
+          "like_count": 10261,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

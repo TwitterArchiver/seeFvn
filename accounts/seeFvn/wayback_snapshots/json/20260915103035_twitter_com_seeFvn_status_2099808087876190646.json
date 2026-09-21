@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2099806171901104323",
+    "created_at": "2026-09-15T10:30:35.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099808087876190646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096496137507065861",
+          "start": 0,
+          "username": "YAHIR24DNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099808087876190646",
+    "in_reply_to_user_id": "2096496137507065861",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099806171901104323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YAHIR24DNP 🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2099806171901104323",
+        "created_at": "2026-09-15T10:30:35.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099808087876190646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096496137507065861",
+              "start": 0,
+              "username": "YAHIR24DNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099808087876190646",
+        "in_reply_to_user_id": "2096496137507065861",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099806171901104323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAHIR24DNP 🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096496137507065861",
+        "conversation_id": "2099806171901104323",
+        "created_at": "2026-09-15T10:22:58.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099806171901104323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/seeFvn/status/2099762788344512516",
+              "start": 17,
+              "url": "https://t.co/n9GNq1erv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099806171901104323",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099762788344512516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gracias al cielo https://t.co/n9GNq1erv8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2099808087876190646",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 778,
+          "like_count": 11035,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T07:11:45.000Z",
+        "description": "se mi muti",
+        "id": "2096496137507065861",
+        "is_identity_verified": false,
+        "location": "CHANGOLANDIA 🇲🇽🎩🍷",
+        "most_recent_tweet_id": "2099806171901104323",
+        "name": "YAHIR DINITROFENOL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096496137507065861/1788696259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096497523045113857/v2UxPaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "YAHIR24DNP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
