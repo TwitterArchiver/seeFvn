@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2106059139688673683",
+    "created_at": "2026-10-02T16:32:57.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106059876191646070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106059876191646070",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106059139688673683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉我吃了Xanax 很迷糊呃呃\n（处方医师指导用药）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2106059139688673683",
+        "created_at": "2026-10-02T16:32:57.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106059876191646070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106059876191646070",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106059139688673683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉我吃了Xanax 很迷糊呃呃\n（处方医师指导用药）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2106059139688673683",
+        "created_at": "2026-10-02T16:30:02.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106059139688673683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106059139688673683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grünenthal 格兰泰制药是否变成新时代的OxyContin普渡制药如它的曲马多or 他喷他多在目前的宣传很以前的普渡制药很像）他售卖的曲马多胶囊境内联系是萌蒂制药所以可能这就是他喷他多没有进入中国大陆市场的原因？\n（仅个人经历分享）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106059876191646070",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 868,
+          "like_count": 12015,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2550
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

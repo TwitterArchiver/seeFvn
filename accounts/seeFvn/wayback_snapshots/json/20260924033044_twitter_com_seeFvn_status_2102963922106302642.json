@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "2102963922106302642",
+    "created_at": "2026-09-24T03:30:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102963922106302642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102963922106302642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102941092823855449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 9月22日，山西临汾一处绘有玛丽莲·梦露肖像的网红地标景观墙被涂白覆顶，并重新喷涂了红色的“爱读书”三个大字。  \n\n该事件引发网友热议与嘲讽\n“非常符合特色社会主义审美”\n“破绷了”\n“成功解决了城市美观的问题，好棒”\n“致敬最包容、最…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18700,
+        "height": 1280,
+        "media_key": "13_2102766890393440257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102766890393440257/img/3ktxL3nSyg-MWd-l.jpg",
+        "public_metrics": {
+          "view_count": 21033
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890393440257/vid/avc1/320x568/bElSF5hY2TWZ34EY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890393440257/vid/avc1/480x852/2QvmhoSYh25VTXl6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890393440257/vid/avc1/720x1280/4uiEHgb-C0DZgnei.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102766890393440257/pl/XmzLqMV6IjYv7oGf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7933,
+        "height": 1280,
+        "media_key": "13_2102766890410221568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102766890410221568/img/RB87JR80mWek1mrF.jpg",
+        "public_metrics": {
+          "view_count": 5262
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890410221568/vid/avc1/832x1280/RJOnsNwoUrqACA0O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890410221568/vid/avc1/720x1106/m1NzZX92juUKwxe4.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890410221568/vid/avc1/320x492/jAxmKsBXEt5f2xN_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102766890410221568/vid/avc1/480x738/UNT0bTh-ArjDF5PQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102766890410221568/pl/B09BLwqz3t9S3mTv.m3u8"
+          }
+        ],
+        "width": 832
+      },
+      {
+        "height": 2085,
+        "media_key": "3_2102766917601931264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6HXuEbMAAb1RO.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2102963922106302642",
+        "created_at": "2026-09-24T03:30:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102963922106302642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102963922106302642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102941092823855449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 9月22日，山西临汾一处绘有玛丽莲·梦露肖像的网红地标景观墙被涂白覆顶，并重新喷涂了红色的“爱读书”三个大字。  \n\n该事件引发网友热议与嘲讽\n“非常符合特色社会主义审美”\n“破绷了”\n“成功解决了城市美观的问题，好棒”\n“致敬最包容、最…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102766890393440257",
+            "13_2102766890410221568",
+            "3_2102766917601931264"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2102941092823855449",
+        "created_at": "2026-09-24T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102941092823855449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vxe9KQCt0q",
+              "end": 157,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102941092823855449/video/1",
+              "media_key": "13_2102766890393440257",
+              "start": 134,
+              "url": "https://t.co/Vxe9KQCt0q"
+            },
+            {
+              "display_url": "pic.x.com/Vxe9KQCt0q",
+              "end": 157,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102941092823855449/video/1",
+              "media_key": "13_2102766890410221568",
+              "start": 134,
+              "url": "https://t.co/Vxe9KQCt0q"
+            },
+            {
+              "display_url": "pic.x.com/Vxe9KQCt0q",
+              "end": 157,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102941092823855449/video/1",
+              "media_key": "3_2102766917601931264",
+              "start": 134,
+              "url": "https://t.co/Vxe9KQCt0q"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2011342519770960374",
+              "start": 158,
+              "url": "https://t.co/TzbWKlxrOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102941092823855449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102766890393440257"
+          },
+          {
+            "media_key": "13_2102766890410221568"
+          },
+          {
+            "media_key": "3_2102766917601931264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 59372,
+          "like_count": 413,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011342519770960374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9月22日，山西临汾一处绘有玛丽莲·梦露肖像的网红地标景观墙被涂白覆顶，并重新喷涂了红色的“爱读书”三个大字。  \n\n该事件引发网友热议与嘲讽\n“非常符合特色社会主义审美”\n“破绷了”\n“成功解决了城市美观的问题，好棒”\n“致敬最包容、最开放、最有文化审美的临汾”。 https://t.co/Vxe9KQCt0q https://t.co/TzbWKlxrOo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2102963922106302642",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 802,
+          "like_count": 11455,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2102963737338753079",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264066,
+          "following_count": 1085,
+          "like_count": 10521,
+          "listed_count": 8913,
+          "media_count": 54211,
+          "tweet_count": 61556
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

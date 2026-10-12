@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2107715014648070260",
+    "created_at": "2026-10-07T12:49:32.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107815588202521062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107815588202521062",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107715014648070260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 希望你一切都好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107714998638383104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAbn8WakAA4hs8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2107715014648070260",
+        "created_at": "2026-10-07T12:49:32.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107815588202521062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107815588202521062",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107715014648070260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 希望你一切都好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107714998638383104"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107715014648070260",
+        "created_at": "2026-10-07T06:09:53.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107715014648070260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgWcvbtQtl",
+              "end": 61,
+              "expanded_url": "https://x.com/godspeedyou50/status/2107715014648070260/photo/1",
+              "media_key": "3_2107714998638383104",
+              "start": 38,
+              "url": "https://t.co/MgWcvbtQtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107715014648070260",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107714998638383104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "福生无量，九月初一我会为大家祈福🙏\n在此之后停业半个月也半消退一下 戒毒。 https://t.co/MgWcvbtQtl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2107815588202521062",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 871,
+          "like_count": 12181,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 2578
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n副人格@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjMNc5"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107764221752823943",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 766,
+          "like_count": 1513,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/COtyXjMNc5",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

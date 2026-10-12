@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106280755014107136",
+        "3_2106280762635132928",
+        "3_2106280769106907137"
+      ],
+      "media_source_tweet_id": [
+        "2106280774878277712",
+        "2106280774878277712",
+        "2106280774878277712"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106300385304691036",
+    "created_at": "2026-10-03T08:28:39.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106300385304691036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QDKYhNe5uJ",
+          "end": 66,
+          "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+          "media_key": "3_2106280755014107136",
+          "start": 43,
+          "url": "https://t.co/QDKYhNe5uJ"
+        },
+        {
+          "display_url": "pic.x.com/QDKYhNe5uJ",
+          "end": 66,
+          "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+          "media_key": "3_2106280762635132928",
+          "start": 43,
+          "url": "https://t.co/QDKYhNe5uJ"
+        },
+        {
+          "display_url": "pic.x.com/QDKYhNe5uJ",
+          "end": 66,
+          "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+          "media_key": "3_2106280769106907137",
+          "start": 43,
+          "url": "https://t.co/QDKYhNe5uJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106300385304691036",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106280755014107136"
+      },
+      {
+        "media_key": "3_2106280762635132928"
+      },
+      {
+        "media_key": "3_2106280769106907137"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106280774878277712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 江苏学生联合跳了35个人，教育局吓死了，所有学校强制放7天 https://t.co/QDKYhNe5uJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2106280755014107136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsDL-fbgAAkOKJ.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2106280762635132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsDMa4bIAASmbQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2106280769106907137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsDMy_akAEV1c3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106280755014107136",
+            "3_2106280762635132928",
+            "3_2106280769106907137"
+          ],
+          "media_source_tweet_id": [
+            "2106280774878277712",
+            "2106280774878277712",
+            "2106280774878277712"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106300385304691036",
+        "created_at": "2026-10-03T08:28:39.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106300385304691036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 66,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280755014107136",
+              "start": 43,
+              "url": "https://t.co/QDKYhNe5uJ"
+            },
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 66,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280762635132928",
+              "start": 43,
+              "url": "https://t.co/QDKYhNe5uJ"
+            },
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 66,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280769106907137",
+              "start": 43,
+              "url": "https://t.co/QDKYhNe5uJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106300385304691036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106280755014107136"
+          },
+          {
+            "media_key": "3_2106280762635132928"
+          },
+          {
+            "media_key": "3_2106280769106907137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106280774878277712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 江苏学生联合跳了35个人，教育局吓死了，所有学校强制放7天 https://t.co/QDKYhNe5uJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106280755014107136",
+            "3_2106280762635132928",
+            "3_2106280769106907137"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106280774878277712",
+        "created_at": "2026-10-03T07:10:44.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106280774878277712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280755014107136",
+              "start": 30,
+              "url": "https://t.co/QDKYhNe5uJ"
+            },
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280762635132928",
+              "start": 30,
+              "url": "https://t.co/QDKYhNe5uJ"
+            },
+            {
+              "display_url": "pic.x.com/QDKYhNe5uJ",
+              "end": 53,
+              "expanded_url": "https://x.com/bghtnya/status/2106280774878277712/photo/1",
+              "media_key": "3_2106280769106907137",
+              "start": 30,
+              "url": "https://t.co/QDKYhNe5uJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106280774878277712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106280755014107136"
+          },
+          {
+            "media_key": "3_2106280762635132928"
+          },
+          {
+            "media_key": "3_2106280769106907137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1175,
+          "like_count": 60,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "江苏学生联合跳了35个人，教育局吓死了，所有学校强制放7天 https://t.co/QDKYhNe5uJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106300385304691036",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 864,
+          "like_count": 12037,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2552
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2106292581256827313",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11346,
+          "following_count": 2343,
+          "like_count": 189461,
+          "listed_count": 19,
+          "media_count": 4303,
+          "tweet_count": 51931
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2106321006407332167",
+    "created_at": "2026-10-03T09:50:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106321006407332167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1076746882494263297",
+          "start": 3,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106321006407332167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106202868109996256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiejinghua: 正常一点叫用药\n口语一点叫吃药\n可爱一点叫吃糖糖\n粗俗一点叫嗑药\n随便一点叫来两颗\n学术一点叫药物摄入\n网络一点叫od\n非主流一点叫吞片\n隐晦一点叫补状态\n哲学一点叫改变意识\n江湖一点叫上东西\n文雅一点叫服药\n古风一点叫服丹\n西式一点叫overd…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2106321006407332167",
+        "created_at": "2026-10-03T09:50:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106321006407332167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1076746882494263297",
+              "start": 3,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106321006407332167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106202868109996256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiejinghua: 正常一点叫用药\n口语一点叫吃药\n可爱一点叫吃糖糖\n粗俗一点叫嗑药\n随便一点叫来两颗\n学术一点叫药物摄入\n网络一点叫od\n非主流一点叫吞片\n隐晦一点叫补状态\n哲学一点叫改变意识\n江湖一点叫上东西\n文雅一点叫服药\n古风一点叫服丹\n西式一点叫overd…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2106202868109996256",
+        "created_at": "2026-10-03T02:01:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106202868109996256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106202868109996256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2887,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "正常一点叫用药\n口语一点叫吃药\n可爱一点叫吃糖糖\n粗俗一点叫嗑药\n随便一点叫来两颗\n学术一点叫药物摄入\n网络一点叫od\n非主流一点叫吞片\n隐晦一点叫补状态\n哲学一点叫改变意识\n江湖一点叫上东西\n文雅一点叫服药\n古风一点叫服丹\n西式一点叫overdose\n中二一点叫突破人体耐受上限"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106321006407332167",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 864,
+          "like_count": 12047,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2557
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "欢迎互fo，小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。端到端加密。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106288028369248394",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2104556680969384065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 228,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

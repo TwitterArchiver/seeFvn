@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2105281388090114281",
+    "created_at": "2026-09-30T12:59:31.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105281388090114281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2091692877491716096",
+          "start": 3,
+          "username": "Raiiin_J7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105281388090114281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105217871861395944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raiiin_J7: 不是要马上戒，而是缓慢的戒，灵活的戒。\n你要控制住它！而不是让它控制你。\n你要告诉你自己你才是自己身体的主人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2105281388090114281",
+        "created_at": "2026-09-30T12:59:31.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105281388090114281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2091692877491716096",
+              "start": 3,
+              "username": "Raiiin_J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105281388090114281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105217871861395944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raiiin_J7: 不是要马上戒，而是缓慢的戒，灵活的戒。\n你要控制住它！而不是让它控制你。\n你要告诉你自己你才是自己身体的主人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091692877491716096",
+        "conversation_id": "2105217871861395944",
+        "created_at": "2026-09-30T08:47:08.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105217871861395944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105217871861395944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不是要马上戒，而是缓慢的戒，灵活的戒。\n你要控制住它！而不是让它控制你。\n你要告诉你自己你才是自己身体的主人！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2105281388090114281",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 862,
+          "like_count": 11854,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2526
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊：OCD | MDD | 重度睡眠障碍\n是一个ODer💊，自学精神医学中……6g Pr+33度白酒+4.4mg阿普唑仑幸存玩家\n摇滚 | 前卫/迷幻摇滚 | 术力口 | 哲学 | AGC | 泛性向 | 友跨 | 社恐向\n会查成分互fo哦\n（可以叫我小霁喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間",
+        "most_recent_tweet_id": "2105218874237215222",
+        "name": "霽🌈⃤",
+        "pinned_tweet_id": "2105217871861395944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1787624890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094552771265798144/3iteZZnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 113,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

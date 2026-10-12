@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2106357715643826642",
+    "created_at": "2026-10-03T15:12:02.000Z",
+    "display_text_range": [
+      7,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106401899293405396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106401899293405396",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106371228709896289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 是这样以前莫达菲尼还是精神药品一类呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_2106371218899341313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtVdquaEAEDegF.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2106357715643826642",
+        "created_at": "2026-10-03T15:12:02.000Z",
+        "display_text_range": [
+          7,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106401899293405396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106401899293405396",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106371228709896289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 是这样以前莫达菲尼还是精神药品一类呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106371218899341313"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2106357715643826642",
+        "created_at": "2026-10-03T13:10:10.000Z",
+        "display_text_range": [
+          8,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106371228709896289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Aw6ZxY92z",
+              "end": 117,
+              "expanded_url": "https://x.com/N3kuv/status/2106371228709896289/photo/1",
+              "media_key": "3_2106371218899341313",
+              "start": 94,
+              "url": "https://t.co/2Aw6ZxY92z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106371228709896289",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106371218899341313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106357715643826642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 感觉china真的是被依托咪酯电子烟坑怕了。第三个索安非托这个可以讲一下，一种抑制多巴胺和去甲肾上腺素再摄取的双通道觉醒药物，不释放兴奋递质也和gaba没关系。没滥用价值 https://t.co/2Aw6ZxY92z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106401899293405396",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 865,
+          "like_count": 12057,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2561
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "发一些基础的药理学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xJGsITQkFGMxN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xJGsITQkFGMxNTM0",
+                "start": 0,
+                "url": "https://t.co/jM2uM0tOuC"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "is_identity_verified": false,
+        "location": "https://t.me/nekocaline",
+        "most_recent_tweet_id": "2106391957757169890",
+        "name": "ThePeaceOfMyMind",
+        "pinned_tweet_id": "2103393801754812563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476198137589268480/1790228628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 739,
+          "like_count": 7010,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/jM2uM0tOuC",
+        "username": "N3kuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097803109380886528"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2097803127781257677",
+    "created_at": "2026-09-09T21:43:35.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T22:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097803127781257677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cfXAPvaJVH",
+          "end": 86,
+          "expanded_url": "https://x.com/seeFvn/status/2097803127781257677/photo/1",
+          "media_key": "3_2097803109380886528",
+          "start": 63,
+          "url": "https://t.co/cfXAPvaJVH"
+        },
+        {
+          "display_url": "x.com/seefvn/status/…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/seefvn/status/2097737157863506069",
+          "start": 87,
+          "url": "https://t.co/8s1QiGM9eV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097803127781257677",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097803109380886528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097737157863506069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧想恋苯二氮卓那种飘飘的感觉了 在阿普唑仑末尾吃下300mg 普瑞巴林）真的有用吗😞\n（仅个人经历分享，正常剂量医师指导） https://t.co/cfXAPvaJVH https://t.co/8s1QiGM9eV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097803109380886528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzk0DdbkAAspGB.jpg",
+        "width": 946
+      },
+      {
+        "height": 1937,
+        "media_key": "3_2097737133968719872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyozx5aAAAQRqx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1821,
+        "media_key": "3_2097737133830131712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyozxYXUAA4WBy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097803109380886528"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2097803127781257677",
+        "created_at": "2026-09-09T21:43:35.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097803127781257677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfXAPvaJVH",
+              "end": 86,
+              "expanded_url": "https://x.com/seeFvn/status/2097803127781257677/photo/1",
+              "media_key": "3_2097803109380886528",
+              "start": 63,
+              "url": "https://t.co/cfXAPvaJVH"
+            },
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/seefvn/status/2097737157863506069",
+              "start": 87,
+              "url": "https://t.co/8s1QiGM9eV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097803127781257677",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097803109380886528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097737157863506069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧想恋苯二氮卓那种飘飘的感觉了 在阿普唑仑末尾吃下300mg 普瑞巴林）真的有用吗😞\n（仅个人经历分享，正常剂量医师指导） https://t.co/cfXAPvaJVH https://t.co/8s1QiGM9eV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097737133968719872",
+            "3_2097737133830131712"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2097737157863506069",
+        "created_at": "2026-09-09T17:21:27.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097737157863506069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwOd4Wa8Or",
+              "end": 52,
+              "expanded_url": "https://x.com/seeFvn/status/2097737157863506069/photo/1",
+              "media_key": "3_2097737133968719872",
+              "start": 29,
+              "url": "https://t.co/FwOd4Wa8Or"
+            },
+            {
+              "display_url": "pic.x.com/FwOd4Wa8Or",
+              "end": 52,
+              "expanded_url": "https://x.com/seeFvn/status/2097737157863506069/photo/1",
+              "media_key": "3_2097737133830131712",
+              "start": 29,
+              "url": "https://t.co/FwOd4Wa8Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097737157863506069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097737133968719872"
+          },
+          {
+            "media_key": "3_2097737133830131712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 396,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早饭来自阿普唑仑🩶\n（仅个人经历分享，正常剂量医师指导） https://t.co/FwOd4Wa8Or"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "Wales, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -3.5,
+                  52.5
+                ],
+                "type": "Point"
+              },
+              "region": "Wales"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2097803127781257677",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 849,
+          "like_count": 10652,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

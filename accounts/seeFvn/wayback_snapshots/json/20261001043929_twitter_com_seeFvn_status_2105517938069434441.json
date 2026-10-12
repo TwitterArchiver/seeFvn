@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105461804315148288"
+      ],
+      "media_source_tweet_id": [
+        "2105461811143409843"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2105517938069434441",
+    "created_at": "2026-10-01T04:39:29.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105517938069434441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zi8kH9X1Rp",
+          "end": 64,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2105461811143409843/photo/1",
+          "media_key": "3_2105461804315148288",
+          "start": 41,
+          "url": "https://t.co/Zi8kH9X1Rp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105517938069434441",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105461804315148288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105461811143409843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 美金刚有缓释胶囊了\n为了让oder更温柔的使用 https://t.co/Zi8kH9X1Rp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2105461804315148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgaWxZbgAA2PkB.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105461804315148288"
+          ],
+          "media_source_tweet_id": [
+            "2105461811143409843"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2105517938069434441",
+        "created_at": "2026-10-01T04:39:29.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105517938069434441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zi8kH9X1Rp",
+              "end": 64,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2105461811143409843/photo/1",
+              "media_key": "3_2105461804315148288",
+              "start": 41,
+              "url": "https://t.co/Zi8kH9X1Rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105517938069434441",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105461804315148288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105461811143409843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 美金刚有缓释胶囊了\n为了让oder更温柔的使用 https://t.co/Zi8kH9X1Rp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105461804315148288"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "conversation_id": "2105461811143409843",
+        "created_at": "2026-10-01T00:56:28.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105461811143409843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zi8kH9X1Rp",
+              "end": 47,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2105461811143409843/photo/1",
+              "media_key": "3_2105461804315148288",
+              "start": 24,
+              "url": "https://t.co/Zi8kH9X1Rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105461811143409843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105461804315148288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 817,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚有缓释胶囊了\n为了让oder更温柔的使用 https://t.co/Zi8kH9X1Rp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2105517938069434441",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 865,
+          "like_count": 11911,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2539
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n\n极光实验室是国内最大的精神物质百科\n\n神农尝百草是为了追求极乐！ \n\n“这个世界存在着许多超出我们想象的存在”\n\n“去经历去学习成长自己也必须大胆前进”\n\nとあるメンヘラの戯言。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105515697380245972",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2102719457932247348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1790812111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105444623556722689/Xgtc8gB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 2385,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

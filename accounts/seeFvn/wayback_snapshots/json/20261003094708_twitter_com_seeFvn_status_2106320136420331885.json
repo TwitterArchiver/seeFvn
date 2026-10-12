@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2105606190960939187",
+    "created_at": "2026-10-03T09:47:08.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106320136420331885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1374033535065976837",
+          "start": 0,
+          "username": "qiuyuantuosi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106320136420331885",
+    "in_reply_to_user_id": "1374033535065976837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106319275590115416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuyuantuosi 我是疾病用药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2105606190960939187",
+        "created_at": "2026-10-03T09:47:08.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106320136420331885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1374033535065976837",
+              "start": 0,
+              "username": "qiuyuantuosi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320136420331885",
+        "in_reply_to_user_id": "1374033535065976837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106319275590115416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuyuantuosi 我是疾病用药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374033535065976837",
+        "conversation_id": "2105606190960939187",
+        "created_at": "2026-10-03T09:43:43.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106319275590115416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106319275590115416",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105606190960939187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 想问去医院说什么医生会给开曲马多呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106320136420331885",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 864,
+          "like_count": 12046,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2556
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-22T16:21:45.000Z",
+        "description": "风吹哪页读哪页",
+        "id": "1374033535065976837",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106319275590115416",
+        "name": "秋秋秋秋",
+        "pinned_tweet_id": "1729886485044953154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374033535065976837/1701358297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820374183974481920/G1aSqKNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 56,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "qiuyuantuosi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

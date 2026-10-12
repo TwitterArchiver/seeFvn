@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2103876681174016495",
+    "created_at": "2026-09-27T11:00:06.000Z",
+    "display_text_range": [
+      14,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104164171109802115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056703191597920256",
+          "start": 0,
+          "username": "Mandrake8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104164171109802115",
+    "in_reply_to_user_id": "2056703191597920256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103876681174016495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandrake8964 如果出现其他的建议去看看可不可能是 Stevens–Johnson 综合征不过 如果只是这样更像药物性皮疹？还需要看是否刚刚开始吃这个药🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2103876681174016495",
+        "created_at": "2026-09-27T11:00:06.000Z",
+        "display_text_range": [
+          14,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104164171109802115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056703191597920256",
+              "start": 0,
+              "username": "Mandrake8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104164171109802115",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103876681174016495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandrake8964 如果出现其他的建议去看看可不可能是 Stevens–Johnson 综合征不过 如果只是这样更像药物性皮疹？还需要看是否刚刚开始吃这个药🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2103876681174016495",
+        "created_at": "2026-09-26T15:57:43.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103876681174016495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103876681174016495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你媽這兩天皮膚反復出現大量紅疹還不知道是什麼導致的\n天天吃氯雷他定煩死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104164171109802115",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 840,
+          "like_count": 11646,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 2484
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2104115054203605271",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 174,
+          "like_count": 2374,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

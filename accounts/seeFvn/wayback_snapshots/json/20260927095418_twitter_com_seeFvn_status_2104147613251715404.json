@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104147600140283904",
+        "3_2104147600102539264"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2104147613251715404",
+    "created_at": "2026-09-27T09:54:18.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104147613251715404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAl5IPUWiI",
+          "end": 55,
+          "expanded_url": "https://x.com/seeFvn/status/2104147613251715404/photo/1",
+          "media_key": "3_2104147600140283904",
+          "start": 32,
+          "url": "https://t.co/gAl5IPUWiI"
+        },
+        {
+          "display_url": "pic.x.com/gAl5IPUWiI",
+          "end": 55,
+          "expanded_url": "https://x.com/seeFvn/status/2104147613251715404/photo/1",
+          "media_key": "3_2104147600102539264",
+          "start": 32,
+          "url": "https://t.co/gAl5IPUWiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104147613251715404",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104147600140283904"
+      },
+      {
+        "media_key": "3_2104147600102539264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的胍法辛与爱的普瑞巴林\n（仅个人经历分享，正常剂量医师指导） https://t.co/gAl5IPUWiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_2104147600140283904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNvGBVaMAANi33.jpg",
+        "width": 1681
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104147600102539264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNvGBMaQAAl36F.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104147600140283904",
+            "3_2104147600102539264"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104147613251715404",
+        "created_at": "2026-09-27T09:54:18.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104147613251715404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAl5IPUWiI",
+              "end": 55,
+              "expanded_url": "https://x.com/seeFvn/status/2104147613251715404/photo/1",
+              "media_key": "3_2104147600140283904",
+              "start": 32,
+              "url": "https://t.co/gAl5IPUWiI"
+            },
+            {
+              "display_url": "pic.x.com/gAl5IPUWiI",
+              "end": 55,
+              "expanded_url": "https://x.com/seeFvn/status/2104147613251715404/photo/1",
+              "media_key": "3_2104147600102539264",
+              "start": 32,
+              "url": "https://t.co/gAl5IPUWiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104147613251715404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104147600140283904"
+          },
+          {
+            "media_key": "3_2104147600102539264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的胍法辛与爱的普瑞巴林\n（仅个人经历分享，正常剂量医师指导） https://t.co/gAl5IPUWiI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104147613251715404",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 840,
+          "like_count": 11645,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 2483
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

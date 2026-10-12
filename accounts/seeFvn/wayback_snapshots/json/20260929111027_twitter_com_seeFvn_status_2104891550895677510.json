@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2104807843400409127",
+    "created_at": "2026-09-29T11:10:27.000Z",
+    "display_text_range": [
+      7,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104891550895677510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104891550895677510",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104807843400409127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 阿普唑仑的欣快应该可以说是一种负反馈？\n（非医学建议）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104807843400409127",
+        "created_at": "2026-09-29T11:10:27.000Z",
+        "display_text_range": [
+          7,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104891550895677510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104891550895677510",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104807843400409127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 阿普唑仑的欣快应该可以说是一种负反馈？\n（非医学建议）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2104807843400409127",
+        "created_at": "2026-09-29T05:37:49.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104807843400409127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aranumono/stat…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/aranumono/status/2104767388680179876",
+              "start": 132,
+              "url": "https://t.co/ULytvbNRK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104807843400409127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1057,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104767388680179876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这点很有意思。我第一次尝试od阿普唑仑，有很明显的欣快感。后来查了一下阿普唑仑的欣快感取决于你有多焦虑，对于重度患者来说，第一次尝试中等到高剂量才可能会产生欣快。\n当然还是不推荐o阿普唑仑的，我以前转发过一个od阿普唑仑进精神病院的报告……（欣快也挑人和体质。） https://t.co/ULytvbNRK4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104891550895677510",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 858,
+          "like_count": 11786,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2518
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "20 ⬇️ / 冲动自杀干预 • 药物咨询 请看我tg/不是药商，不贩卖列管药，不滥用任何物质/我没有任何药物渠道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xJGsITQkFGMxN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xJGsITQkFGMxNTM0",
+                "start": 0,
+                "url": "https://t.co/jM2uM0tOuC"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "is_identity_verified": false,
+        "location": "https://t.me/nekocaline",
+        "most_recent_tweet_id": "2104855892818796911",
+        "name": "天使糖",
+        "pinned_tweet_id": "2103393801754812563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476198137589268480/1790228628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 674,
+          "like_count": 6861,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/jM2uM0tOuC",
+        "username": "N3kuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

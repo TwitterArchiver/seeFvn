@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2102301917560852782",
+    "created_at": "2026-09-23T09:48:03.000Z",
+    "display_text_range": [
+      41,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102696487843233989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        },
+        {
+          "end": 27,
+          "id": "2085986483417251840",
+          "start": 17,
+          "username": "babenhua3"
+        },
+        {
+          "end": 40,
+          "id": "1592697440343162880",
+          "start": 28,
+          "username": "akenohotaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102696487843233989",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102378741251137851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 @babenhua3 @akenohotaru 我明白 我是回复他关于普瑞巴林吸收的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2102301917560852782",
+        "created_at": "2026-09-23T09:48:03.000Z",
+        "display_text_range": [
+          41,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102696487843233989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            },
+            {
+              "end": 27,
+              "id": "2085986483417251840",
+              "start": 17,
+              "username": "babenhua3"
+            },
+            {
+              "end": 40,
+              "id": "1592697440343162880",
+              "start": 28,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102696487843233989",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102378741251137851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 @babenhua3 @akenohotaru 我明白 我是回复他关于普瑞巴林吸收的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037210164131225604",
+        "conversation_id": "2102301917560852782",
+        "created_at": "2026-09-22T12:45:26.000Z",
+        "display_text_range": [
+          32,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102378741251137851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            },
+            {
+              "end": 18,
+              "id": "2085986483417251840",
+              "start": 8,
+              "username": "babenhua3"
+            },
+            {
+              "end": 31,
+              "id": "1592697440343162880",
+              "start": 19,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102378741251137851",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102347124096778397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn @babenhua3 @akenohotaru 天花板效应是指药效，比如bzd就是典型有天花板效应的药物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2102696487843233989",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 806,
+          "like_count": 11416,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2426
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102623160848019646",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 375,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T07:08:49.000Z",
+        "description": "",
+        "id": "2085986483417251840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102475494985994514",
+        "name": "八本华",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085986483417251840/1786173292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085988095149867008/Rsvh5Y-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 48,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "babenhua3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻，pr样、阿片样欣快/音游爱好者/maimai/ボカロ/ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2102684967751074038",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 197,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105159074140831744"
+      ],
+      "media_source_tweet_id": [
+        "2105159169859092865"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105282688974205123",
+    "created_at": "2026-09-30T13:04:41.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105282688974205123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2096078893912621056",
+          "start": 3,
+          "username": "RomeMyerstaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuWOUZUwf8",
+          "end": 60,
+          "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+          "media_key": "13_2105159074140831744",
+          "start": 37,
+          "url": "https://t.co/BuWOUZUwf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105282688974205123",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2105159074140831744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105159169859092865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RomeMyerstaki: 回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54066,
+        "height": 1280,
+        "media_key": "13_2105159074140831744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105159074140831744/img/n9HEN6lLc9ux7P1C.jpg",
+        "public_metrics": {
+          "view_count": 6755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/320x568/nrBVfiW-QRUxDbCn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/480x852/po3xoZFRinNp4aQT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/720x1280/ht2WvwhunVkwcEyK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/pl/65X2rNvRrHS2Si9h.m3u8?v=ccd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105159074140831744"
+          ],
+          "media_source_tweet_id": [
+            "2105159169859092865"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105282688974205123",
+        "created_at": "2026-09-30T13:04:41.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105282688974205123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2096078893912621056",
+              "start": 3,
+              "username": "RomeMyerstaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuWOUZUwf8",
+              "end": 60,
+              "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+              "media_key": "13_2105159074140831744",
+              "start": 37,
+              "url": "https://t.co/BuWOUZUwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105282688974205123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105159074140831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105159169859092865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RomeMyerstaki: 回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105159074140831744"
+          ]
+        },
+        "author_id": "2096078893912621056",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-09-30T04:53:52.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105159169859092865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuWOUZUwf8",
+              "end": 41,
+              "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+              "media_key": "13_2105159074140831744",
+              "start": 18,
+              "url": "https://t.co/BuWOUZUwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105159169859092865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105159074140831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11421,
+          "like_count": 209,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2105282688974205123",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 862,
+          "like_count": 11860,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2527
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T03:32:46.000Z",
+        "description": "可以叫我纯度，09的幕刃目前在工作，我💊/🚬",
+        "id": "2096078893912621056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105217064390808061",
+        "name": "纯度不是蠢嘟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096078893912621056/1789788620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099309889692807169/Cq79Gj5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 82,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "RomeMyerstaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103870469724413953",
+        "3_2103870469858582529"
+      ],
+      "media_source_tweet_id": [
+        "2103870488191877247",
+        "2103870488191877247"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2104049027914617258",
+    "created_at": "2026-09-27T03:22:34.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104049027914617258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2032516808951902208",
+          "start": 3,
+          "username": "Jeffrey20011221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Olcdn1Ggqr",
+          "end": 56,
+          "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+          "media_key": "3_2103870469724413953",
+          "start": 33,
+          "url": "https://t.co/Olcdn1Ggqr"
+        },
+        {
+          "display_url": "pic.x.com/Olcdn1Ggqr",
+          "end": 56,
+          "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+          "media_key": "3_2103870469858582529",
+          "start": 33,
+          "url": "https://t.co/Olcdn1Ggqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104049027914617258",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103870469724413953"
+      },
+      {
+        "media_key": "3_2103870469858582529"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103870488191877247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jeffrey20011221: 某地方也是完蛋了……… https://t.co/Olcdn1Ggqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103870469724413953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJzC6FboAELt6u.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103870469858582529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJzC6la4AEQmoy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103870469724413953",
+            "3_2103870469858582529"
+          ],
+          "media_source_tweet_id": [
+            "2103870488191877247",
+            "2103870488191877247"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104049027914617258",
+        "created_at": "2026-09-27T03:22:34.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104049027914617258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2032516808951902208",
+              "start": 3,
+              "username": "Jeffrey20011221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Olcdn1Ggqr",
+              "end": 56,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+              "media_key": "3_2103870469724413953",
+              "start": 33,
+              "url": "https://t.co/Olcdn1Ggqr"
+            },
+            {
+              "display_url": "pic.x.com/Olcdn1Ggqr",
+              "end": 56,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+              "media_key": "3_2103870469858582529",
+              "start": 33,
+              "url": "https://t.co/Olcdn1Ggqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104049027914617258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103870469724413953"
+          },
+          {
+            "media_key": "3_2103870469858582529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103870488191877247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jeffrey20011221: 某地方也是完蛋了……… https://t.co/Olcdn1Ggqr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103870469724413953",
+            "3_2103870469858582529"
+          ]
+        },
+        "author_id": "2032516808951902208",
+        "conversation_id": "2103870488191877247",
+        "created_at": "2026-09-26T15:33:07.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103870488191877247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Olcdn1Ggqr",
+              "end": 35,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+              "media_key": "3_2103870469724413953",
+              "start": 12,
+              "url": "https://t.co/Olcdn1Ggqr"
+            },
+            {
+              "display_url": "pic.x.com/Olcdn1Ggqr",
+              "end": 35,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2103870488191877247/photo/1",
+              "media_key": "3_2103870469858582529",
+              "start": 12,
+              "url": "https://t.co/Olcdn1Ggqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103870488191877247",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103870469724413953"
+          },
+          {
+            "media_key": "3_2103870469858582529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 153358,
+          "like_count": 1022,
+          "quote_count": 14,
+          "reply_count": 110,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "某地方也是完蛋了……… https://t.co/Olcdn1Ggqr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104049027914617258",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 842,
+          "like_count": 11635,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 2478
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nCollecting fountain pens 🖋️\n持证含糖/速通大证🫣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDduP5"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "is_identity_verified": false,
+        "location": "Birmingham, England",
+        "most_recent_tweet_id": "2103916425010368651",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032516808951902208/1775574040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 840,
+          "like_count": 4569,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/UHHpuDduP5",
+        "username": "Jeffrey20011221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

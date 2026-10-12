@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105454240328286208"
+      ],
+      "media_source_tweet_id": [
+        "2105455584703283685"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2105515526306836843",
+    "created_at": "2026-10-01T04:29:54.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105515526306836843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "99902458",
+          "start": 3,
+          "username": "cunzhuzheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flT2JNV2s5",
+          "end": 136,
+          "expanded_url": "https://x.com/cunzhuzheng/status/2105455584703283685/photo/1",
+          "media_key": "3_2105454240328286208",
+          "start": 113,
+          "url": "https://t.co/flT2JNV2s5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105515526306836843",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105454240328286208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105455584703283685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cunzhuzheng: 今天再次成功获得未成年人特殊移民身份法庭认定。\n\n妈妈一个人带着18岁的儿子来到美国申请庇护，目前案件在法庭等待审理。在目前庇护批准率极低的特殊时期，妈妈单独为儿子申请未成年人的特殊移民。… https://t.co/flT2JNV2s5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2105454240328286208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgTefWbgAASa9g.png",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105454240328286208"
+          ],
+          "media_source_tweet_id": [
+            "2105455584703283685"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2105515526306836843",
+        "created_at": "2026-10-01T04:29:54.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105515526306836843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "99902458",
+              "start": 3,
+              "username": "cunzhuzheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flT2JNV2s5",
+              "end": 136,
+              "expanded_url": "https://x.com/cunzhuzheng/status/2105455584703283685/photo/1",
+              "media_key": "3_2105454240328286208",
+              "start": 113,
+              "url": "https://t.co/flT2JNV2s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105515526306836843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105454240328286208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105455584703283685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cunzhuzheng: 今天再次成功获得未成年人特殊移民身份法庭认定。\n\n妈妈一个人带着18岁的儿子来到美国申请庇护，目前案件在法庭等待审理。在目前庇护批准率极低的特殊时期，妈妈单独为儿子申请未成年人的特殊移民。… https://t.co/flT2JNV2s5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105454240328286208"
+          ]
+        },
+        "author_id": "99902458",
+        "conversation_id": "2105455584703283685",
+        "created_at": "2026-10-01T00:31:43.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105455584703283685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flT2JNV2s5",
+              "end": 118,
+              "expanded_url": "https://x.com/cunzhuzheng/status/2105455584703283685/photo/1",
+              "media_key": "3_2105454240328286208",
+              "start": 95,
+              "url": "https://t.co/flT2JNV2s5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105455584703283685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105454240328286208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今天再次成功获得未成年人特殊移民身份法庭认定。\n\n妈妈一个人带着18岁的儿子来到美国申请庇护，目前案件在法庭等待审理。在目前庇护批准率极低的特殊时期，妈妈单独为儿子申请未成年人的特殊移民。\n\n很多父母申请移民，主要是为了子女可以在一个机会均等的社会，可以通过自己的努力，而获得成功。今天终于如愿以偿。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2275,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天再次成功获得未成年人特殊移民身份法庭认定。\n\n妈妈一个人带着18岁的儿子来到美国申请庇护，目前案件在法庭等待审理。在目前庇护批准率极低的特殊时期，妈妈单独为儿子申请未成年人的特殊移民。 https://t.co/flT2JNV2s5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2105515526306836843",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 865,
+          "like_count": 11904,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2535
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-28T08:53:57.000Z",
+        "description": "法律硕士（LLM)、博士(J.D.) 根据8 CFR § 292.1(a)2 和 1292.1(a)2, 本人代理客人移民局面谈和移民法庭出庭。“水晶公约”“水晶条款”发起人。社区：https://t.co/t0aBCSxfWe 频道https://t.co/XhCSR6JXD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/quartzrepublic",
+                "end": 114,
+                "expanded_url": "https://t.me/quartzrepublic",
+                "start": 91,
+                "url": "https://t.co/t0aBCSxfWe"
+              },
+              {
+                "display_url": "t.me/quartzterm",
+                "end": 140,
+                "expanded_url": "https://t.me/quartzterm",
+                "start": 117,
+                "url": "https://t.co/XhCSR6JXD7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@JamesZheng",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@JamesZheng",
+                "start": 0,
+                "url": "https://t.co/QPhY29nS4B"
+              }
+            ]
+          }
+        },
+        "id": "99902458",
+        "is_identity_verified": true,
+        "location": "Republic  of Quartz",
+        "most_recent_tweet_id": "2105455584703283685",
+        "name": "💎郑存柱",
+        "pinned_tweet_id": "2072941535386353845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99902458/1703496625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388544326053990406/MqM5VOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46413,
+          "following_count": 1817,
+          "like_count": 2662,
+          "listed_count": 132,
+          "media_count": 2824,
+          "tweet_count": 10678
+        },
+        "url": "https://t.co/QPhY29nS4B",
+        "username": "cunzhuzheng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

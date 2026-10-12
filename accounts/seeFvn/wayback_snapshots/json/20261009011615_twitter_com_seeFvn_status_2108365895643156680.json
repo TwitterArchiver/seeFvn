@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107710800622411776"
+      ],
+      "media_source_tweet_id": [
+        "2107710822458040323"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108365895643156680",
+    "created_at": "2026-10-09T01:16:15.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T02:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108365895643156680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053072097887358976",
+          "start": 3,
+          "username": "MDCN9919"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Wa8QgFZ8l",
+          "end": 52,
+          "expanded_url": "https://x.com/MDCN9919/status/2107710822458040323/video/1",
+          "media_key": "13_2107710800622411776",
+          "start": 29,
+          "url": "https://t.co/4Wa8QgFZ8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108365895643156680",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2107710800622411776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107710822458040323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MDCN9919: 秋はメジコンの産卵期なのじゃ https://t.co/4Wa8QgFZ8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10005,
+        "height": 1280,
+        "media_key": "13_2107710800622411776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107710800622411776/img/sotNDaXVjQN6D0QS.jpg",
+        "public_metrics": {
+          "view_count": 9156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107710800622411776/vid/avc1/320x568/CnspqF4hUFonp6FQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107710800622411776/vid/avc1/480x852/bilRN0ZUhDBUQ9fa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107710800622411776/vid/avc1/720x1280/P-QM9RLwuadpnHOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107710800622411776/pl/dfhUEqW-ayxXhCgl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107710800622411776"
+          ],
+          "media_source_tweet_id": [
+            "2107710822458040323"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108365895643156680",
+        "created_at": "2026-10-09T01:16:15.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T02:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108365895643156680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053072097887358976",
+              "start": 3,
+              "username": "MDCN9919"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Wa8QgFZ8l",
+              "end": 52,
+              "expanded_url": "https://x.com/MDCN9919/status/2107710822458040323/video/1",
+              "media_key": "13_2107710800622411776",
+              "start": 29,
+              "url": "https://t.co/4Wa8QgFZ8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108365895643156680",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107710800622411776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107710822458040323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MDCN9919: 秋はメジコンの産卵期なのじゃ https://t.co/4Wa8QgFZ8l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107710800622411776"
+          ]
+        },
+        "author_id": "2053072097887358976",
+        "conversation_id": "2107710822458040323",
+        "created_at": "2026-10-07T05:53:14.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107710822458040323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Wa8QgFZ8l",
+              "end": 38,
+              "expanded_url": "https://x.com/MDCN9919/status/2107710822458040323/video/1",
+              "media_key": "13_2107710800622411776",
+              "start": 15,
+              "url": "https://t.co/4Wa8QgFZ8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107710822458040323",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107710800622411776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 20658,
+          "like_count": 845,
+          "quote_count": 33,
+          "reply_count": 12,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "秋はメジコンの産卵期なのじゃ https://t.co/4Wa8QgFZ8l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2108365895643156680",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 874,
+          "like_count": 12231,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2592
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T11:18:41.000Z",
+        "description": "ぬいぐるみを抱いて寝るおじ",
+        "id": "2053072097887358976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108332460253778294",
+        "name": "シャドバンの青ちゅ〜",
+        "pinned_tweet_id": "2097930365088534928",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053072097887358976/1782093957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053072662675787776/m6x5JfB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 610,
+          "like_count": 21062,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "MDCN9919",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

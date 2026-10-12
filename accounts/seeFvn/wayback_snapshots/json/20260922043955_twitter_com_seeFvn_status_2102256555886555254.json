@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2102256555886555254",
+    "created_at": "2026-09-22T04:39:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102256555886555254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102256555886555254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102058597933101408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: 我个人是支持药用大麻合法化的\n总体来看，大麻的精神活性物质有两种，THC和CBD\nTHC在特定情况下可以取代诸如羟考酮这类中强效阿片类药物给有长期疼痛的病人使用\n并且THC的成瘾性显著更低，戒断反应显著更轻\n至于CBD，在特定情况下，它可以取代焦虑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2102256555886555254",
+        "created_at": "2026-09-22T04:39:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102256555886555254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102256555886555254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102058597933101408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: 我个人是支持药用大麻合法化的\n总体来看，大麻的精神活性物质有两种，THC和CBD\nTHC在特定情况下可以取代诸如羟考酮这类中强效阿片类药物给有长期疼痛的病人使用\n并且THC的成瘾性显著更低，戒断反应显著更轻\n至于CBD，在特定情况下，它可以取代焦虑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2102058597933101408",
+        "created_at": "2026-09-21T15:33:18.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102058597933101408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stolly21_tg/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/stolly21_tg/status/2101919892421357786",
+              "start": 138,
+              "url": "https://t.co/fvTXXB8RFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102058597933101408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我个人是支持药用大麻合法化的\n总体来看，大麻的精神活性物质有两种，THC和CBD\nTHC在特定情况下可以取代诸如羟考酮这类中强效阿片类药物给有长期疼痛的病人使用\n并且THC的成瘾性显著更低，戒断反应显著更轻\n至于CBD，在特定情况下，它可以取代焦虑症患者使用的苯二氮䓬类药物\n并且成瘾性比苯二氮䓬类药物更低，戒断反应更轻"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3919,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101919892421357786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我个人是支持药用大麻合法化的\n总体来看，大麻的精神活性物质有两种，THC和CBD\nTHC在特定情况下可以取代诸如羟考酮这类中强效阿片类药物给有长期疼痛的病人使用\n并且THC的成瘾性显著更低，戒断反应显著更轻\n至于CBD，在特定情况下，它可以取代焦虑症患者使用的苯二氮䓬类药物 https://t.co/fvTXXB8RFr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2102256555886555254",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 803,
+          "like_count": 11348,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtX(post surgery)/mentally challenged(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 149,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 126,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "is_identity_verified": false,
+        "location": "Shanghai, china",
+        "most_recent_tweet_id": "2102209087060803881",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2097394254385696946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994208371040337921/1755939838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3386,
+          "following_count": 2136,
+          "like_count": 3623,
+          "listed_count": 17,
+          "media_count": 1726,
+          "tweet_count": 14596
+        },
+        "url": "",
+        "username": "litztsong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

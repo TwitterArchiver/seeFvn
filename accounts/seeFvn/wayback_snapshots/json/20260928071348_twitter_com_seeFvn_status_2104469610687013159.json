@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2104445242971996455",
+    "created_at": "2026-09-28T07:13:48.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104469610687013159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629877998148042757",
+          "start": 0,
+          "username": "99905230523aol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104469610687013159",
+    "in_reply_to_user_id": "1629877998148042757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104445242971996455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99905230523aol 普瑞巴林是一个很好的药物 这是我最爱的药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104445242971996455",
+        "created_at": "2026-09-28T07:13:48.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104469610687013159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629877998148042757",
+              "start": 0,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104469610687013159",
+        "in_reply_to_user_id": "1629877998148042757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104445242971996455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99905230523aol 普瑞巴林是一个很好的药物 这是我最爱的药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629877998148042757",
+        "conversation_id": "2104445242971996455",
+        "created_at": "2026-09-28T05:36:59.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:36:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104445134796624099",
+          "2104445242971996455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104445242971996455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这里分享个人体验普瑞巴林全部药效\n1.音乐欣赏能力增强（剂量越大越明显）\n2.性欲亢进（对任何人都能发情，如果你跟别人一起o的话极易发展成恋爱关系，尽管这种关系在药效消退可以几乎完全消失）\n3.神经认知偏差，突然感觉变得聪明并伴随夸大观念\n4.欣快\n5.尼古丁吸收增强，烟可以说是肌肉松弛剂会有放松全部身体效果。烟瘾增强，控制感削弱\n6.强烈社交渴望\n7.轻躁狂发作\n8.空虚感，在7h后药效衰退时极为强烈\n9.同理心增强"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 217,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里分享个人体验普瑞巴林全部药效\n1.音乐欣赏能力增强（剂量越大越明显）\n2.性欲亢进（对任何人都能发情，如果你跟别人一起o的话极易发展成恋爱关系，尽管这种关系在药效消退可以几乎完全消失）\n3.神经认知偏差，突然感觉变得聪明并伴随夸大观念\n4.欣快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104469610687013159",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 844,
+          "like_count": 11690,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2504
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，虚无加速主义，后性别主义Postgenderism/支持致幻剂合法化，大麻合法化/双性恋/高功能孤独症谱系/支持神经多样性运动/双相伴混合特征",
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "激进主义分子",
+        "most_recent_tweet_id": "2104445242971996455",
+        "name": "无政府主义联盟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1790409902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 116,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

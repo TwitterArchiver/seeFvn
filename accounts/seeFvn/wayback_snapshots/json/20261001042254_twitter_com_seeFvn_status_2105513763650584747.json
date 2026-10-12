@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2105488572849725685",
+    "created_at": "2026-10-01T04:22:54.000Z",
+    "display_text_range": [
+      9,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T05:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105513763650584747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105513763650584747",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105488572849725685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 阿普唑仑和 sns 我这里一直不可以同时开好像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2105488559792857088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgysJUaIAAXrQb.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2105488572849725685",
+        "created_at": "2026-10-01T04:22:54.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105513763650584747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105513763650584747",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105488572849725685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 阿普唑仑和 sns 我这里一直不可以同时开好像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105488559792857088"
+          ]
+        },
+        "author_id": "1426079620906975232",
+        "conversation_id": "2105488572849725685",
+        "created_at": "2026-10-01T02:42:48.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105488572849725685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFT78DlyTM",
+              "end": 93,
+              "expanded_url": "https://x.com/fan_rbq/status/2105488572849725685/photo/1",
+              "media_key": "3_2105488559792857088",
+              "start": 70,
+              "url": "https://t.co/tFT78DlyTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105488572849725685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105488559792857088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了奥氮平和阿普呢\n\n另外，现在开药很麻烦，需要身份证，填写精神药品知情表（应该是什么叫的吧）\n\n再另外 阿普唑仑和思诺思是不可以同时开了 https://t.co/tFT78DlyTM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.12574,
+                  51.50853
+                ],
+                "type": "Point"
+              },
+              "locality": "London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "London, England",
+        "most_recent_tweet_id": "2105513763650584747",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 864,
+          "like_count": 11900,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  🔪？  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2105488572849725685",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 182,
+          "like_count": 3438,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

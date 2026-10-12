@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "conversation_id": "2104459835203064131",
+    "created_at": "2026-09-28T18:01:30.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104632605924794737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047454675230769152",
+          "start": 0,
+          "username": "rurika2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104632605924794737",
+    "in_reply_to_user_id": "2047454675230769152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104613003018502360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rurika2006 是的…感觉没有太多作用 戒断也难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104459835203064131",
+        "created_at": "2026-09-28T18:01:30.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104632605924794737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047454675230769152",
+              "start": 0,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104632605924794737",
+        "in_reply_to_user_id": "2047454675230769152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104613003018502360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurika2006 是的…感觉没有太多作用 戒断也难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047454675230769152",
+        "conversation_id": "2104459835203064131",
+        "created_at": "2026-09-28T16:43:36.000Z",
+        "display_text_range": [
+          8,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104613003018502360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104613003018502360",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104459835203064131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 这个我也不想吃了。。不知道加量有没有用但是现在对我没用，甚至更焦虑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104632605924794737",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 851,
+          "like_count": 11724,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2515
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "english/中文\n伴精双相/焦虑/ptsd/谱系+adhd/不od/戒🔪🩸中/精品神药品鉴员\n社科生/二次元/穿搭爱好者",
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "Asia",
+        "most_recent_tweet_id": "2104624869711179990",
+        "name": "琉璃花",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 61,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

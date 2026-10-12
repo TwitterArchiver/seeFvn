@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1980612830824132609",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2101889809841258823",
+    "created_at": "2026-09-21T04:22:36.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T05:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101889809841258823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyfexc45/stat…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/yyyfexc45/status/2101567416115642588",
+          "start": 128,
+          "url": "https://t.co/iVdqAGNOSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101889809841258823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101567416115642588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建造你的完美国家：\n\n教育：🇺🇸\n经济：🇺🇸\n安全：🇺🇸\n军队：🇺🇸\n宗教：🇺🇸\n健康：🇺🇸\nLGBT 权利：🇪🇺\n妇女权利：🇪🇺\n基础设施：🇺🇸\n移民：  🇪🇺\n政治制度：🇪🇺\n自由：  🇺🇸\n气候：🇺🇸\n人民：🇺🇸\n地理：🇺🇸\n美食：🇺🇸\n风景：🇺🇸 https://t.co/iVdqAGNOSA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2101889809841258823",
+        "created_at": "2026-09-21T04:22:36.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101889809841258823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyfexc45/stat…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/yyyfexc45/status/2101567416115642588",
+              "start": 128,
+              "url": "https://t.co/iVdqAGNOSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101889809841258823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101567416115642588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建造你的完美国家：\n\n教育：🇺🇸\n经济：🇺🇸\n安全：🇺🇸\n军队：🇺🇸\n宗教：🇺🇸\n健康：🇺🇸\nLGBT 权利：🇪🇺\n妇女权利：🇪🇺\n基础设施：🇺🇸\n移民：  🇪🇺\n政治制度：🇪🇺\n自由：  🇺🇸\n气候：🇺🇸\n人民：🇺🇸\n地理：🇺🇸\n美食：🇺🇸\n风景：🇺🇸 https://t.co/iVdqAGNOSA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164441995298742272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BR - Conversation about education system in Brazil inside the political world.",
+              "id": "953325182566871040",
+              "name": "Education System in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about healthcare system in Brazil inside the political world.",
+              "id": "966317888993878016",
+              "name": "Healthcare System in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Environmentally/wildlife aware discussion and policies that affect them.",
+              "id": "874811014151192576",
+              "name": "Global Environmental Issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2101567416115642588",
+        "created_at": "2026-09-20T07:01:31.000Z",
+        "display_text_range": [
+          0,
+          206
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101567416115642588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JCoelhoNetto/s…",
+              "end": 230,
+              "expanded_url": "https://twitter.com/JCoelhoNetto/status/2100682558853808414",
+              "start": 207,
+              "url": "https://t.co/XRdnoeZGyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101567416115642588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13909,
+          "like_count": 161,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100682558853808414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建造你的完美国家：\n\n教育：🏳️‍⚧️  \n经济：🏳️‍⚧️  \n安全：🏳️‍⚧️  \n军队：🏳️‍⚧️  \n宗教：🏳️‍⚧️  \n健康：🏳️‍⚧️  \nLGBT 权利：🏳️‍⚧️  \n妇女权利：🏳️‍⚧️  \n基础设施：🏳️‍⚧️  \n移民：🏳️‍⚧️  \n政治制度：🏳️‍⚧️  \n自由：🏳️‍⚧️  \n气候：🏳️‍⚧️  \n人民：🏳️‍⚧️  \n地理：🏳️‍⚧️  \n美食：🏳️‍⚧️  \n风景：🏳️‍⚧️ https://t.co/XRdnoeZGyg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2101889809841258823",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 797,
+          "like_count": 11261,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2396
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx/f | intp | 无证 | hrt 2026.5.12 | 165/48\n社恐 | 精神状态诡异 | 立场混沌\n术 | 烤 | 粥 | 单机 pc/ns\n查成分互fo\n备用机@xxxfexc414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "xxxfexc414"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fexc45",
+                "end": 23,
+                "expanded_url": "http://t.me/fexc45",
+                "start": 0,
+                "url": "https://t.co/aN98VkxSqs"
+              }
+            ]
+          }
+        },
+        "id": "1164441995298742272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101882526629564457",
+        "name": "fexc45",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164441995298742272/1787363058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095814321532203008/BNVD711o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 804,
+          "like_count": 4080,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/aN98VkxSqs",
+        "username": "yyyfexc45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

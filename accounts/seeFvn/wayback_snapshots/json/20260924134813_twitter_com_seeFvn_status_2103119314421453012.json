@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102709799431593984",
+        "3_2102709799427489792",
+        "3_2102709799431569408"
+      ],
+      "media_source_tweet_id": [
+        "2102709818268192950",
+        "2102709818268192950",
+        "2102709818268192950"
+      ]
+    },
+    "author_id": "1980612830824132609",
+    "conversation_id": "2103119314421453012",
+    "created_at": "2026-09-24T13:48:13.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103119314421453012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096845409763377152",
+          "start": 3,
+          "username": "Xingqierdpri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yvwrx91KsP",
+          "end": 49,
+          "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+          "media_key": "3_2102709799431593984",
+          "start": 26,
+          "url": "https://t.co/Yvwrx91KsP"
+        },
+        {
+          "display_url": "pic.x.com/Yvwrx91KsP",
+          "end": 49,
+          "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+          "media_key": "3_2102709799427489792",
+          "start": 26,
+          "url": "https://t.co/Yvwrx91KsP"
+        },
+        {
+          "display_url": "pic.x.com/Yvwrx91KsP",
+          "end": 49,
+          "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+          "media_key": "3_2102709799431569408",
+          "start": 26,
+          "url": "https://t.co/Yvwrx91KsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103119314421453012",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102709799431593984"
+      },
+      {
+        "media_key": "3_2102709799427489792"
+      },
+      {
+        "media_key": "3_2102709799431569408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102709818268192950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xingqierdpri: 討厭健全的原因 https://t.co/Yvwrx91KsP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102709799431593984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5TbATaYAA45so.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102709799427489792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5TbASbwAA24Hi.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102709799431569408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5TbATaAAAiw4v.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102709799431593984",
+            "3_2102709799427489792",
+            "3_2102709799431569408"
+          ],
+          "media_source_tweet_id": [
+            "2102709818268192950",
+            "2102709818268192950",
+            "2102709818268192950"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2103119314421453012",
+        "created_at": "2026-09-24T13:48:13.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103119314421453012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096845409763377152",
+              "start": 3,
+              "username": "Xingqierdpri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 49,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799431593984",
+              "start": 26,
+              "url": "https://t.co/Yvwrx91KsP"
+            },
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 49,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799427489792",
+              "start": 26,
+              "url": "https://t.co/Yvwrx91KsP"
+            },
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 49,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799431569408",
+              "start": 26,
+              "url": "https://t.co/Yvwrx91KsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103119314421453012",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102709799431593984"
+          },
+          {
+            "media_key": "3_2102709799427489792"
+          },
+          {
+            "media_key": "3_2102709799431569408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102709818268192950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xingqierdpri: 討厭健全的原因 https://t.co/Yvwrx91KsP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102709799431593984",
+            "3_2102709799427489792",
+            "3_2102709799431569408"
+          ]
+        },
+        "author_id": "2096845409763377152",
+        "conversation_id": "2102709818268192950",
+        "created_at": "2026-09-23T10:41:01.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102709818268192950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 31,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799431593984",
+              "start": 8,
+              "url": "https://t.co/Yvwrx91KsP"
+            },
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 31,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799427489792",
+              "start": 8,
+              "url": "https://t.co/Yvwrx91KsP"
+            },
+            {
+              "display_url": "pic.x.com/Yvwrx91KsP",
+              "end": 31,
+              "expanded_url": "https://x.com/Xingqierdpri/status/2102709818268192950/photo/1",
+              "media_key": "3_2102709799431569408",
+              "start": 8,
+              "url": "https://t.co/Yvwrx91KsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102709818268192950",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102709799431593984"
+          },
+          {
+            "media_key": "3_2102709799427489792"
+          },
+          {
+            "media_key": "3_2102709799431569408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 77025,
+          "like_count": 815,
+          "quote_count": 8,
+          "reply_count": 190,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "討厭健全的原因 https://t.co/Yvwrx91KsP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Los Angeles, California, United States",
+              "geo": {
+                "coordinates": [
+                  -118.24368,
+                  34.05223
+                ],
+                "type": "Point"
+              },
+              "locality": "Los Angeles",
+              "region": "California",
+              "sub_region": "Los Angeles County"
+            }
+          ]
+        },
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2103119314421453012",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 811,
+          "like_count": 11536,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 2454
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼",
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103114289813049634",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2102674264281485347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1788762046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096845690005803008/WCHw0GaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 104,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
